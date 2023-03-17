@@ -1,0 +1,161 @@
+league,season,team,spi,win_forecast
+Argentina: Primera División,2023,River Plate,61.2747,0.3528
+Argentina: Primera División,2023,Boca Juniors,49.31412,0.09385
+Argentina: Primera División,2023,Velez Sarsfield,48.04413,0.07975
+Argentina: Primera División,2023,Huracán,44.51541,0.0749
+Argentina: Primera División,2023,Talleres de Córdoba,46.51497,0.0614
+Argentina: Primera División,2023,Argentinos Juniors,45.45323,0.0471
+Argentina: Primera División,2023,San Lorenzo,44.46303,0.04085
+Argentina: Primera División,2023,Tigre,43.61246,0.04475
+Argentina: Primera División,2023,Racing Club,44.45469,0.02745
+Argentina: Primera División,2023,Lanus,37.98855,0.02735
+Argentina: Primera División,2023,Newell's Old Boys,39.68478,0.0235
+Argentina: Primera División,2023,Rosario Central,39.1486,0.0223
+Argentina: Primera División,2023,CA Independiente,39.45831,0.01925
+Argentina: Primera División,2023,Defensa y Justicia,37.52912,0.01365
+Argentina: Primera División,2023,Estudiantes,40.23961,0.0138
+Argentina: Primera División,2023,Platense,33.60833,0.00885
+Argentina: Primera División,2023,Godoy Cruz,31.58515,0.00745
+Argentina: Primera División,2023,Belgrano Cordoba,32.18618,0.00695
+Argentina: Primera División,2023,Barracas Central,33.46264,0.0067
+Argentina: Primera División,2023,Colon Santa Fe,36.15488,0.00505
+Argentina: Primera División,2023,Banfield,34.25808,0.0045
+Argentina: Primera División,2023,Instituto,30.85813,0.0039
+Argentina: Primera División,2023,Central Córdoba Santiago del Estero,32.94528,0.0033
+Argentina: Primera División,2023,Union Santa Fe,33.16434,0.00305
+Argentina: Primera División,2023,Atlético Tucumán,32.90183,0.0023
+Argentina: Primera División,2023,Gimnasia La Plata,32.77271,0.0018
+Argentina: Primera División,2023,Sarmiento,31.9552,0.002
+Argentina: Primera División,2023,Arsenal Sarandi,30.77894,0.00145
+Argentina: Primera División,2022,River Plate,63.31045,0.30165
+Argentina: Primera División,2022,Boca Juniors,53.26826,0.1428
+Argentina: Primera División,2022,Argentinos Juniors,42.80309,0.0908
+Argentina: Primera División,2022,Godoy Cruz,39.19666,0.07195
+Argentina: Primera División,2022,Huracán,39.44909,0.06735
+Argentina: Primera División,2022,Racing Club,42.03874,0.06785
+Argentina: Primera División,2022,Union Santa Fe,38.48833,0.04365
+Argentina: Primera División,2022,Newell's Old Boys,35.93014,0.0411
+Argentina: Primera División,2022,Gimnasia La Plata,36.42328,0.0301
+Argentina: Primera División,2022,Atlético Tucumán,30.68068,0.02135
+Argentina: Primera División,2022,Platense,34.65601,0.01885
+Argentina: Primera División,2022,Banfield,38.32826,0.018
+Argentina: Primera División,2022,Velez Sarsfield,47.09261,0.01295
+Argentina: Primera División,2022,Defensa y Justicia,42.89312,0.0111
+Argentina: Primera División,2022,San Lorenzo,36.1483,0.01155
+Argentina: Primera División,2022,Estudiantes,41.83385,0.0092
+Argentina: Primera División,2022,Colon Santa Fe,36.18308,0.0063
+Argentina: Primera División,2022,Tigre,36.1128,0.0053
+Argentina: Primera División,2022,CA Independiente,38.51883,0.0055
+Argentina: Primera División,2022,Sarmiento,32.12765,0.00415
+Argentina: Primera División,2022,Lanus,39.90001,0.0038
+Argentina: Primera División,2022,Talleres de Córdoba,41.29925,0.0031
+Argentina: Primera División,2022,Arsenal Sarandi,29.68116,0.0033
+Argentina: Primera División,2022,Rosario Central,34.8206,0.0029
+Argentina: Primera División,2022,Patronato,30.26912,0.00315
+Argentina: Primera División,2022,Central Córdoba Santiago del Estero,31.53565,0.00145
+Argentina: Primera División,2022,Barracas Central,29.21882,0.00075
+Argentina: Primera División,2022,Aldosivi,25.20565,0.00005
+Argentina: Primera División,2021,River Plate,64.8724,0.4444
+Argentina: Primera División,2021,CA Independiente,46.11959,0.12285
+Argentina: Primera División,2021,Boca Juniors,54.73589,0.07095
+Argentina: Primera División,2021,Lanus,43.35067,0.06785
+Argentina: Primera División,2021,Newell's Old Boys,41.97637,0.05405
+Argentina: Primera División,2021,Racing Club,43.97143,0.04395
+Argentina: Primera División,2021,Estudiantes,41.35257,0.03995
+Argentina: Primera División,2021,Velez Sarsfield,48.195,0.01925
+Argentina: Primera División,2021,San Lorenzo,39.21525,0.01885
+Argentina: Primera División,2021,Colon Santa Fe,34.62718,0.018
+Argentina: Primera División,2021,Talleres de Córdoba,40.14513,0.021
+Argentina: Primera División,2021,Argentinos Juniors,38.83365,0.0105
+Argentina: Primera División,2021,Defensa y Justicia,41.83789,0.00905
+Argentina: Primera División,2021,Patronato,35.26032,0.0086
+Argentina: Primera División,2021,Gimnasia La Plata,34.49454,0.0092
+Argentina: Primera División,2021,Banfield,36.79975,0.00875
+Argentina: Primera División,2021,Godoy Cruz,31.01847,0.00565
+Argentina: Primera División,2021,Atlético Tucumán,34.72585,0.0075
+Argentina: Primera División,2021,Union Santa Fe,35.08218,0.0058
+Argentina: Primera División,2021,Huracán,34.27784,0.00325
+Argentina: Primera División,2021,Arsenal Sarandi,34.64781,0.0029
+Argentina: Primera División,2021,Aldosivi,28.41239,0.00305
+Argentina: Primera División,2021,Central Córdoba Santiago del Estero,32.20755,0.00175
+Argentina: Primera División,2021,Sarmiento,30.54445,0.00145
+Argentina: Primera División,2021,Rosario Central,34.18581,0.00105
+Argentina: Primera División,2021,Platense,29.8353,0.0004
+Argentina: Primera División,2019,River Plate,66.28502,0.37405
+Argentina: Primera División,2019,Boca Juniors,64.17392,0.2995
+Argentina: Primera División,2019,CA Independiente,51.91228,0.08675
+Argentina: Primera División,2019,Racing Club,55.22679,0.06065
+Argentina: Primera División,2019,San Lorenzo,44.79561,0.03225
+Argentina: Primera División,2019,Velez Sarsfield,52.04817,0.02895
+Argentina: Primera División,2019,Union Santa Fe,43.81129,0.0161
+Argentina: Primera División,2019,Newell's Old Boys,42.2408,0.0159
+Argentina: Primera División,2019,Banfield,44.05555,0.01265
+Argentina: Primera División,2019,Rosario Central,39.11703,0.0098
+Argentina: Primera División,2019,Talleres de Córdoba,41.93857,0.00875
+Argentina: Primera División,2019,Defensa y Justicia,46.43176,0.00905
+Argentina: Primera División,2019,Arsenal Sarandi,37.70468,0.01005
+Argentina: Primera División,2019,Huracán,40.48425,0.0091
+Argentina: Primera División,2019,Argentinos Juniors,41.72772,0.00605
+Argentina: Primera División,2019,Estudiantes,39.11005,0.00415
+Argentina: Primera División,2019,Lanus,41.45818,0.0041
+Argentina: Primera División,2019,Patronato,36.72331,0.0033
+Argentina: Primera División,2019,Central Córdoba Santiago del Estero,36.40142,0.00255
+Argentina: Primera División,2019,Colon Santa Fe,38.08565,0.0012
+Argentina: Primera División,2019,Atlético Tucumán,37.63751,0.0013
+Argentina: Primera División,2019,Aldosivi,36.25194,0.0015
+Argentina: Primera División,2019,Gimnasia La Plata,35.83527,0.00145
+Argentina: Primera División,2019,Godoy Cruz,35.47714,0.00085
+Argentina: Primera División,2018,Boca Juniors,65.4462,0.33415
+Argentina: Primera División,2018,River Plate,60.67823,0.18925
+Argentina: Primera División,2018,CA Independiente,57.35548,0.10865
+Argentina: Primera División,2018,Racing Club,53.65005,0.07465
+Argentina: Primera División,2018,Godoy Cruz,50.18198,0.0428
+Argentina: Primera División,2018,Velez Sarsfield,48.40178,0.02855
+Argentina: Primera División,2018,Defensa y Justicia,48.41085,0.02875
+Argentina: Primera División,2018,San Lorenzo,47.6553,0.02065
+Argentina: Primera División,2018,Talleres de Córdoba,47.32925,0.02385
+Argentina: Primera División,2018,Union Santa Fe,46.51548,0.0197
+Argentina: Primera División,2018,Colon Santa Fe,45.8621,0.01755
+Argentina: Primera División,2018,Belgrano Cordoba,44.51978,0.01545
+Argentina: Primera División,2018,Argentinos Juniors,44.04411,0.01345
+Argentina: Primera División,2018,Lanus,42.37314,0.01075
+Argentina: Primera División,2018,Huracán,42.07589,0.0118
+Argentina: Primera División,2018,Tigre,42.5869,0.0093
+Argentina: Primera División,2018,Estudiantes,42.59537,0.00955
+Argentina: Primera División,2018,Banfield,41.68568,0.00765
+Argentina: Primera División,2018,Rosario Central,39.81948,0.0077
+Argentina: Primera División,2018,San Martin de Tucuman,39.64904,0.0053
+Argentina: Primera División,2018,Aldosivi,39.23503,0.00435
+Argentina: Primera División,2018,Newell's Old Boys,39.23765,0.00405
+Argentina: Primera División,2018,Gimnasia La Plata,38.5463,0.00495
+Argentina: Primera División,2018,San Martin San Juan,37.74947,0.00275
+Argentina: Primera División,2018,Atlético Tucumán,37.06727,0.00265
+Argentina: Primera División,2018,Patronato,35.14349,0.00175
+Argentina: Primera División,2017,Boca Juniors,59.81928,0.1975
+Argentina: Primera División,2017,River Plate,55.54776,0.1064
+Argentina: Primera División,2017,CA Independiente,54.24846,0.0906
+Argentina: Primera División,2017,Racing Club,53.42611,0.0716
+Argentina: Primera División,2017,Lanus,53.39633,0.0735
+Argentina: Primera División,2017,Estudiantes,52.68877,0.0748
+Argentina: Primera División,2017,Defensa y Justicia,52.08624,0.0658
+Argentina: Primera División,2017,San Lorenzo,50.17408,0.0496
+Argentina: Primera División,2017,Rosario Central,48.53209,0.0341
+Argentina: Primera División,2017,Olimpo,47.91972,0.028
+Argentina: Primera División,2017,Velez Sarsfield,47.09423,0.0274
+Argentina: Primera División,2017,Banfield,46.61862,0.0241
+Argentina: Primera División,2017,Godoy Cruz,45.22571,0.019
+Argentina: Primera División,2017,Colon Santa Fe,44.74215,0.0195
+Argentina: Primera División,2017,Talleres de Córdoba,44.3979,0.0201
+Argentina: Primera División,2017,Huracán,42.98049,0.0152
+Argentina: Primera División,2017,Gimnasia La Plata,44.08441,0.0144
+Argentina: Primera División,2017,Newell's Old Boys,41.80748,0.0103
+Argentina: Primera División,2017,Belgrano Cordoba,42.25174,0.0109
+Argentina: Primera División,2017,Temperley,40.66276,0.0073
+Argentina: Primera División,2017,Arsenal Sarandi,40.82306,0.0083
+Argentina: Primera División,2017,Tigre,40.00582,0.0077
+Argentina: Primera División,2017,Atlético Tucumán,39.09645,0.0073
+Argentina: Primera División,2017,Argentinos Juniors,37.92791,0.0042
+Argentina: Primera División,2017,San Martin San Juan,37.78183,0.0043
+Argentina: Primera División,2017,Union Santa Fe,37.74249,0.0037
+Argentina: Primera División,2017,Patronato,37.33188,0.0037
+Argentina: Primera División,2017,Chacarita Juniors,30.47828,0.0007

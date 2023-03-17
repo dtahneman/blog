@@ -1,0 +1,236 @@
+league,season,team,spi,win_forecast
+Mexico: Liga MX,2022c,Monterrey,63.66751,0.21635
+Mexico: Liga MX,2022c,Club América,61.27735,0.17335
+Mexico: Liga MX,2022c,Tigres UANL,60.247,0.1555
+Mexico: Liga MX,2022c,Pachuca,55.94278,0.0946
+Mexico: Liga MX,2022c,Santos Laguna,53.68188,0.0738
+Mexico: Liga MX,2022c,Cruz Azul,52.69783,0.0616
+Mexico: Liga MX,2022c,Guadalajara,51.37503,0.0544
+Mexico: Liga MX,2022c,Atlas,49.63635,0.04865
+Mexico: Liga MX,2022c,León,45.53387,0.0283
+Mexico: Liga MX,2022c,Puebla,43.67178,0.01895
+Mexico: Liga MX,2022c,Atlético San Luis,41.59284,0.01365
+Mexico: Liga MX,2022c,Pumas Unam,41.52539,0.0134
+Mexico: Liga MX,2022c,Toluca,40.63938,0.01145
+Mexico: Liga MX,2022c,Necaxa,39.61829,0.0106
+Mexico: Liga MX,2022c,Mazatlán FC,39.09541,0.0102
+Mexico: Liga MX,2022c,Tijuana,37.86958,0.0073
+Mexico: Liga MX,2022c,Querétaro,36.61581,0.00415
+Mexico: Liga MX,2022c,FC Juárez,34.73853,0.00375
+Mexico: Liga MX,2022a,Monterrey,63.92515,0.21175
+Mexico: Liga MX,2022a,Tigres UANL,62.06612,0.17535
+Mexico: Liga MX,2022a,Club América,60.32249,0.1491
+Mexico: Liga MX,2022a,Pachuca,56.03291,0.0907
+Mexico: Liga MX,2022a,Cruz Azul,55.30026,0.0904
+Mexico: Liga MX,2022a,Santos Laguna,51.83895,0.06005
+Mexico: Liga MX,2022a,Guadalajara,51.36651,0.05725
+Mexico: Liga MX,2022a,Atlas,50.32934,0.0451
+Mexico: Liga MX,2022a,León,47.0793,0.0321
+Mexico: Liga MX,2022a,Puebla,43.03419,0.01645
+Mexico: Liga MX,2022a,Atlético San Luis,42.1015,0.0152
+Mexico: Liga MX,2022a,Pumas Unam,41.30619,0.0139
+Mexico: Liga MX,2022a,Necaxa,39.86181,0.00925
+Mexico: Liga MX,2022a,Mazatlán FC,39.59593,0.009
+Mexico: Liga MX,2022a,Tijuana,39.54404,0.0085
+Mexico: Liga MX,2022a,Querétaro,37.37589,0.0069
+Mexico: Liga MX,2022a,Toluca,38.00209,0.00585
+Mexico: Liga MX,2022a,FC Juárez,33.98855,0.00315
+Mexico: Liga MX,2021c,Monterrey,63.45205,0.20885
+Mexico: Liga MX,2021c,Club América,60.51774,0.149
+Mexico: Liga MX,2021c,Cruz Azul,59.60137,0.14365
+Mexico: Liga MX,2021c,Tigres UANL,57.5547,0.1137
+Mexico: Liga MX,2021c,Santos Laguna,55.51067,0.08925
+Mexico: Liga MX,2021c,León,51.2678,0.05565
+Mexico: Liga MX,2021c,Pachuca,51.21882,0.0521
+Mexico: Liga MX,2021c,Atlas,50.77469,0.05155
+Mexico: Liga MX,2021c,Guadalajara,49.07726,0.04255
+Mexico: Liga MX,2021c,Toluca,42.56334,0.01705
+Mexico: Liga MX,2021c,Puebla,42.23311,0.01605
+Mexico: Liga MX,2021c,Pumas Unam,42.05287,0.0139
+Mexico: Liga MX,2021c,Tijuana,41.2253,0.01265
+Mexico: Liga MX,2021c,Necaxa,38.85122,0.00945
+Mexico: Liga MX,2021c,FC Juárez,38.24799,0.00825
+Mexico: Liga MX,2021c,Atlético San Luis,38.11061,0.0073
+Mexico: Liga MX,2021c,Querétaro,34.90049,0.0046
+Mexico: Liga MX,2021c,Mazatlán FC,36.6045,0.00445
+Mexico: Liga MX,2021a,Monterrey,61.17049,0.20744
+Mexico: Liga MX,2021a,Tigres UANL,56.49864,0.13936
+Mexico: Liga MX,2021a,Club América,57.34707,0.13872
+Mexico: Liga MX,2021a,Cruz Azul,56.46539,0.13522
+Mexico: Liga MX,2021a,Santos Laguna,51.80015,0.07508
+Mexico: Liga MX,2021a,Pachuca,48.73596,0.05402
+Mexico: Liga MX,2021a,León,48.77808,0.05282
+Mexico: Liga MX,2021a,Atlas,46.52701,0.04798
+Mexico: Liga MX,2021a,Guadalajara,46.57546,0.04422
+Mexico: Liga MX,2021a,Pumas Unam,41.33178,0.0234
+Mexico: Liga MX,2021a,Toluca,40.30722,0.0166
+Mexico: Liga MX,2021a,Tijuana,39.51202,0.01622
+Mexico: Liga MX,2021a,Puebla,39.3387,0.01546
+Mexico: Liga MX,2021a,Mazatlán FC,34.56493,0.00826
+Mexico: Liga MX,2021a,Atlético San Luis,35.42123,0.00818
+Mexico: Liga MX,2021a,Necaxa,35.56655,0.00696
+Mexico: Liga MX,2021a,FC Juárez,35.05971,0.00624
+Mexico: Liga MX,2021a,Querétaro,32.44519,0.00382
+Mexico: Liga MX,2020c,Monterrey,60.19617,0.183
+Mexico: Liga MX,2020c,Tigres UANL,58.16078,0.16424
+Mexico: Liga MX,2020c,Cruz Azul,56.81937,0.14008
+Mexico: Liga MX,2020c,Club América,55.03966,0.11876
+Mexico: Liga MX,2020c,Santos Laguna,51.36936,0.08098
+Mexico: Liga MX,2020c,León,50.88839,0.0741
+Mexico: Liga MX,2020c,Pachuca,48.21445,0.05614
+Mexico: Liga MX,2020c,Guadalajara,48.15301,0.0489
+Mexico: Liga MX,2020c,Pumas Unam,44.04119,0.02662
+Mexico: Liga MX,2020c,Tijuana,40.81901,0.01668
+Mexico: Liga MX,2020c,Atlético San Luis,39.41224,0.0159
+Mexico: Liga MX,2020c,Necaxa,39.96771,0.01526
+Mexico: Liga MX,2020c,Atlas,39.43763,0.0137
+Mexico: Liga MX,2020c,Querétaro,37.77277,0.0128
+Mexico: Liga MX,2020c,Toluca,36.70715,0.01182
+Mexico: Liga MX,2020c,FC Juárez,37.08597,0.01096
+Mexico: Liga MX,2020c,Puebla,34.89753,0.00648
+Mexico: Liga MX,2020c,Mazatlán FC,32.41465,0.00358
+Mexico: Liga MX,2020a,Monterrey,60.55593,0.1935
+Mexico: Liga MX,2020a,Tigres UANL,58.46902,0.16715
+Mexico: Liga MX,2020a,Cruz Azul,55.99133,0.1253
+Mexico: Liga MX,2020a,Club América,54.58133,0.11125
+Mexico: Liga MX,2020a,Santos Laguna,53.29024,0.0929
+Mexico: Liga MX,2020a,León,49.27218,0.05835
+Mexico: Liga MX,2020a,Pachuca,48.39216,0.05535
+Mexico: Liga MX,2020a,Guadalajara,47.84925,0.04975
+Mexico: Liga MX,2020a,Tijuana,42.15415,0.0244
+Mexico: Liga MX,2020a,Pumas Unam,41.8216,0.0236
+Mexico: Liga MX,2020a,Necaxa,41.34197,0.02085
+Mexico: Liga MX,2020a,Atlético San Luis,38.62885,0.015
+Mexico: Liga MX,2020a,Atlas,38.85603,0.0139
+Mexico: Liga MX,2020a,Toluca,37.82738,0.0137
+Mexico: Liga MX,2020a,Querétaro,38.35525,0.0131
+Mexico: Liga MX,2020a,FC Juárez,38.00356,0.013
+Mexico: Liga MX,2020a,Puebla,35.79202,0.0079
+Mexico: Liga MX,2020a,Mazatlán FC,25.33501,0.001
+Mexico: Liga MX,2019c,Monterrey,62.99268,0.22775
+Mexico: Liga MX,2019c,Club América,59.49394,0.16055
+Mexico: Liga MX,2019c,Tigres UANL,59.22545,0.1592
+Mexico: Liga MX,2019c,Cruz Azul,55.5593,0.10495
+Mexico: Liga MX,2019c,Santos Laguna,53.2358,0.08065
+Mexico: Liga MX,2019c,Pachuca,49.38679,0.0483
+Mexico: Liga MX,2019c,León,48.13591,0.0447
+Mexico: Liga MX,2019c,Guadalajara,46.4305,0.0369
+Mexico: Liga MX,2019c,Pumas Unam,44.56285,0.0282
+Mexico: Liga MX,2019c,Necaxa,42.39931,0.02155
+Mexico: Liga MX,2019c,Querétaro,43.36299,0.02
+Mexico: Liga MX,2019c,Morelia,42.51722,0.0185
+Mexico: Liga MX,2019c,Tijuana,39.15004,0.01265
+Mexico: Liga MX,2019c,Atlas,39.00351,0.0106
+Mexico: Liga MX,2019c,Toluca,38.35952,0.00985
+Mexico: Liga MX,2019c,Puebla,37.66579,0.00815
+Mexico: Liga MX,2019c,Atlético San Luis,35.32302,0.00545
+Mexico: Liga MX,2019c,FC Juárez,30.5434,0.00205
+Mexico: Liga MX,2019a,Club América,61.60159,0.1875
+Mexico: Liga MX,2019a,Tigres UANL,61.24262,0.1802
+Mexico: Liga MX,2019a,Monterrey,60.71246,0.16715
+Mexico: Liga MX,2019a,Cruz Azul,56.21337,0.10595
+Mexico: Liga MX,2019a,Pachuca,53.4105,0.0731
+Mexico: Liga MX,2019a,León,51.67892,0.06125
+Mexico: Liga MX,2019a,Santos Laguna,49.72359,0.0486
+Mexico: Liga MX,2019a,Toluca,47.55186,0.0365
+Mexico: Liga MX,2019a,Tijuana,44.81604,0.0258
+Mexico: Liga MX,2019a,Guadalajara,44.50475,0.02525
+Mexico: Liga MX,2019a,Necaxa,43.85144,0.02185
+Mexico: Liga MX,2019a,Pumas Unam,42.98856,0.01845
+Mexico: Liga MX,2019a,Atlas,41.01682,0.01375
+Mexico: Liga MX,2019a,Puebla,39.15156,0.01115
+Mexico: Liga MX,2019a,Morelia,38.7167,0.00915
+Mexico: Liga MX,2019a,Querétaro,38.05394,0.0087
+Mexico: Liga MX,2019a,Atlético San Luis,31.92344,0.0026
+Mexico: Liga MX,2019a,FC Juárez,30.26726,0.002
+Mexico: Liga MX,2019a,Veracruz,28.71538,0.00105
+Mexico: Liga MX,2018c,Tigres UANL,62.06471,0.2018
+Mexico: Liga MX,2018c,Club América,61.68301,0.19735
+Mexico: Liga MX,2018c,Monterrey,60.33063,0.1719
+Mexico: Liga MX,2018c,Pachuca,51.74439,0.06825
+Mexico: Liga MX,2018c,Santos Laguna,51.02312,0.0621
+Mexico: Liga MX,2018c,Cruz Azul,50.32389,0.0565
+Mexico: Liga MX,2018c,Toluca,49.82588,0.0519
+Mexico: Liga MX,2018c,Pumas Unam,46.43621,0.03445
+Mexico: Liga MX,2018c,Guadalajara,45.12048,0.02825
+Mexico: Liga MX,2018c,León,44.1702,0.02475
+Mexico: Liga MX,2018c,Tijuana,43.12618,0.01985
+Mexico: Liga MX,2018c,Querétaro,41.04661,0.0164
+Mexico: Liga MX,2018c,Necaxa,41.46451,0.0157
+Mexico: Liga MX,2018c,Morelia,41.01307,0.0152
+Mexico: Liga MX,2018c,Puebla,39.96741,0.0134
+Mexico: Liga MX,2018c,Atlas,39.34814,0.0114
+Mexico: Liga MX,2018c,Lobos de la BUAP,36.81839,0.0082
+Mexico: Liga MX,2018c,Veracruz,32.856,0.0026
+Mexico: Liga MX,2018a,Monterrey,53.73946,0.1677
+Mexico: Liga MX,2018a,Tigres UANL,49.9798,0.12015
+Mexico: Liga MX,2018a,Cruz Azul,48.37021,0.09945
+Mexico: Liga MX,2018a,Santos Laguna,48.68341,0.0963
+Mexico: Liga MX,2018a,Club América,47.39394,0.08505
+Mexico: Liga MX,2018a,Toluca,45.99207,0.07225
+Mexico: Liga MX,2018a,Tijuana,43.3863,0.0562
+Mexico: Liga MX,2018a,Pachuca,42.9611,0.0493
+Mexico: Liga MX,2018a,Necaxa,42.1153,0.04835
+Mexico: Liga MX,2018a,Guadalajara,39.94549,0.03515
+Mexico: Liga MX,2018a,León,39.59752,0.0274
+Mexico: Liga MX,2018a,Morelia,38.88133,0.0267
+Mexico: Liga MX,2018a,Puebla,38.5911,0.0264
+Mexico: Liga MX,2018a,Atlas,38.00598,0.0262
+Mexico: Liga MX,2018a,Pumas Unam,37.48871,0.01965
+Mexico: Liga MX,2018a,Querétaro,35.67269,0.01655
+Mexico: Liga MX,2018a,Lobos de la BUAP,35.82753,0.01635
+Mexico: Liga MX,2018a,Veracruz,32.67356,0.01085
+Mexico: Liga MX,2017c,Tigres UANL,56.0072,0.20885
+Mexico: Liga MX,2017c,Monterrey,55.92905,0.20425
+Mexico: Liga MX,2017c,Cruz Azul,46.07877,0.0786
+Mexico: Liga MX,2017c,León,44.51046,0.05555
+Mexico: Liga MX,2017c,Toluca,43.50674,0.05005
+Mexico: Liga MX,2017c,Santos Laguna,43.48018,0.04825
+Mexico: Liga MX,2017c,Tijuana,41.97186,0.042
+Mexico: Liga MX,2017c,Pachuca,42.63473,0.04155
+Mexico: Liga MX,2017c,Club América,40.79554,0.0388
+Mexico: Liga MX,2017c,Atlas,41.43085,0.03695
+Mexico: Liga MX,2017c,Guadalajara,40.41527,0.0343
+Mexico: Liga MX,2017c,Necaxa,39.88219,0.03405
+Mexico: Liga MX,2017c,Morelia,40.1587,0.0333
+Mexico: Liga MX,2017c,Puebla,38.12876,0.0253
+Mexico: Liga MX,2017c,Lobos de la BUAP,38.50888,0.0245
+Mexico: Liga MX,2017c,Pumas Unam,36.54802,0.02045
+Mexico: Liga MX,2017c,Querétaro,34.96721,0.01425
+Mexico: Liga MX,2017c,Veracruz,32.03569,0.009
+Mexico: Liga MX,2017a,Tigres UANL,,0.19546
+Mexico: Liga MX,2017a,Monterrey,,0.1512
+Mexico: Liga MX,2017a,Cruz Azul,,0.0905
+Mexico: Liga MX,2017a,Toluca,,0.0743
+Mexico: Liga MX,2017a,Club América,,0.0722
+Mexico: Liga MX,2017a,Atlas,,0.06364
+Mexico: Liga MX,2017a,Guadalajara,,0.05982
+Mexico: Liga MX,2017a,Santos Laguna,,0.05368
+Mexico: Liga MX,2017a,Necaxa,,0.0505
+Mexico: Liga MX,2017a,Pachuca,,0.02732
+Mexico: Liga MX,2017a,Morelia,,0.0263
+Mexico: Liga MX,2017a,León,,0.02614
+Mexico: Liga MX,2017a,Pumas Unam,,0.02592
+Mexico: Liga MX,2017a,Querétaro,,0.02392
+Mexico: Liga MX,2017a,Lobos de la BUAP,,0.02046
+Mexico: Liga MX,2017a,Veracruz,,0.01406
+Mexico: Liga MX,2017a,Tijuana,,0.01306
+Mexico: Liga MX,2017a,Puebla,,0.01152
+Mexico: Liga MX,2016c,Tijuana,,0.13914
+Mexico: Liga MX,2016c,Pachuca,,0.12394
+Mexico: Liga MX,2016c,Monterrey,,0.12166
+Mexico: Liga MX,2016c,Toluca,,0.09226
+Mexico: Liga MX,2016c,Guadalajara,,0.08176
+Mexico: Liga MX,2016c,Club América,,0.0678
+Mexico: Liga MX,2016c,Pumas Unam,,0.0592
+Mexico: Liga MX,2016c,Santos Laguna,,0.05544
+Mexico: Liga MX,2016c,Atlas,,0.0516
+Mexico: Liga MX,2016c,Tigres UANL,,0.05082
+Mexico: Liga MX,2016c,Querétaro,,0.04536
+Mexico: Liga MX,2016c,Puebla,,0.02476
+Mexico: Liga MX,2016c,Necaxa,,0.02002
+Mexico: Liga MX,2016c,Morelia,,0.01738
+Mexico: Liga MX,2016c,Cruz Azul,,0.0168
+Mexico: Liga MX,2016c,Chiapas FC,,0.01492
+Mexico: Liga MX,2016c,León,,0.0098
+Mexico: Liga MX,2016c,Veracruz,,0.00734

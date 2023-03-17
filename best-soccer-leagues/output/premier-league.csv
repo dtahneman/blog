@@ -1,0 +1,141 @@
+league,season,team,spi,win_forecast
+England: Premier League,2022,Manchester City,92.30938,0.4649
+England: Premier League,2022,Liverpool,90.50601,0.29865
+England: Premier League,2022,Chelsea,85.73436,0.1083
+England: Premier League,2022,Tottenham Hotspur,81.87166,0.0506
+England: Premier League,2022,Arsenal,78.53142,0.02475
+England: Premier League,2022,Manchester United,75.24719,0.0132
+England: Premier League,2022,Aston Villa,74.05358,0.00995
+England: Premier League,2022,Brighton and Hove Albion,73.73685,0.00735
+England: Premier League,2022,Leicester City,71.23603,0.00475
+England: Premier League,2022,West Ham United,70.62399,0.00455
+England: Premier League,2022,Crystal Palace,71.35718,0.00355
+England: Premier League,2022,Brentford,68.58373,0.00285
+England: Premier League,2022,Newcastle,68.6461,0.0022
+England: Premier League,2022,Wolverhampton,67.71679,0.00195
+England: Premier League,2022,Everton,63.81673,0.0007
+England: Premier League,2022,Leeds United,62.15335,0.0005
+England: Premier League,2022,Southampton,61.33244,0.00085
+England: Premier League,2022,Fulham,58.70397,0.00015
+England: Premier League,2022,AFC Bournemouth,57.91809,0.00015
+England: Premier League,2022,Nottingham Forest,57.30616,0.0001
+England: Premier League,2021,Manchester City,92.12502,0.40105
+England: Premier League,2021,Liverpool,88.6996,0.20805
+England: Premier League,2021,Chelsea,88.802,0.16435
+England: Premier League,2021,Manchester United,85.72713,0.10055
+England: Premier League,2021,Arsenal,81.18022,0.0332
+England: Premier League,2021,Tottenham Hotspur,79.30157,0.03075
+England: Premier League,2021,Leicester City,78.19471,0.02015
+England: Premier League,2021,West Ham United,73.88539,0.0085
+England: Premier League,2021,Brighton and Hove Albion,74.59496,0.00645
+England: Premier League,2021,Aston Villa,72.78676,0.0067
+England: Premier League,2021,Leeds United,72.58355,0.0056
+England: Premier League,2021,Everton,73.44898,0.0061
+England: Premier League,2021,Wolverhampton,70.87942,0.00225
+England: Premier League,2021,Newcastle,67.2147,0.0019
+England: Premier League,2021,Southampton,67.03964,0.0019
+England: Premier League,2021,Burnley,65.29739,0.00065
+England: Premier League,2021,Brentford,63.26307,0.00055
+England: Premier League,2021,Crystal Palace,63.0125,0.00045
+England: Premier League,2021,Norwich City,61.98781,0.0006
+England: Premier League,2021,Watford,61.40379,0.00025
+England: Premier League,2020,Manchester City,94.11285,0.5692
+England: Premier League,2020,Liverpool,91.06966,0.2441
+England: Premier League,2020,Manchester United,86.8319,0.0757
+England: Premier League,2020,Chelsea,85.37204,0.06525
+England: Premier League,2020,Tottenham Hotspur,78.50745,0.01055
+England: Premier League,2020,Leicester City,79.02248,0.01005
+England: Premier League,2020,Arsenal,77.1636,0.0072
+England: Premier League,2020,Wolverhampton,78.00348,0.0069
+England: Premier League,2020,Everton,74.04602,0.0025
+England: Premier League,2020,Southampton,72.47932,0.0029
+England: Premier League,2020,West Ham United,70.3816,0.0015
+England: Premier League,2020,Burnley,69.08173,0.001
+England: Premier League,2020,Sheffield United,69.20166,0.001
+England: Premier League,2020,Brighton and Hove Albion,68.02657,0.00075
+England: Premier League,2020,Crystal Palace,67.69013,0.00035
+England: Premier League,2020,Aston Villa,66.48339,0.0003
+England: Premier League,2020,Newcastle,64.72499,0.0004
+England: Premier League,2020,Fulham,64.17512,0.00005
+England: Premier League,2020,Leeds United,64.08564,0.0002
+England: Premier League,2020,West Bromwich Albion,61.66534,0.0001
+England: Premier League,2019,Manchester City,94.23681,0.5468
+England: Premier League,2019,Liverpool,92.87665,0.3118
+England: Premier League,2019,Chelsea,85.88303,0.0541
+England: Premier League,2019,Tottenham Hotspur,85.07161,0.0402
+England: Premier League,2019,Arsenal,79.71889,0.01435
+England: Premier League,2019,Manchester United,79.98698,0.0136
+England: Premier League,2019,Everton,78.66362,0.0072
+England: Premier League,2019,Leicester City,75.27773,0.00265
+England: Premier League,2019,Wolverhampton,74.04737,0.00265
+England: Premier League,2019,Crystal Palace,71.01855,0.00155
+England: Premier League,2019,AFC Bournemouth,69.61347,0.00115
+England: Premier League,2019,West Ham United,69.96883,0.001
+England: Premier League,2019,Newcastle,70.32569,0.00105
+England: Premier League,2019,Southampton,68.56769,0.0005
+England: Premier League,2019,Watford,67.64381,0.00055
+England: Premier League,2019,Burnley,67.63181,0.00035
+England: Premier League,2019,Aston Villa,64.64334,0.0003
+England: Premier League,2019,Brighton and Hove Albion,62.74012,0.00005
+England: Premier League,2019,Norwich City,62.32591,0.0001
+England: Premier League,2019,Sheffield United,61.84024,0.00005
+England: Premier League,2018,Manchester City,92.12691,0.45135
+England: Premier League,2018,Liverpool,88.86264,0.23885
+England: Premier League,2018,Tottenham Hotspur,85.7547,0.1097
+England: Premier League,2018,Chelsea,84.39485,0.0803
+England: Premier League,2018,Arsenal,81.56844,0.0601
+England: Premier League,2018,Manchester United,82.66418,0.04705
+England: Premier League,2018,Crystal Palace,70.1979,0.0024
+England: Premier League,2018,Leicester City,69.63911,0.00215
+England: Premier League,2018,Southampton,68.01394,0.00095
+England: Premier League,2018,Everton,67.48961,0.00145
+England: Premier League,2018,Newcastle,67.20546,0.00115
+England: Premier League,2018,Watford,66.06509,0.0008
+England: Premier League,2018,West Ham United,64.53605,0.00055
+England: Premier League,2018,Burnley,64.96905,0.00055
+England: Premier League,2018,Fulham,64.40904,0.00065
+England: Premier League,2018,AFC Bournemouth,62.74846,0.0007
+England: Premier League,2018,Wolverhampton,62.92449,0.00045
+England: Premier League,2018,Brighton and Hove Albion,63.07625,0.00045
+England: Premier League,2018,Huddersfield Town,60.19528,0.0001
+England: Premier League,2018,Cardiff City,59.46579,0.0003
+England: Premier League,2017,Manchester City,84.23984,0.26878
+England: Premier League,2017,Chelsea,82.79295,0.20472
+England: Premier League,2017,Manchester United,82.20378,0.1812
+England: Premier League,2017,Tottenham Hotspur,80.32552,0.1334
+England: Premier League,2017,Arsenal,78.21904,0.0956
+England: Premier League,2017,Liverpool,77.19238,0.08054
+England: Premier League,2017,Everton,67.11223,0.01088
+England: Premier League,2017,Southampton,63.40443,0.0056
+England: Premier League,2017,Leicester City,61.81982,0.00364
+England: Premier League,2017,Stoke City,60.85738,0.00302
+England: Premier League,2017,West Ham United,60.42869,0.00312
+England: Premier League,2017,Burnley,59.80903,0.0022
+England: Premier League,2017,Crystal Palace,59.52393,0.00198
+England: Premier League,2017,AFC Bournemouth,58.29951,0.00174
+England: Premier League,2017,Swansea City,57.77869,0.00152
+England: Premier League,2017,West Bromwich Albion,56.27055,0.00088
+England: Premier League,2017,Watford,54.30531,0.0007
+England: Premier League,2017,Newcastle,52.05936,0.00032
+England: Premier League,2017,Brighton and Hove Albion,47.49185,0.00012
+England: Premier League,2017,Huddersfield Town,44.62167,0.00004
+England: Premier League,2016,Manchester City,,0.4145
+England: Premier League,2016,Arsenal,,0.1818
+England: Premier League,2016,Chelsea,,0.1429
+England: Premier League,2016,Manchester United,,0.1083
+England: Premier League,2016,Liverpool,,0.072
+England: Premier League,2016,Tottenham Hotspur,,0.0288
+England: Premier League,2016,Southampton,,0.0127
+England: Premier League,2016,Everton,,0.0116
+England: Premier League,2016,Leicester City,,0.0076
+England: Premier League,2016,West Ham United,,0.0041
+England: Premier League,2016,AFC Bournemouth,,0.0031
+England: Premier League,2016,Stoke City,,0.0015
+England: Premier League,2016,Middlesbrough,,0.0021
+England: Premier League,2016,Watford,,0.002
+England: Premier League,2016,Swansea City,,0.0019
+England: Premier League,2016,Burnley,,0.0013
+England: Premier League,2016,West Bromwich Albion,,0.0015
+England: Premier League,2016,Hull City,,0.0012
+England: Premier League,2016,Sunderland,,0.0007
+England: Premier League,2016,Crystal Palace,,0.0004

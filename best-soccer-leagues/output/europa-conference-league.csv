@@ -1,0 +1,129 @@
+league,season,team,spi,win_forecast
+UEFA Europa Conference League,2022,Villarreal,79.38961,0.2807
+UEFA Europa Conference League,2022,West Ham United,69.6619,0.08295
+UEFA Europa Conference League,2022,Fiorentina,67.14156,0.07585
+UEFA Europa Conference League,2022,FC Cologne,69.03157,0.07475
+UEFA Europa Conference League,2022,Slavia Prague,64.65658,0.0616
+UEFA Europa Conference League,2022,AZ,64.04045,0.0481
+UEFA Europa Conference League,2022,Nice,62.50632,0.03445
+UEFA Europa Conference League,2022,Anderlecht,60.0108,0.0214
+UEFA Europa Conference League,2022,Steaua Bucuresti,58.6122,0.02
+UEFA Europa Conference League,2022,Arsenal,80.63421,0.01855
+UEFA Europa Conference League,2022,SC Dnipro-1,56.21035,0.01825
+UEFA Europa Conference League,2022,Slovácko,58.91384,0.01775
+UEFA Europa Conference League,2022,PSV,75.40184,0.0177
+UEFA Europa Conference League,2022,KAA Gent,54.60319,0.0167
+UEFA Europa Conference League,2022,Feyenoord,73.81057,0.01255
+UEFA Europa Conference League,2022,Lazio,69.66089,0.0122
+UEFA Europa Conference League,2022,Real Sociedad,75.10766,0.0121
+UEFA Europa Conference League,2022,Manchester United,74.08624,0.01165
+UEFA Europa Conference League,2022,Molde,52.98785,0.0104
+UEFA Europa Conference League,2022,AS Monaco,71.50517,0.01005
+UEFA Europa Conference League,2022,Stade Rennes,69.78244,0.00895
+UEFA Europa Conference League,2022,Fenerbahce,66.20656,0.0087
+UEFA Europa Conference League,2022,SC Freiburg,70.46617,0.00865
+UEFA Europa Conference League,2022,Bodo/Glimt,58.66922,0.0086
+UEFA Europa Conference League,2022,Olympiacos,61.11305,0.0081
+UEFA Europa Conference League,2022,Braga,67.22734,0.00775
+UEFA Europa Conference League,2022,Istanbul Basaksehir,51.5019,0.00755
+UEFA Europa Conference League,2022,1. FC Union Berlin,71.43869,0.00735
+UEFA Europa Conference League,2022,Nantes,59.8673,0.0058
+UEFA Europa Conference League,2022,Red Star Belgrade,57.71118,0.00565
+UEFA Europa Conference League,2022,FK Partizan Belgrade,51.70977,0.0052
+UEFA Europa Conference League,2022,Basel,46.42067,0.00485
+UEFA Europa Conference League,2022,Dynamo Kiev,55.38654,0.00475
+UEFA Europa Conference League,2022,FC Sheriff Tiraspol,52.76215,0.0043
+UEFA Europa Conference League,2022,Ferencvaros,55.2282,0.0037
+UEFA Europa Conference League,2022,Hapoel Be'er,47.78587,0.0035
+UEFA Europa Conference League,2022,FC Midtjylland,53.25604,0.0035
+UEFA Europa Conference League,2022,Apollon Limassol,46.69655,0.00335
+UEFA Europa Conference League,2022,Lech Poznan,47.28462,0.00325
+UEFA Europa Conference League,2022,Real Betis,71.8691,0.0032
+UEFA Europa Conference League,2022,SK Sturm Graz,52.70907,0.00315
+UEFA Europa Conference League,2022,Trabzonspor,55.52955,0.0031
+UEFA Europa Conference League,2022,AS Roma,73.9133,0.00295
+UEFA Europa Conference League,2022,Union Saint Gilloise,49.65282,0.00285
+UEFA Europa Conference League,2022,Djurgardens IF,42.39147,0.00195
+UEFA Europa Conference League,2022,CFR 1907 Cluj,41.425,0.0017
+UEFA Europa Conference League,2022,Hearts,42.95733,0.00145
+UEFA Europa Conference League,2022,Slovan Bratislava,39.27317,0.0014
+UEFA Europa Conference League,2022,Silkeborg,45.60505,0.00135
+UEFA Europa Conference League,2022,FK Austria Vienna,43.88288,0.0012
+UEFA Europa Conference League,2022,FK Qarabag,42.67856,0.001
+UEFA Europa Conference League,2022,Ludogorets,39.86789,0.0008
+UEFA Europa Conference League,2022,AEK Larnaca,42.76864,0.0007
+UEFA Europa Conference League,2022,Sivasspor,37.37919,0.0004
+UEFA Europa Conference League,2022,Omonia Nicosia,38.79227,0.0004
+UEFA Europa Conference League,2022,Ballkani,34.58122,0.0004
+UEFA Europa Conference League,2022,FC Zurich,40.84245,0.00025
+UEFA Europa Conference League,2022,Zalgiris Vilnius,32.70102,0.0002
+UEFA Europa Conference League,2022,Malmo FF,36.98013,0.0002
+UEFA Europa Conference League,2022,Rigas Futbola Skola,34.58122,0.00015
+UEFA Europa Conference League,2022,FC Vaduz,27.6359,0.00001
+UEFA Europa Conference League,2022,HJK Helsinki,28.37437,0.00001
+UEFA Europa Conference League,2022,Pyunik Yerevan,21.40434,0.00001
+UEFA Europa Conference League,2022,Shamrock Rovers,20.41631,0.00001
+UEFA Europa Conference League,2021,Tottenham Hotspur,74.57021,0.18105
+UEFA Europa Conference League,2021,AS Roma,73.12222,0.15065
+UEFA Europa Conference League,2021,1. FC Union Berlin,69.20646,0.0703
+UEFA Europa Conference League,2021,Leicester City,72.93652,0.0665
+UEFA Europa Conference League,2021,Real Sociedad,79.24628,0.06145
+UEFA Europa Conference League,2021,Stade Rennes,65.63238,0.0599
+UEFA Europa Conference League,2021,AZ,64.9077,0.0477
+UEFA Europa Conference League,2021,Slavia Prague,66.41347,0.0373
+UEFA Europa Conference League,2021,Feyenoord,65.13436,0.0355
+UEFA Europa Conference League,2021,Napoli,80.61444,0.02975
+UEFA Europa Conference League,2021,Eintracht Frankfurt,69.80467,0.0264
+UEFA Europa Conference League,2021,AS Monaco,72.33453,0.0247
+UEFA Europa Conference League,2021,Lazio,69.85531,0.02315
+UEFA Europa Conference League,2021,Marseille,64.53844,0.021
+UEFA Europa Conference League,2021,FC Copenhagen,58.4145,0.0185
+UEFA Europa Conference League,2021,West Ham United,75.13844,0.01825
+UEFA Europa Conference League,2021,KAA Gent,56.01307,0.0144
+UEFA Europa Conference League,2021,Real Betis,74.60116,0.01435
+UEFA Europa Conference League,2021,PSV,71.60934,0.0125
+UEFA Europa Conference League,2021,Bodo/Glimt,56.19829,0.00795
+UEFA Europa Conference League,2021,Basel,53.12303,0.0077
+UEFA Europa Conference League,2021,Bayer Leverkusen,78.48249,0.0073
+UEFA Europa Conference League,2021,PAOK Salonika,53.76995,0.00705
+UEFA Europa Conference League,2021,FK Partizan Belgrade,52.82262,0.00675
+UEFA Europa Conference League,2021,Celtic,63.95914,0.00625
+UEFA Europa Conference League,2021,Rangers,68.20823,0.0053
+UEFA Europa Conference League,2021,Genk,61.66049,0.00425
+UEFA Europa Conference League,2021,Maccabi Tel-Aviv,48.61605,0.0039
+UEFA Europa Conference League,2021,Braga,62.12412,0.0038
+UEFA Europa Conference League,2021,Lyon,69.97395,0.00365
+UEFA Europa Conference League,2021,LASK Linz,46.0982,0.00325
+UEFA Europa Conference League,2021,Vitesse,50.7967,0.00265
+UEFA Europa Conference League,2021,Lokomotiv Moscow,51.08162,0.002
+UEFA Europa Conference League,2021,FC Midtjylland,63.03062,0.0019
+UEFA Europa Conference League,2021,Spartak Moscow,57.6832,0.0019
+UEFA Europa Conference League,2021,Fenerbahce,56.63255,0.00155
+UEFA Europa Conference League,2021,FK Qarabag,43.26971,0.0015
+UEFA Europa Conference League,2021,Antwerp,53.84608,0.00135
+UEFA Europa Conference League,2021,Omonia Nicosia,44.70366,0.00085
+UEFA Europa Conference League,2021,CFR 1907 Cluj,44.76548,0.0007
+UEFA Europa Conference League,2021,Dinamo Zagreb,64.72819,0.00055
+UEFA Europa Conference League,2021,CSKA Sofia,45.29106,0.0005
+UEFA Europa Conference League,2021,Slovan Bratislava,43.08987,0.0005
+UEFA Europa Conference League,2021,Rapid Vienna,48.60685,0.0005
+UEFA Europa Conference League,2021,Randers FC,37.38596,0.0005
+UEFA Europa Conference League,2021,SK Sturm Graz,53.86949,0.0004
+UEFA Europa Conference League,2021,Anorthosis Famagusta,46.8917,0.0004
+UEFA Europa Conference League,2021,Galatasaray,54.73153,0.00035
+UEFA Europa Conference League,2021,Legia Warsaw,51.04266,0.0003
+UEFA Europa Conference League,2021,Brondby,45.34826,0.00025
+UEFA Europa Conference League,2021,Jablonec,33.65081,0.00025
+UEFA Europa Conference League,2021,Kairat Almaty,36.81682,0.0002
+UEFA Europa Conference League,2021,Sparta Prague,58.31092,0.00015
+UEFA Europa Conference League,2021,FC Zorya Luhansk,39.13876,0.00015
+UEFA Europa Conference League,2021,Red Star Belgrade,57.4442,0.0001
+UEFA Europa Conference League,2021,Ferencvaros,55.23017,0.00001
+UEFA Europa Conference League,2021,Olympiacos,64.92128,0.00001
+UEFA Europa Conference League,2021,HJK Helsinki,33.00547,0.00001
+UEFA Europa Conference League,2021,Ludogorets,42.81369,0.00001
+UEFA Europa Conference League,2021,Flora,33.62446,0.00001
+UEFA Europa Conference League,2021,NS Mura,30.81715,0.00001
+UEFA Europa Conference League,2021,Alashkert FC,20.83843,0.00001
+UEFA Europa Conference League,2021,Maccabi Haifa,24.41011,0.00001
+UEFA Europa Conference League,2021,Lincoln Red Imps,12.9788,0.00001

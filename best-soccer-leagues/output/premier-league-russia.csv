@@ -1,0 +1,97 @@
+league,season,team,spi,win_forecast
+Russia: Premier League,2022,Zenit St Petersburg,70.60499,0.5715
+Russia: Premier League,2022,CSKA Moscow,52.56665,0.089
+Russia: Premier League,2022,Sochi,51.9601,0.0891
+Russia: Premier League,2022,Spartak Moscow,51.38527,0.0601
+Russia: Premier League,2022,FC Krasnodar,50.6987,0.049
+Russia: Premier League,2022,Dinamo Moscow,50.39861,0.04565
+Russia: Premier League,2022,Lokomotiv Moscow,46.93528,0.0257
+Russia: Premier League,2022,Krylia Sovetov,43.32488,0.0236
+Russia: Premier League,2022,Rostov,43.58388,0.0189
+Russia: Premier League,2022,Terek Grozny,41.59499,0.01075
+Russia: Premier League,2022,FC Khimki,37.94157,0.00635
+Russia: Premier League,2022,Ural Sverdlovsk Oblast,36.76076,0.0044
+Russia: Premier League,2022,FK Nizhny Novgorod,33.65948,0.00205
+Russia: Premier League,2022,Fakel Voronezh,33.33489,0.0021
+Russia: Premier League,2022,Torpedo Moskow,32.2157,0.00085
+Russia: Premier League,2022,Gazovik Orenburg,31.54089,0.00095
+Russia: Premier League,2021,Zenit St Petersburg,71.70281,0.68145
+Russia: Premier League,2021,Lokomotiv Moscow,53.76799,0.06365
+Russia: Premier League,2021,Dinamo Moscow,50.27616,0.05695
+Russia: Premier League,2021,Rubin Kazan,49.64339,0.04875
+Russia: Premier League,2021,FC Krasnodar,55.32147,0.03995
+Russia: Premier League,2021,Spartak Moscow,56.17618,0.042
+Russia: Premier League,2021,CSKA Moscow,55.09148,0.03365
+Russia: Premier League,2021,Sochi,48.43483,0.0211
+Russia: Premier League,2021,Rostov,43.57956,0.00345
+Russia: Premier League,2021,FC Khimki,39.1624,0.00275
+Russia: Premier League,2021,FK Nizhny Novgorod,35.07451,0.00245
+Russia: Premier League,2021,Terek Grozny,38.8813,0.00245
+Russia: Premier League,2021,FC Ufa,35.51277,0.0007
+Russia: Premier League,2021,Ural Sverdlovsk Oblast,35.60208,0.0004
+Russia: Premier League,2021,FC Arsenal Tula,31.88704,0.0002
+Russia: Premier League,2021,Krylia Sovetov,34.05815,0.0001
+Russia: Premier League,2020,Zenit St Petersburg,78.68514,0.6748
+Russia: Premier League,2020,CSKA Moscow,65.60758,0.1132
+Russia: Premier League,2020,FC Krasnodar,65.5168,0.0889
+Russia: Premier League,2020,Lokomotiv Moscow,62.31566,0.08
+Russia: Premier League,2020,Spartak Moscow,58.04206,0.02365
+Russia: Premier League,2020,Dinamo Moscow,50.74019,0.00685
+Russia: Premier League,2020,Rostov,49.14719,0.0039
+Russia: Premier League,2020,Sochi,49.65593,0.0038
+Russia: Premier League,2020,FC Ufa,47.34054,0.00255
+Russia: Premier League,2020,FC Arsenal Tula,46.33516,0.0003
+Russia: Premier League,2020,Rubin Kazan,45.4134,0.00045
+Russia: Premier League,2020,FC Tambov,42.62923,0.00045
+Russia: Premier League,2020,Terek Grozny,40.9284,0.0006
+Russia: Premier League,2020,Ural Sverdlovsk Oblast,41.27796,0.0001
+Russia: Premier League,2020,FK Volgograd,39.47727,0.00025
+Russia: Premier League,2020,FC Khimki,39.45123,0.0002
+Russia: Premier League,2019,Zenit St Petersburg,73.22798,0.43905
+Russia: Premier League,2019,FC Krasnodar,71.60816,0.2562
+Russia: Premier League,2019,CSKA Moscow,67.35238,0.18655
+Russia: Premier League,2019,Lokomotiv Moscow,63.00867,0.0641
+Russia: Premier League,2019,FC Arsenal Tula,53.04795,0.01355
+Russia: Premier League,2019,Rostov,50.7973,0.0107
+Russia: Premier League,2019,Spartak Moscow,54.34037,0.00925
+Russia: Premier League,2019,Dinamo Moscow,50.34885,0.00575
+Russia: Premier League,2019,Rubin Kazan,46.88252,0.0033
+Russia: Premier League,2019,Terek Grozny,48.48128,0.00465
+Russia: Premier League,2019,Ural Sverdlovsk Oblast,45.96959,0.00345
+Russia: Premier League,2019,FC Ufa,45.58016,0.00165
+Russia: Premier League,2019,Gazovik Orenburg,47.62895,0.0011
+Russia: Premier League,2019,FC Tambov,41.59735,0.00055
+Russia: Premier League,2019,Krylia Sovetov,39.52638,0.00005
+Russia: Premier League,2019,Sochi,40.41866,0.0001
+Russia: Premier League,2018,Zenit St Petersburg,70.90225,0.33465
+Russia: Premier League,2018,Spartak Moscow,68.68542,0.2319
+Russia: Premier League,2018,CSKA Moscow,68.36987,0.122
+Russia: Premier League,2018,FC Krasnodar,64.47305,0.11885
+Russia: Premier League,2018,Lokomotiv Moscow,63.17328,0.07095
+Russia: Premier League,2018,Rubin Kazan,56.45561,0.0377
+Russia: Premier League,2018,Rostov,53.31654,0.03205
+Russia: Premier League,2018,FC Ufa,55.06725,0.02535
+Russia: Premier League,2018,Terek Grozny,50.78703,0.00955
+Russia: Premier League,2018,Dinamo Moscow,49.79441,0.00535
+Russia: Premier League,2018,Gazovik Orenburg,45.11996,0.00525
+Russia: Premier League,2018,FC Arsenal Tula,45.88116,0.00305
+Russia: Premier League,2018,Ural Sverdlovsk Oblast,44.58406,0.0013
+Russia: Premier League,2018,Anzhi Makhachkala,38.26896,0.00065
+Russia: Premier League,2018,Metallurg Krasnoyarsk,39.76213,0.0007
+Russia: Premier League,2018,Krylia Sovetov,38.78919,0.0007
+Russia: Premier League,2017,Zenit St Petersburg,68.84021,0.32338
+Russia: Premier League,2017,Lokomotiv Moscow,65.40891,0.18686
+Russia: Premier League,2017,CSKA Moscow,70.35455,0.15544
+Russia: Premier League,2017,FC Krasnodar,62.38495,0.067
+Russia: Premier League,2017,Terek Grozny,59.6962,0.06376
+Russia: Premier League,2017,Spartak Moscow,62.18479,0.0528
+Russia: Premier League,2017,Rostov,59.73553,0.04468
+Russia: Premier League,2017,Ural Sverdlovsk Oblast,60.75344,0.04436
+Russia: Premier League,2017,Rubin Kazan,58.94834,0.0343
+Russia: Premier League,2017,FC Ufa,56.27641,0.02014
+Russia: Premier League,2017,Dinamo Moscow,52.23604,0.00592
+Russia: Premier League,2017,Anzhi Makhachkala,44.60761,0.00042
+Russia: Premier League,2017,FC Arsenal Tula,43.4739,0.00042
+Russia: Premier League,2017,Amkar Perm,44.4591,0.00024
+Russia: Premier League,2017,FC Tosno,38.5339,0.00018
+Russia: Premier League,2017,Energiya Khabarovsk,39.30838,0.0001

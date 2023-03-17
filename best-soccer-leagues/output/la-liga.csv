@@ -1,0 +1,141 @@
+league,season,team,spi,win_forecast
+Spain: La Liga,2022,Real Madrid,86.19129,0.38955
+Spain: La Liga,2022,Barcelona,84.43547,0.2537
+Spain: La Liga,2022,Atletico Madrid,80.68322,0.11915
+Spain: La Liga,2022,Villarreal,77.13883,0.0751
+Spain: La Liga,2022,Real Sociedad,74.77292,0.04275
+Spain: La Liga,2022,Athletic Bilbao,72.08221,0.02205
+Spain: La Liga,2022,Sevilla FC,71.44877,0.02105
+Spain: La Liga,2022,Real Betis,70.75422,0.02015
+Spain: La Liga,2022,Celta Vigo,69.06173,0.01415
+Spain: La Liga,2022,Valencia,68.04376,0.01235
+Spain: La Liga,2022,Getafe,65.51058,0.00555
+Spain: La Liga,2022,Rayo Vallecano,63.5617,0.00475
+Spain: La Liga,2022,Osasuna,63.69378,0.00365
+Spain: La Liga,2022,Cadiz,62.62369,0.0036
+Spain: La Liga,2022,Almeria,60.40688,0.00295
+Spain: La Liga,2022,Real Valladolid,59.79914,0.00235
+Spain: La Liga,2022,Espanyol,59.71765,0.0018
+Spain: La Liga,2022,Elche,59.59272,0.002
+Spain: La Liga,2022,Girona FC,58.3492,0.0019
+Spain: La Liga,2022,Mallorca,57.57924,0.00145
+Spain: La Liga,2021,Barcelona,88.80576,0.42635
+Spain: La Liga,2021,Real Madrid,86.82275,0.23945
+Spain: La Liga,2021,Atletico Madrid,85.08161,0.1549
+Spain: La Liga,2021,Sevilla FC,79.14121,0.0477
+Spain: La Liga,2021,Real Sociedad,78.39458,0.04485
+Spain: La Liga,2021,Villarreal,76.44533,0.0319
+Spain: La Liga,2021,Real Betis,72.37629,0.01365
+Spain: La Liga,2021,Athletic Bilbao,70.67806,0.00865
+Spain: La Liga,2021,Celta Vigo,69.08171,0.00795
+Spain: La Liga,2021,Getafe,70.8305,0.0056
+Spain: La Liga,2021,Valencia,66.95983,0.0053
+Spain: La Liga,2021,Osasuna,65.10652,0.0027
+Spain: La Liga,2021,Alavés,63.98402,0.00195
+Spain: La Liga,2021,Levante,63.18247,0.002
+Spain: La Liga,2021,Espanyol,62.87218,0.00165
+Spain: La Liga,2021,Mallorca,61.55457,0.00215
+Spain: La Liga,2021,Granada,61.46284,0.0017
+Spain: La Liga,2021,Rayo Vallecano,60.73247,0.0009
+Spain: La Liga,2021,Elche,58.76507,0.00025
+Spain: La Liga,2021,Cadiz,56.59249,0.0004
+Spain: La Liga,2020,Barcelona,90.13767,0.44855
+Spain: La Liga,2020,Real Madrid,89.05232,0.29405
+Spain: La Liga,2020,Atletico Madrid,86.32131,0.1319
+Spain: La Liga,2020,Sevilla FC,80.02943,0.03515
+Spain: La Liga,2020,Villarreal,75.77213,0.02125
+Spain: La Liga,2020,Real Sociedad,76.50101,0.0209
+Spain: La Liga,2020,Getafe,74.01478,0.0084
+Spain: La Liga,2020,Granada,72.52013,0.0071
+Spain: La Liga,2020,Real Betis,71.68727,0.0084
+Spain: La Liga,2020,Valencia,68.93103,0.0033
+Spain: La Liga,2020,Celta Vigo,69.21172,0.004
+Spain: La Liga,2020,Osasuna,68.59768,0.00355
+Spain: La Liga,2020,Athletic Bilbao,67.85287,0.0032
+Spain: La Liga,2020,Eibar,67.38986,0.00335
+Spain: La Liga,2020,Levante,65.78754,0.0018
+Spain: La Liga,2020,Real Valladolid,65.12248,0.0012
+Spain: La Liga,2020,SD Huesca,63.7078,0.0017
+Spain: La Liga,2020,Cadiz,63.41008,0.0008
+Spain: La Liga,2020,Alavés,63.13836,0.0007
+Spain: La Liga,2020,Elche,62.75895,0.0007
+Spain: La Liga,2019,Barcelona,91.17976,0.5904
+Spain: La Liga,2019,Real Madrid,85.18471,0.1867
+Spain: La Liga,2019,Atletico Madrid,83.24435,0.08095
+Spain: La Liga,2019,Valencia,77.76836,0.0346
+Spain: La Liga,2019,Sevilla FC,74.82107,0.01845
+Spain: La Liga,2019,Real Sociedad,73.50535,0.0119
+Spain: La Liga,2019,Getafe,73.66246,0.0117
+Spain: La Liga,2019,Eibar,73.20549,0.01025
+Spain: La Liga,2019,Athletic Bilbao,73.34338,0.01015
+Spain: La Liga,2019,Real Betis,72.06434,0.00975
+Spain: La Liga,2019,Villarreal,71.24481,0.00955
+Spain: La Liga,2019,Espanyol,70.11892,0.00725
+Spain: La Liga,2019,Leganes,70.38101,0.0047
+Spain: La Liga,2019,Celta Vigo,67.73297,0.00375
+Spain: La Liga,2019,Levante,64.97347,0.0022
+Spain: La Liga,2019,Alavés,65.91579,0.00225
+Spain: La Liga,2019,Osasuna,64.13114,0.0015
+Spain: La Liga,2019,Real Valladolid,64.25577,0.00125
+Spain: La Liga,2019,Granada,63.83191,0.001
+Spain: La Liga,2019,Mallorca,63.72618,0.0017
+Spain: La Liga,2018,Barcelona,91.97346,0.4327
+Spain: La Liga,2018,Real Madrid,91.32953,0.4059
+Spain: La Liga,2018,Atletico Madrid,87.07924,0.076
+Spain: La Liga,2018,Valencia,79.0351,0.0147
+Spain: La Liga,2018,Sevilla FC,78.2425,0.0141
+Spain: La Liga,2018,Real Sociedad,78.15388,0.01415
+Spain: La Liga,2018,Villarreal,75.0151,0.0065
+Spain: La Liga,2018,Real Betis,74.55474,0.005
+Spain: La Liga,2018,Athletic Bilbao,75.11218,0.00485
+Spain: La Liga,2018,Eibar,75.5767,0.0039
+Spain: La Liga,2018,Getafe,75.66488,0.0042
+Spain: La Liga,2018,Celta Vigo,73.1077,0.0049
+Spain: La Liga,2018,Espanyol,74.28506,0.0031
+Spain: La Liga,2018,Girona FC,72.48768,0.00285
+Spain: La Liga,2018,Leganes,71.24047,0.0016
+Spain: La Liga,2018,Alavés,70.10567,0.00105
+Spain: La Liga,2018,Levante,67.87623,0.00145
+Spain: La Liga,2018,SD Huesca,68.70139,0.00105
+Spain: La Liga,2018,Rayo Vallecano,68.5125,0.0009
+Spain: La Liga,2018,Real Valladolid,68.1678,0.0011
+Spain: La Liga,2017,Real Madrid,93.21888,0.49846
+Spain: La Liga,2017,Barcelona,92.51213,0.40952
+Spain: La Liga,2017,Atletico Madrid,83.11959,0.04018
+Spain: La Liga,2017,Athletic Bilbao,76.79499,0.01134
+Spain: La Liga,2017,Sevilla FC,76.5202,0.01062
+Spain: La Liga,2017,Villarreal,75.006,0.00722
+Spain: La Liga,2017,Real Sociedad,73.23923,0.00512
+Spain: La Liga,2017,Valencia,70.74428,0.00306
+Spain: La Liga,2017,Eibar,70.99919,0.00236
+Spain: La Liga,2017,Alavés,71.20017,0.00282
+Spain: La Liga,2017,Málaga,69.95042,0.00202
+Spain: La Liga,2017,Leganes,69.97933,0.00186
+Spain: La Liga,2017,Espanyol,68.24595,0.00122
+Spain: La Liga,2017,Celta Vigo,67.22963,0.00136
+Spain: La Liga,2017,Real Betis,67.0571,0.00124
+Spain: La Liga,2017,Deportivo La Coruña,66.02725,0.001
+Spain: La Liga,2017,Las Palmas,63.05427,0.00034
+Spain: La Liga,2017,Getafe,59.41652,0.00018
+Spain: La Liga,2017,Levante,56.57811,0.00006000000000000001
+Spain: La Liga,2017,Girona FC,55.5117,0.00002
+Spain: La Liga,2016,Barcelona,,0.5979
+Spain: La Liga,2016,Real Madrid,,0.3166
+Spain: La Liga,2016,Atletico Madrid,,0.0577
+Spain: La Liga,2016,Sevilla FC,,0.0081
+Spain: La Liga,2016,Valencia,,0.006
+Spain: La Liga,2016,Athletic Bilbao,,0.0039
+Spain: La Liga,2016,Villarreal,,0.0022
+Spain: La Liga,2016,Real Sociedad,,0.0017
+Spain: La Liga,2016,Málaga,,0.0016
+Spain: La Liga,2016,Celta Vigo,,0.0016
+Spain: La Liga,2016,Real Betis,,0.0007
+Spain: La Liga,2016,Espanyol,,0.0006
+Spain: La Liga,2016,Sporting Gijón,,0.0004
+Spain: La Liga,2016,Leganes,,0.0003
+Spain: La Liga,2016,Deportivo La Coruña,,0.0002
+Spain: La Liga,2016,Osasuna,,0.0002
+Spain: La Liga,2016,Las Palmas,,0.0001
+Spain: La Liga,2016,Granada,,0.00001
+Spain: La Liga,2016,Eibar,,0.0002
+Spain: La Liga,2016,Alavés,,0.00001

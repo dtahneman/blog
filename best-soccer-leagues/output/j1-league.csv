@@ -1,0 +1,93 @@
+league,season,team,spi,win_forecast
+Japan: J1 League,2022,Kawasaki Frontale,58.12068,0.4498
+Japan: J1 League,2022,Kashima Antlers,49.27598,0.1456
+Japan: J1 League,2022,Yokohama F. Marinos,49.5695,0.12405
+Japan: J1 League,2022,Nagoya Grampus Eight,42.79957,0.09545
+Japan: J1 League,2022,Vissel Kobe,46.29403,0.06595
+Japan: J1 League,2022,Urawa Red Diamonds,44.55458,0.0381
+Japan: J1 League,2022,FC Tokyo,34.78342,0.01635
+Japan: J1 League,2022,Cerezo Osaka,35.54732,0.0143
+Japan: J1 League,2022,Sanfrecce Hiroshima,33.8137,0.0123
+Japan: J1 League,2022,Kashiwa Reysol,29.7921,0.0099
+Japan: J1 League,2022,Consadole Sapporo,31.64868,0.0068
+Japan: J1 League,2022,Avispa Fukuoka,30.66768,0.00645
+Japan: J1 League,2022,Gamba Osaka,29.02194,0.0052
+Japan: J1 League,2022,Shimizu S-Pulse,28.71178,0.00495
+Japan: J1 League,2022,Kyoto Purple Sanga,23.96232,0.0019
+Japan: J1 League,2022,Sagan Tosu,26.04959,0.0016
+Japan: J1 League,2022,Shonan Bellmare,22.80232,0.0006
+Japan: J1 League,2022,Jubilo Iwata,23.4386,0.0007
+Japan: J1 League,2021,Kawasaki Frontale,59.23633,0.6839
+Japan: J1 League,2021,Yokohama F. Marinos,43.85859,0.0599
+Japan: J1 League,2021,Nagoya Grampus Eight,38.99609,0.06035
+Japan: J1 League,2021,Kashima Antlers,42.61662,0.05045
+Japan: J1 League,2021,Cerezo Osaka,39.62522,0.0358
+Japan: J1 League,2021,Vissel Kobe,37.50227,0.03245
+Japan: J1 League,2021,Kashiwa Reysol,36.88426,0.0141
+Japan: J1 League,2021,Sanfrecce Hiroshima,34.44175,0.0142
+Japan: J1 League,2021,FC Tokyo,34.65108,0.0125
+Japan: J1 League,2021,Gamba Osaka,34.05337,0.0126
+Japan: J1 League,2021,Sagan Tosu,28.06883,0.00705
+Japan: J1 League,2021,Shimizu S-Pulse,30.72344,0.005
+Japan: J1 League,2021,Consadole Sapporo,30.02598,0.0056
+Japan: J1 League,2021,Urawa Red Diamonds,30.03541,0.00455
+Japan: J1 League,2021,Oita Trinita,22.65286,0.00095
+Japan: J1 League,2021,Tokushima Vortis,23.34974,0.0004
+Japan: J1 League,2021,Vegalta Sendai,19.34216,0.0001
+Japan: J1 League,2021,Shonan Bellmare,19.00217,0.00001
+Japan: J1 League,2021,Avispa Fukuoka,19.32534,0.0001
+Japan: J1 League,2021,Yokohama FC,16.06891,0.00001
+Japan: J1 League,2020,Kawasaki Frontale,53.06182,0.458
+Japan: J1 League,2020,Cerezo Osaka,40.78077,0.10055
+Japan: J1 League,2020,Yokohama F. Marinos,47.2959,0.1023
+Japan: J1 League,2020,FC Tokyo,38.63489,0.07695
+Japan: J1 League,2020,Urawa Red Diamonds,37.38464,0.06815
+Japan: J1 League,2020,Sanfrecce Hiroshima,39.26107,0.06005
+Japan: J1 League,2020,Gamba Osaka,38.04873,0.04565
+Japan: J1 League,2020,Nagoya Grampus Eight,32.86973,0.02
+Japan: J1 League,2020,Kashima Antlers,38.5022,0.01555
+Japan: J1 League,2020,Consadole Sapporo,34.06383,0.01905
+Japan: J1 League,2020,Vissel Kobe,36.83907,0.01875
+Japan: J1 League,2020,Oita Trinita,26.86739,0.0067
+Japan: J1 League,2020,Kashiwa Reysol,30.87295,0.0049
+Japan: J1 League,2020,Vegalta Sendai,26.23477,0.00285
+Japan: J1 League,2020,Shimizu S-Pulse,24.56131,0.00001
+Japan: J1 League,2020,Sagan Tosu,18.33636,0.0001
+Japan: J1 League,2020,Shonan Bellmare,20.92884,0.00025
+Japan: J1 League,2020,Yokohama FC,16.755,0.0002
+Japan: J1 League,2019,Kawasaki Frontale,55.23013,0.3162
+Japan: J1 League,2019,Urawa Red Diamonds,52.25076,0.2132
+Japan: J1 League,2019,Nagoya Grampus Eight,45.55824,0.1124
+Japan: J1 League,2019,Cerezo Osaka,42.03538,0.07815
+Japan: J1 League,2019,Kashima Antlers,46.03739,0.0807
+Japan: J1 League,2019,Yokohama F. Marinos,38.50251,0.04055
+Japan: J1 League,2019,Shimizu S-Pulse,40.18822,0.0417
+Japan: J1 League,2019,Vissel Kobe,39.52272,0.03235
+Japan: J1 League,2019,FC Tokyo,33.95124,0.01845
+Japan: J1 League,2019,Sanfrecce Hiroshima,34.57481,0.0158
+Japan: J1 League,2019,Gamba Osaka,35.50617,0.01455
+Japan: J1 League,2019,Shonan Bellmare,31.72417,0.013
+Japan: J1 League,2019,Sagan Tosu,31.17834,0.00695
+Japan: J1 League,2019,Consadole Sapporo,32.36159,0.008
+Japan: J1 League,2019,Vegalta Sendai,28.1693,0.00415
+Japan: J1 League,2019,Jubilo Iwata,26.7952,0.0023
+Japan: J1 League,2019,Oita Trinita,22.68919,0.0012
+Japan: J1 League,2019,Matsumoto Yamaga FC,18.11939,0.00035
+Japan: J1 League,2018,Sanfrecce Hiroshima,46.23499,0.51845
+Japan: J1 League,2018,Kawasaki Frontale,53.75616,0.2854
+Japan: J1 League,2018,FC Tokyo,44.57428,0.1651
+Japan: J1 League,2018,Urawa Red Diamonds,52.83007,0.01205
+Japan: J1 League,2018,Kashima Antlers,48.90948,0.0079
+Japan: J1 League,2018,Vissel Kobe,43.94101,0.00515
+Japan: J1 League,2018,Cerezo Osaka,42.22965,0.00225
+Japan: J1 League,2018,Consadole Sapporo,34.20124,0.00175
+Japan: J1 League,2018,Jubilo Iwata,38.4505,0.00045
+Japan: J1 League,2018,Shimizu S-Pulse,35.07087,0.001
+Japan: J1 League,2018,Shonan Bellmare,37.0921,0.00045
+Japan: J1 League,2018,Vegalta Sendai,30.49839,0.00001
+Japan: J1 League,2018,Yokohama F. Marinos,39.19139,0.00005
+Japan: J1 League,2018,Kashiwa Reysol,31.82849,0.00001
+Japan: J1 League,2018,V-Varen Nagasaki,29.09689,0.00001
+Japan: J1 League,2018,Sagan Tosu,33.83514,0.00001
+Japan: J1 League,2018,Gamba Osaka,29.70028,0.00001
+Japan: J1 League,2018,Nagoya Grampus Eight,30.30458,0.00001

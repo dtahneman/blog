@@ -1,0 +1,73 @@
+league,season,team,spi,win_forecast
+Scotland: Premiership,2022,Rangers,70.92051,0.5152
+Scotland: Premiership,2022,Celtic,69.57815,0.46835
+Scotland: Premiership,2022,Hearts,41.12898,0.00625
+Scotland: Premiership,2022,Livingston,36.97925,0.0022
+Scotland: Premiership,2022,Hibernian,36.54667,0.0014
+Scotland: Premiership,2022,Dundee Utd,35.46766,0.00065
+Scotland: Premiership,2022,Aberdeen,35.74658,0.00235
+Scotland: Premiership,2022,Ross County,33.8312,0.00055
+Scotland: Premiership,2022,Kilmarnock,33.76016,0.0011
+Scotland: Premiership,2022,Motherwell,32.86289,0.0013
+Scotland: Premiership,2022,St Mirren,31.03115,0.0004
+Scotland: Premiership,2022,St Johnstone,28.18796,0.00025
+Scotland: Premiership,2021,Rangers,72.83804,0.63655
+Scotland: Premiership,2021,Celtic,67.35211,0.32725
+Scotland: Premiership,2021,Hibernian,42.00063,0.0194
+Scotland: Premiership,2021,Aberdeen,36.29945,0.00725
+Scotland: Premiership,2021,Hearts,33.53527,0.00345
+Scotland: Premiership,2021,Dundee Utd,32.16604,0.0013
+Scotland: Premiership,2021,St Johnstone,33.60144,0.00205
+Scotland: Premiership,2021,Livingston,31.99778,0.00075
+Scotland: Premiership,2021,Motherwell,31.6639,0.0007
+Scotland: Premiership,2021,St Mirren,30.72828,0.0007
+Scotland: Premiership,2021,Dundee,29.487,0.0005
+Scotland: Premiership,2021,Ross County,25.29575,0.0001
+Scotland: Premiership,2020,Celtic,67.88881,0.78315
+Scotland: Premiership,2020,Rangers,54.67756,0.20525
+Scotland: Premiership,2020,Aberdeen,32.96813,0.005
+Scotland: Premiership,2020,Motherwell,28.32904,0.00045
+Scotland: Premiership,2020,Livingston,28.99271,0.0024
+Scotland: Premiership,2020,Kilmarnock,28.15042,0.0009
+Scotland: Premiership,2020,Hibernian,29.17223,0.00175
+Scotland: Premiership,2020,Dundee Utd,25.98261,0.0006
+Scotland: Premiership,2020,St Johnstone,23.70466,0.0001
+Scotland: Premiership,2020,St Mirren,22.10678,0.00025
+Scotland: Premiership,2020,Hamilton Academical,21.705,0.00001
+Scotland: Premiership,2020,Ross County,20.45021,0.00015
+Scotland: Premiership,2019,Celtic,65.61446,0.6368
+Scotland: Premiership,2019,Rangers,58.75668,0.33895
+Scotland: Premiership,2019,Aberdeen,36.72003,0.00645
+Scotland: Premiership,2019,Kilmarnock,36.30959,0.00875
+Scotland: Premiership,2019,Hibernian,33.61678,0.00735
+Scotland: Premiership,2019,Ross County,26.51888,0.00045
+Scotland: Premiership,2019,Hearts,28.01905,0.0003
+Scotland: Premiership,2019,Motherwell,25.37317,0.00075
+Scotland: Premiership,2019,Livingston,22.29419,0.00005
+Scotland: Premiership,2019,St Johnstone,20.93907,0.00005
+Scotland: Premiership,2019,St Mirren,21.16777,0.0001
+Scotland: Premiership,2019,Hamilton Academical,15.01638,0.00001
+Scotland: Premiership,2018,Celtic,59.9445,0.716
+Scotland: Premiership,2018,Rangers,44.47741,0.1007
+Scotland: Premiership,2018,Hibernian,41.21726,0.07605
+Scotland: Premiership,2018,Aberdeen,37.7765,0.04715
+Scotland: Premiership,2018,Hearts,33.25347,0.0302
+Scotland: Premiership,2018,Kilmarnock,32.07592,0.0207
+Scotland: Premiership,2018,St Mirren,23.93142,0.00325
+Scotland: Premiership,2018,Livingston,23.76114,0.0019
+Scotland: Premiership,2018,St Johnstone,23.39909,0.0025
+Scotland: Premiership,2018,Motherwell,20.77418,0.0009
+Scotland: Premiership,2018,Dundee,18.40778,0.0005
+Scotland: Premiership,2018,Hamilton Academical,17.63534,0.00015
+Scotland: Premiership,2017,Celtic,64.37819,0.7733
+Scotland: Premiership,2017,Aberdeen,42.32586,0.09794
+Scotland: Premiership,2017,Rangers,41.87759,0.09642
+Scotland: Premiership,2017,St Johnstone,30.35291,0.01826
+Scotland: Premiership,2017,Ross County,26.03039,0.00524
+Scotland: Premiership,2017,Hearts,26.16749,0.00476
+Scotland: Premiership,2017,Motherwell,22.01989,0.00136
+Scotland: Premiership,2017,Hibernian,18.37517,0.0009
+Scotland: Premiership,2017,Partick Thistle,19.28675,0.00058
+Scotland: Premiership,2017,Kilmarnock,18.49648,0.00056
+Scotland: Premiership,2017,Hamilton Academical,17.54228,0.0005
+Scotland: Premiership,2017,Dundee,15.89891,0.00018

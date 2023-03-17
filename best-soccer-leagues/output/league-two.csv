@@ -1,0 +1,121 @@
+league,season,team,spi,win_forecast
+England: League Two,2022,Salford City,23.49803,0.2625
+England: League Two,2022,Colchester United,18.51033,0.11665
+England: League Two,2022,Mansfield Town,17.04066,0.0868
+England: League Two,2022,Swindon Town,17.14257,0.0821
+England: League Two,2022,Doncaster Rovers,16.47596,0.07705
+England: League Two,2022,Northampton Town,14.19266,0.0626
+England: League Two,2022,Gillingham,14.16372,0.05245
+England: League Two,2022,Tranmere Rovers,12.3665,0.0377
+England: League Two,2022,Leyton Orient,12.40728,0.03655
+England: League Two,2022,Rochdale,11.30842,0.0268
+England: League Two,2022,Sutton United,10.97625,0.0212
+England: League Two,2022,Bradford City,10.42023,0.02125
+England: League Two,2022,Newport County,10.59992,0.0196
+England: League Two,2022,AFC Wimbledon,10.57954,0.01815
+England: League Two,2022,Crewe Alexandra,10.1975,0.0179
+England: League Two,2022,Stockport County,9.36549,0.01185
+England: League Two,2022,Stevenage,8.61418,0.01055
+England: League Two,2022,Crawley Town,8.76566,0.00955
+England: League Two,2022,Grimsby Town,7.7086,0.006
+England: League Two,2022,Barrow,6.95628,0.0062
+England: League Two,2022,Harrogate Town,7.82661,0.00615
+England: League Two,2022,Walsall,6.56628,0.00485
+England: League Two,2022,Hartlepool,5.99732,0.0029
+England: League Two,2022,Carlisle United,6.23884,0.00265
+England: League Two,2021,Salford City,18.10351,0.21335
+England: League Two,2021,Mansfield Town,15.01978,0.11505
+England: League Two,2021,Colchester United,14.54269,0.10315
+England: League Two,2021,Bristol Rovers,15.62428,0.0937
+England: League Two,2021,Tranmere Rovers,11.78358,0.0704
+England: League Two,2021,Northampton Town,11.88445,0.06305
+England: League Two,2021,Swindon Town,11.92365,0.0563
+England: League Two,2021,Exeter City,11.92677,0.0542
+England: League Two,2021,Newport County,8.01262,0.03095
+England: League Two,2021,Forest Green Rovers,9.62183,0.0308
+England: League Two,2021,Rochdale,10.3208,0.02565
+England: League Two,2021,Stevenage,8.18853,0.02125
+England: League Two,2021,Leyton Orient,8.81005,0.021
+England: League Two,2021,Port Vale,7.96938,0.0165
+England: League Two,2021,Oldham Athletic,9.97405,0.0158
+England: League Two,2021,Carlisle United,7.26635,0.0145
+England: League Two,2021,Harrogate Town,7.34461,0.0128
+England: League Two,2021,Barrow,7.329,0.0112
+England: League Two,2021,Walsall,7.26526,0.0097
+England: League Two,2021,Crawley Town,7.00571,0.00675
+England: League Two,2021,Bradford City,6.90163,0.0058
+England: League Two,2021,Sutton United,5.96722,0.00545
+England: League Two,2021,Hartlepool,4.95679,0.00125
+England: League Two,2021,Scunthorpe,5.29843,0.0014
+England: League Two,2020,Salford City,23.96956,0.26245
+England: League Two,2020,Bolton,18.6223,0.1075
+England: League Two,2020,Oldham Athletic,18.46201,0.0893
+England: League Two,2020,Cheltenham Town,16.03931,0.07645
+England: League Two,2020,Colchester United,16.68115,0.0804
+England: League Two,2020,Exeter City,15.12231,0.0522
+England: League Two,2020,Bradford City,13.48994,0.0398
+England: League Two,2020,Mansfield Town,14.32266,0.0398
+England: League Two,2020,Southend United,13.55664,0.0363
+England: League Two,2020,Crawley Town,12.36364,0.0289
+England: League Two,2020,Leyton Orient,12.79584,0.0263
+England: League Two,2020,Tranmere Rovers,12.14182,0.02675
+England: League Two,2020,Port Vale,11.36754,0.02365
+England: League Two,2020,Barrow,11.43227,0.02195
+England: League Two,2020,Scunthorpe,11.40115,0.01905
+England: League Two,2020,Grimsby Town,10.92231,0.0178
+England: League Two,2020,Forest Green Rovers,9.86662,0.0129
+England: League Two,2020,Morecambe,8.84659,0.00895
+England: League Two,2020,Walsall,8.81311,0.00965
+England: League Two,2020,Carlisle United,8.10204,0.00785
+England: League Two,2020,Stevenage,7.54202,0.0058
+England: League Two,2020,Newport County,7.01909,0.0031
+England: League Two,2020,Cambridge United,6.21524,0.0023
+England: League Two,2020,Harrogate Town,5.69949,0.00085
+England: League Two,2019,Bradford City,21.31298,0.17285
+England: League Two,2019,Swindon Town,17.61226,0.1213
+England: League Two,2019,Scunthorpe,20.02251,0.12335
+England: League Two,2019,Exeter City,15.86292,0.08935
+England: League Two,2019,Mansfield Town,16.81127,0.08615
+England: League Two,2019,Salford City,15.72636,0.0784
+England: League Two,2019,Plymouth Argyle,15.4171,0.0733
+England: League Two,2019,Oldham Athletic,16.16928,0.05495
+England: League Two,2019,Forest Green Rovers,12.85044,0.04705
+England: League Two,2019,Walsall,10.02585,0.0204
+England: League Two,2019,Carlisle United,11.13008,0.02055
+England: League Two,2019,Colchester United,10.56027,0.0174
+England: League Two,2019,Stevenage,10.61373,0.01525
+England: League Two,2019,Northampton Town,11.26104,0.01275
+England: League Two,2019,Newport County,8.51802,0.0132
+England: League Two,2019,Leyton Orient,8.7067,0.01265
+England: League Two,2019,Grimsby Town,7.86522,0.0118
+England: League Two,2019,Cheltenham Town,10.0151,0.00925
+England: League Two,2019,Crewe Alexandra,9.05062,0.00665
+England: League Two,2019,Morecambe,7.65923,0.0045
+England: League Two,2019,Crawley Town,6.63275,0.00245
+England: League Two,2019,Port Vale,6.96721,0.0028
+England: League Two,2019,Cambridge United,6.87318,0.00185
+England: League Two,2019,Macclesfield,5.86466,0.0018
+England: League Two,2018,Milton Keynes Dons,25.20333,0.26825
+England: League Two,2018,Oldham Athletic,24.26623,0.16975
+England: League Two,2018,Mansfield Town,18.88123,0.09575
+England: League Two,2018,Bury,19.04321,0.0928
+England: League Two,2018,Exeter City,17.41266,0.0681
+England: League Two,2018,Lincoln City,16.19061,0.0591
+England: League Two,2018,Northampton Town,17.78994,0.0579
+England: League Two,2018,Crewe Alexandra,16.16592,0.0433
+England: League Two,2018,Swindon Town,13.78325,0.02795
+England: League Two,2018,Notts County,13.60892,0.0231
+England: League Two,2018,Forest Green Rovers,13.18979,0.0208
+England: League Two,2018,Carlisle United,11.66389,0.01285
+England: League Two,2018,Crawley Town,11.25188,0.01295
+England: League Two,2018,Tranmere Rovers,10.15596,0.00865
+England: League Two,2018,Cambridge United,10.69421,0.0065
+England: League Two,2018,Stevenage,10.09909,0.0076
+England: League Two,2018,Port Vale,9.1191,0.00735
+England: League Two,2018,Colchester United,8.31962,0.00555
+England: League Two,2018,Macclesfield,8.92177,0.0038
+England: League Two,2018,Cheltenham Town,8.8449,0.0026
+England: League Two,2018,Yeovil Town,7.68566,0.00205
+England: League Two,2018,Newport County,7.28274,0.00185
+England: League Two,2018,Grimsby Town,5.93307,0.0008
+England: League Two,2018,Morecambe,6.28923,0.00065

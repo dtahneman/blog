@@ -1,0 +1,109 @@
+league,season,team,spi,win_forecast
+Netherlands: Eredivisie,2022,Ajax,84.83067,0.6535
+Netherlands: Eredivisie,2022,Feyenoord,73.50664,0.1383
+Netherlands: Eredivisie,2022,PSV,73.46179,0.1391
+Netherlands: Eredivisie,2022,AZ,61.79518,0.0248
+Netherlands: Eredivisie,2022,FC Twente,61.69464,0.01995
+Netherlands: Eredivisie,2022,FC Utrecht,57.60456,0.01105
+Netherlands: Eredivisie,2022,Vitesse,54.40316,0.0053
+Netherlands: Eredivisie,2022,Heerenveen,48.64401,0.0015
+Netherlands: Eredivisie,2022,NEC,46.93557,0.0015
+Netherlands: Eredivisie,2022,FC Groningen,47.00622,0.0012
+Netherlands: Eredivisie,2022,Emmen,44.68108,0.00075
+Netherlands: Eredivisie,2022,FC Volendam,44.70172,0.00065
+Netherlands: Eredivisie,2022,Excelsior,44.41789,0.0008
+Netherlands: Eredivisie,2022,Sparta,43.89388,0.0006
+Netherlands: Eredivisie,2022,RKC,43.78441,0.00035
+Netherlands: Eredivisie,2022,Go Ahead Eagles,42.95873,0.00025
+Netherlands: Eredivisie,2022,Cambuur Leeuwarden,40.79834,0.00025
+Netherlands: Eredivisie,2022,Fortuna Sittard,40.62794,0.00015
+Netherlands: Eredivisie,2021,Ajax,84.7697,0.7409
+Netherlands: Eredivisie,2021,PSV,70.60336,0.1165
+Netherlands: Eredivisie,2021,AZ,66.65083,0.0661
+Netherlands: Eredivisie,2021,Feyenoord,62.33675,0.03685
+Netherlands: Eredivisie,2021,FC Utrecht,57.68217,0.01675
+Netherlands: Eredivisie,2021,Vitesse,53.21713,0.00745
+Netherlands: Eredivisie,2021,Sparta,48.20022,0.0028
+Netherlands: Eredivisie,2021,FC Groningen,46.75732,0.00195
+Netherlands: Eredivisie,2021,Heracles,45.34451,0.00135
+Netherlands: Eredivisie,2021,FC Twente,44.58976,0.0017
+Netherlands: Eredivisie,2021,Heerenveen,44.41641,0.00195
+Netherlands: Eredivisie,2021,Fortuna Sittard,44.20122,0.0012
+Netherlands: Eredivisie,2021,Willem II,43.54352,0.00125
+Netherlands: Eredivisie,2021,NEC,42.70234,0.00085
+Netherlands: Eredivisie,2021,PEC Zwolle,42.44522,0.0007
+Netherlands: Eredivisie,2021,Cambuur Leeuwarden,42.21671,0.00055
+Netherlands: Eredivisie,2021,Go Ahead Eagles,42.07314,0.00085
+Netherlands: Eredivisie,2021,RKC,36.70839,0.0003
+Netherlands: Eredivisie,2020,Ajax,77.30063,0.666
+Netherlands: Eredivisie,2020,PSV,63.32552,0.1241
+Netherlands: Eredivisie,2020,AZ,63.20648,0.1233
+Netherlands: Eredivisie,2020,Feyenoord,57.21563,0.046
+Netherlands: Eredivisie,2020,FC Utrecht,49.25146,0.0126
+Netherlands: Eredivisie,2020,Vitesse,46.56974,0.0087
+Netherlands: Eredivisie,2020,Willem II,42.47666,0.00345
+Netherlands: Eredivisie,2020,Heracles,42.1608,0.00395
+Netherlands: Eredivisie,2020,FC Groningen,41.53171,0.0031
+Netherlands: Eredivisie,2020,Heerenveen,40.82796,0.0028
+Netherlands: Eredivisie,2020,Sparta,39.83706,0.0018
+Netherlands: Eredivisie,2020,PEC Zwolle,37.50524,0.00175
+Netherlands: Eredivisie,2020,FC Twente,36.462,0.00095
+Netherlands: Eredivisie,2020,Emmen,35.86979,0.00045
+Netherlands: Eredivisie,2020,ADO Den Haag,33.86984,0.00065
+Netherlands: Eredivisie,2020,VVV Venlo,31.6707,0.00015
+Netherlands: Eredivisie,2020,Fortuna Sittard,31.50696,0.00015
+Netherlands: Eredivisie,2020,RKC,30.17237,0.0001
+Netherlands: Eredivisie,2019,Ajax,81.14413,0.7277
+Netherlands: Eredivisie,2019,PSV,70.4656,0.18625
+Netherlands: Eredivisie,2019,Feyenoord,58.63028,0.0325
+Netherlands: Eredivisie,2019,Vitesse,53.98105,0.0179
+Netherlands: Eredivisie,2019,AZ,53.29544,0.01725
+Netherlands: Eredivisie,2019,FC Utrecht,48.61344,0.0085
+Netherlands: Eredivisie,2019,FC Groningen,43.82535,0.0032
+Netherlands: Eredivisie,2019,ADO Den Haag,45.97563,0.00185
+Netherlands: Eredivisie,2019,Heerenveen,41.38546,0.0018
+Netherlands: Eredivisie,2019,Willem II,38.92009,0.00115
+Netherlands: Eredivisie,2019,Sparta,38.98602,0.00055
+Netherlands: Eredivisie,2019,VVV Venlo,37.24876,0.0005
+Netherlands: Eredivisie,2019,FC Twente,37.92036,0.0005
+Netherlands: Eredivisie,2019,RKC,35.29714,0.00025
+Netherlands: Eredivisie,2019,PEC Zwolle,35.73051,0.00005
+Netherlands: Eredivisie,2019,Heracles,35.20194,0.00005
+Netherlands: Eredivisie,2019,Emmen,33.25331,0.00001
+Netherlands: Eredivisie,2019,Fortuna Sittard,26.80408,0.00001
+Netherlands: Eredivisie,2018,Ajax,75.16102,0.51585
+Netherlands: Eredivisie,2018,PSV,67.60357,0.21095
+Netherlands: Eredivisie,2018,Feyenoord,65.28284,0.1565
+Netherlands: Eredivisie,2018,AZ,60.16246,0.0734
+Netherlands: Eredivisie,2018,Vitesse,50.84925,0.01645
+Netherlands: Eredivisie,2018,FC Utrecht,46.81372,0.0085
+Netherlands: Eredivisie,2018,FC Groningen,45.51469,0.00495
+Netherlands: Eredivisie,2018,Heerenveen,42.46318,0.00235
+Netherlands: Eredivisie,2018,Willem II,41.79938,0.0028
+Netherlands: Eredivisie,2018,ADO Den Haag,40.50098,0.00285
+Netherlands: Eredivisie,2018,NAC,38.99612,0.00135
+Netherlands: Eredivisie,2018,Heracles,37.693,0.0007
+Netherlands: Eredivisie,2018,Fortuna Sittard,36.39313,0.00105
+Netherlands: Eredivisie,2018,De Graafschap,36.26429,0.00085
+Netherlands: Eredivisie,2018,Emmen,35.91318,0.00055
+Netherlands: Eredivisie,2018,Excelsior,34.91319,0.00055
+Netherlands: Eredivisie,2018,PEC Zwolle,33.08811,0.00015
+Netherlands: Eredivisie,2018,VVV Venlo,31.06578,0.0002
+Netherlands: Eredivisie,2017,Ajax,66.78564,0.42738
+Netherlands: Eredivisie,2017,PSV,63.24575,0.28038
+Netherlands: Eredivisie,2017,Feyenoord,58.73836,0.16634
+Netherlands: Eredivisie,2017,AZ,48.3171,0.03778
+Netherlands: Eredivisie,2017,FC Utrecht,46.20966,0.03066
+Netherlands: Eredivisie,2017,Vitesse,43.80361,0.02116
+Netherlands: Eredivisie,2017,FC Twente,39.35763,0.00902
+Netherlands: Eredivisie,2017,Heracles,38.75116,0.00768
+Netherlands: Eredivisie,2017,FC Groningen,37.89856,0.00584
+Netherlands: Eredivisie,2017,Heerenveen,36.41666,0.00478
+Netherlands: Eredivisie,2017,PEC Zwolle,33.88446,0.0031
+Netherlands: Eredivisie,2017,ADO Den Haag,33.18737,0.00252
+Netherlands: Eredivisie,2017,Excelsior,30.3501,0.00092
+Netherlands: Eredivisie,2017,Willem II,28.46369,0.00058
+Netherlands: Eredivisie,2017,NAC,28.76707,0.00066
+Netherlands: Eredivisie,2017,Roda JC,27.24221,0.00068
+Netherlands: Eredivisie,2017,VVV Venlo,25.80544,0.00036
+Netherlands: Eredivisie,2017,Sparta,25.6481,0.00016

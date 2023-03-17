@@ -1,0 +1,65 @@
+league,season,team,spi,win_forecast
+Denmark: Superliga,2022,FC Copenhagen,60.06485,0.4045
+Denmark: Superliga,2022,FC Midtjylland,58.47764,0.3831
+Denmark: Superliga,2022,Brondby,44.06773,0.0854
+Denmark: Superliga,2022,Silkeborg,42.45249,0.04985
+Denmark: Superliga,2022,FC Nordsjaelland,38.39519,0.029
+Denmark: Superliga,2022,Randers FC,38.41673,0.01955
+Denmark: Superliga,2022,Viborg,35.38414,0.00835
+Denmark: Superliga,2022,AaB,37.9212,0.00585
+Denmark: Superliga,2022,AC Horsens,30.40802,0.0074
+Denmark: Superliga,2022,AGF Aarhus,32.72898,0.00255
+Denmark: Superliga,2022,Odense BK,33.01206,0.00445
+Denmark: Superliga,2022,Lyngby,29.25136,0.00001
+Denmark: Superliga,2021,FC Midtjylland,61.29901,0.5551
+Denmark: Superliga,2021,FC Copenhagen,54.00628,0.235
+Denmark: Superliga,2021,Brondby,48.70477,0.06885
+Denmark: Superliga,2021,FC Nordsjaelland,41.81373,0.0424
+Denmark: Superliga,2021,Randers FC,36.71754,0.0359
+Denmark: Superliga,2021,AaB,38.93931,0.0262
+Denmark: Superliga,2021,AGF Aarhus,39.59255,0.01545
+Denmark: Superliga,2021,Odense BK,36.21819,0.01305
+Denmark: Superliga,2021,Silkeborg,28.46609,0.00245
+Denmark: Superliga,2021,Sonderjyske,29.73065,0.0026
+Denmark: Superliga,2021,Viborg,26.85027,0.00155
+Denmark: Superliga,2021,Vejle,29.80155,0.00145
+Denmark: Superliga,2020,FC Midtjylland,60.74454,0.41765
+Denmark: Superliga,2020,FC Copenhagen,57.40181,0.2976
+Denmark: Superliga,2020,Brondby,48.31191,0.09205
+Denmark: Superliga,2020,AGF Aarhus,47.19897,0.0773
+Denmark: Superliga,2020,FC Nordsjaelland,43.73763,0.0419
+Denmark: Superliga,2020,AaB,42.68842,0.03905
+Denmark: Superliga,2020,Odense BK,36.98126,0.01395
+Denmark: Superliga,2020,Randers FC,34.69487,0.0089
+Denmark: Superliga,2020,AC Horsens,29.801,0.0031
+Denmark: Superliga,2020,Vejle,29.70308,0.0041
+Denmark: Superliga,2020,Sonderjyske,29.72446,0.0034
+Denmark: Superliga,2020,Lyngby,26.141,0.001
+Denmark: Superliga,2019,FC Copenhagen,66.73605,0.6296
+Denmark: Superliga,2019,FC Midtjylland,58.99484,0.26485
+Denmark: Superliga,2019,Brondby,53.09728,0.05615
+Denmark: Superliga,2019,FC Nordsjaelland,45.3825,0.01815
+Denmark: Superliga,2019,Odense BK,44.48973,0.01595
+Denmark: Superliga,2019,Randers FC,38.24006,0.0041
+Denmark: Superliga,2019,Sonderjyske,36.18904,0.00335
+Denmark: Superliga,2019,AGF Aarhus,39.29736,0.00245
+Denmark: Superliga,2019,AaB,35.83581,0.0019
+Denmark: Superliga,2019,Esbjerg,37.00124,0.0018
+Denmark: Superliga,2019,Hobro IK,31.29225,0.0008
+Denmark: Superliga,2019,AC Horsens,27.91919,0.0004
+Denmark: Superliga,2019,Lyngby,26.42226,0.0004
+Denmark: Superliga,2019,Silkeborg,24.43645,0.0001
+Denmark: Superliga,2018,Brondby,61.92563,0.39985
+Denmark: Superliga,2018,FC Copenhagen,61.69786,0.3399
+Denmark: Superliga,2018,FC Midtjylland,59.194,0.20955
+Denmark: Superliga,2018,FC Nordsjaelland,45.89341,0.0222
+Denmark: Superliga,2018,AaB,37.97309,0.01535
+Denmark: Superliga,2018,AGF Aarhus,37.84386,0.00675
+Denmark: Superliga,2018,Sonderjyske,33.68548,0.0017
+Denmark: Superliga,2018,AC Horsens,32.08502,0.00135
+Denmark: Superliga,2018,Vejle,30.68594,0.00075
+Denmark: Superliga,2018,Randers FC,30.57315,0.0013
+Denmark: Superliga,2018,Odense BK,32.68297,0.0007
+Denmark: Superliga,2018,Vendsyssel,26.31199,0.0004
+Denmark: Superliga,2018,Hobro IK,29.7669,0.00015
+Denmark: Superliga,2018,Esbjerg,26.52707,0.00005

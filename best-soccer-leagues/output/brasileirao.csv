@@ -1,0 +1,121 @@
+league,season,team,spi,win_forecast
+Brazil: Brasileirão,2022,Flamengo,67.90625,0.30575
+Brazil: Brasileirão,2022,Palmeiras,63.96787,0.18895
+Brazil: Brasileirão,2022,Atletico Mineiro,63.3974,0.17855
+Brazil: Brasileirão,2022,São Paulo,55.05794,0.05235
+Brazil: Brasileirão,2022,Corinthians,54.94734,0.05
+Brazil: Brasileirão,2022,Bragantino,52.72443,0.03835
+Brazil: Brasileirão,2022,Fluminense,52.59651,0.03615
+Brazil: Brasileirão,2022,Internacional,52.14756,0.03535
+Brazil: Brasileirão,2022,Atlético Paranaense,50.58755,0.02445
+Brazil: Brasileirão,2022,América Mineiro,49.25085,0.02075
+Brazil: Brasileirão,2022,Santos,48.79988,0.0169
+Brazil: Brasileirão,2022,Fortaleza,47.64499,0.01585
+Brazil: Brasileirão,2022,Ceará,46.40568,0.0117
+Brazil: Brasileirão,2022,Cuiaba,41.65825,0.00405
+Brazil: Brasileirão,2022,Juventude,41.45501,0.0044
+Brazil: Brasileirão,2022,Atlético Goianiense,41.34436,0.0046
+Brazil: Brasileirão,2022,Botafogo,40.47997,0.00405
+Brazil: Brasileirão,2022,Coritiba,40.00657,0.0033
+Brazil: Brasileirão,2022,Goiás,38.62842,0.0029
+Brazil: Brasileirão,2022,Avaí,37.33394,0.0016
+Brazil: Brasileirão,2021,Flamengo,74.46875,0.57345
+Brazil: Brasileirão,2021,Palmeiras,63.87059,0.0906
+Brazil: Brasileirão,2021,Atletico Mineiro,59.85847,0.069
+Brazil: Brasileirão,2021,Internacional,57.98714,0.03975
+Brazil: Brasileirão,2021,Bragantino,57.10181,0.0399
+Brazil: Brasileirão,2021,Fluminense,56.22301,0.03665
+Brazil: Brasileirão,2021,Atlético Paranaense,53.17735,0.03615
+Brazil: Brasileirão,2021,Grêmio,57.17869,0.0259
+Brazil: Brasileirão,2021,São Paulo,55.80998,0.0177
+Brazil: Brasileirão,2021,Santos,54.05111,0.0193
+Brazil: Brasileirão,2021,Corinthians,52.44966,0.0172
+Brazil: Brasileirão,2021,Fortaleza,47.15283,0.01285
+Brazil: Brasileirão,2021,Atlético Goianiense,44.39943,0.0072
+Brazil: Brasileirão,2021,Bahía,47.21089,0.0055
+Brazil: Brasileirão,2021,Ceará,47.20485,0.00615
+Brazil: Brasileirão,2021,Sport Recife,41.21226,0.0008
+Brazil: Brasileirão,2021,Juventude,39.47588,0.00075
+Brazil: Brasileirão,2021,Cuiaba,39.46382,0.00055
+Brazil: Brasileirão,2021,América Mineiro,39.30127,0.0005
+Brazil: Brasileirão,2021,Chapecoense AF,37.16341,0.0001
+Brazil: Brasileirão,2020,Flamengo,73.73261,0.43145
+Brazil: Brasileirão,2020,Palmeiras,67.87766,0.184
+Brazil: Brasileirão,2020,Grêmio,65.63493,0.14445
+Brazil: Brasileirão,2020,Santos,61.01824,0.0622
+Brazil: Brasileirão,2020,São Paulo,58.0516,0.03885
+Brazil: Brasileirão,2020,Internacional,55.89938,0.02765
+Brazil: Brasileirão,2020,Atlético Paranaense,56.10941,0.02605
+Brazil: Brasileirão,2020,Corinthians,55.50995,0.02605
+Brazil: Brasileirão,2020,Atletico Mineiro,51.72248,0.01325
+Brazil: Brasileirão,2020,Fluminense,50.8972,0.0138
+Brazil: Brasileirão,2020,Vasco da Gama,50.06027,0.01005
+Brazil: Brasileirão,2020,Bahía,48.11722,0.00705
+Brazil: Brasileirão,2020,Ceará,46.2942,0.0044
+Brazil: Brasileirão,2020,Fortaleza,45.0174,0.00305
+Brazil: Brasileirão,2020,Bragantino,43.00281,0.0021
+Brazil: Brasileirão,2020,Goiás,42.54545,0.00195
+Brazil: Brasileirão,2020,Coritiba,41.08269,0.00145
+Brazil: Brasileirão,2020,Botafogo,40.50354,0.0007
+Brazil: Brasileirão,2020,Sport Recife,40.00712,0.00095
+Brazil: Brasileirão,2020,Atlético Goianiense,38.89735,0.00055
+Brazil: Brasileirão,2019,Palmeiras,70.25239,0.2925
+Brazil: Brasileirão,2019,Flamengo,68.59137,0.2309
+Brazil: Brasileirão,2019,Grêmio,64.88105,0.1379
+Brazil: Brasileirão,2019,Santos,61.26211,0.08165
+Brazil: Brasileirão,2019,Internacional,58.68614,0.0543
+Brazil: Brasileirão,2019,São Paulo,57.83005,0.04505
+Brazil: Brasileirão,2019,Atletico Mineiro,56.1809,0.03885
+Brazil: Brasileirão,2019,Corinthians,54.86466,0.0262
+Brazil: Brasileirão,2019,Atlético Paranaense,54.20598,0.0235
+Brazil: Brasileirão,2019,Cruzeiro,53.93002,0.0201
+Brazil: Brasileirão,2019,Bahía,51.19898,0.01385
+Brazil: Brasileirão,2019,Botafogo,48.93137,0.00925
+Brazil: Brasileirão,2019,Vasco da Gama,48.75419,0.00905
+Brazil: Brasileirão,2019,Ceará,47.05914,0.00515
+Brazil: Brasileirão,2019,Chapecoense AF,45.94138,0.00495
+Brazil: Brasileirão,2019,Fluminense,45.78799,0.0046
+Brazil: Brasileirão,2019,Goiás,39.15127,0.00095
+Brazil: Brasileirão,2019,CSA,37.7874,0.00055
+Brazil: Brasileirão,2019,Fortaleza,37.4714,0.0004
+Brazil: Brasileirão,2019,Avaí,35.60561,0.0003
+Brazil: Brasileirão,2018,Palmeiras,58.06551,0.1448
+Brazil: Brasileirão,2018,Flamengo,57.42026,0.1362
+Brazil: Brasileirão,2018,Grêmio,54.73558,0.12145
+Brazil: Brasileirão,2018,Corinthians,53.32429,0.0883
+Brazil: Brasileirão,2018,Atlético Paranaense,51.65206,0.06725
+Brazil: Brasileirão,2018,São Paulo,51.21266,0.06465
+Brazil: Brasileirão,2018,Atletico Mineiro,52.62307,0.06175
+Brazil: Brasileirão,2018,Internacional,50.41005,0.0545
+Brazil: Brasileirão,2018,Santos,50.1069,0.0522
+Brazil: Brasileirão,2018,Cruzeiro,51.35528,0.0445
+Brazil: Brasileirão,2018,Vasco da Gama,47.31945,0.03485
+Brazil: Brasileirão,2018,Vítoria,48.32165,0.0316
+Brazil: Brasileirão,2018,Fluminense,46.54377,0.02175
+Brazil: Brasileirão,2018,Bahía,46.40815,0.02065
+Brazil: Brasileirão,2018,Botafogo,45.68395,0.01965
+Brazil: Brasileirão,2018,Chapecoense AF,45.22907,0.01535
+Brazil: Brasileirão,2018,Sport Recife,42.9286,0.00905
+Brazil: Brasileirão,2018,Paraná,39.10701,0.0039
+Brazil: Brasileirão,2018,Ceará,38.84475,0.00395
+Brazil: Brasileirão,2018,América Mineiro,36.64558,0.00365
+Brazil: Brasileirão,2017,Corinthians,,0.70492
+Brazil: Brasileirão,2017,Grêmio,,0.19882
+Brazil: Brasileirão,2017,Santos,,0.03478
+Brazil: Brasileirão,2017,Palmeiras,,0.03348
+Brazil: Brasileirão,2017,Flamengo,,0.01652
+Brazil: Brasileirão,2017,Cruzeiro,,0.0061
+Brazil: Brasileirão,2017,Sport Recife,,0.0025
+Brazil: Brasileirão,2017,Atlético Paranaense,,0.00056
+Brazil: Brasileirão,2017,Fluminense,,0.00088
+Brazil: Brasileirão,2017,Botafogo,,0.0004
+Brazil: Brasileirão,2017,Atletico Mineiro,,0.00034
+Brazil: Brasileirão,2017,Ponte Preta,,0.00016
+Brazil: Brasileirão,2017,Coritiba,,0.00012
+Brazil: Brasileirão,2017,São Paulo,,0.00008
+Brazil: Brasileirão,2017,Bahía,,0.00016
+Brazil: Brasileirão,2017,Vasco da Gama,,0.00004
+Brazil: Brasileirão,2017,Chapecoense AF,,0.00012
+Brazil: Brasileirão,2017,Vítoria,,0.00002
+Brazil: Brasileirão,2017,Avaí,,0.00001
+Brazil: Brasileirão,2017,Atlético Goianiense,,0.00001

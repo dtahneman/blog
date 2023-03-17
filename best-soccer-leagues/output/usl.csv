@@ -1,0 +1,187 @@
+league,season,team,spi,win_forecast
+USA: USL Championship,2023,Louisville City FC,33.42406,0.22165
+USA: USL Championship,2023,San Antonio FC,26.64669,0.1094
+USA: USL Championship,2023,Tampa Bay Rowdies,24.65639,0.0967
+USA: USL Championship,2023,Arizona United,27.813,0.09365
+USA: USL Championship,2023,San Diego Loyal SC,24.77885,0.066
+USA: USL Championship,2023,Orange County SC,21.60261,0.04955
+USA: USL Championship,2023,Birmingham Legion FC,20.17807,0.04535
+USA: USL Championship,2023,Colorado Springs Switchbacks FC,20.75996,0.04515
+USA: USL Championship,2023,Sacramento Republic FC,19.76106,0.04085
+USA: USL Championship,2023,Miami FC,18.03898,0.0391
+USA: USL Championship,2023,Memphis 901 FC,18.8695,0.03905
+USA: USL Championship,2023,New Mexico United,18.31002,0.03205
+USA: USL Championship,2023,El Paso Locomotive FC,16.67695,0.02105
+USA: USL Championship,2023,Rio Grande Valley FC Toros,15.15745,0.01825
+USA: USL Championship,2023,Pittsburgh Riverhounds,13.56305,0.01735
+USA: USL Championship,2023,Oakland Roots,14.25022,0.0145
+USA: USL Championship,2023,Hartford Athletic,12.73941,0.011
+USA: USL Championship,2023,Detroit City FC,10.79559,0.00955
+USA: USL Championship,2023,Tulsa Roughnecks,11.53377,0.0086
+USA: USL Championship,2023,Charleston Battery,11.97326,0.0082
+USA: USL Championship,2023,Indy Eleven,10.87771,0.00705
+USA: USL Championship,2023,Monterey Bay,9.22477,0.0031
+USA: USL Championship,2023,Loudoun United FC,7.03508,0.00165
+USA: USL Championship,2023,Las Vegas Lights FC,7.02668,0.0012
+USA: USL Championship,2022,San Antonio FC,30.95653,0.14625
+USA: USL Championship,2022,Tampa Bay Rowdies,24.80472,0.1072
+USA: USL Championship,2022,Arizona United,28.05079,0.10095
+USA: USL Championship,2022,Louisville City FC,22.79826,0.0857
+USA: USL Championship,2022,Birmingham Legion FC,20.26428,0.05945
+USA: USL Championship,2022,Orange County SC,22.88591,0.05685
+USA: USL Championship,2022,Miami FC,20.25676,0.05595
+USA: USL Championship,2022,San Diego Loyal SC,22.88337,0.05425
+USA: USL Championship,2022,Sacramento Republic FC,20.73779,0.0475
+USA: USL Championship,2022,Pittsburgh Riverhounds,18.25781,0.0464
+USA: USL Championship,2022,El Paso Locomotive FC,19.67854,0.0382
+USA: USL Championship,2022,New Mexico United,19.93019,0.03785
+USA: USL Championship,2022,Colorado Springs Switchbacks FC,18.67238,0.02845
+USA: USL Championship,2022,Memphis 901 FC,16.05551,0.0275
+USA: USL Championship,2022,Rio Grande Valley FC Toros,17.22376,0.0257
+USA: USL Championship,2022,Tulsa Roughnecks,14.71212,0.01935
+USA: USL Championship,2022,Hartford Athletic,12.77538,0.01505
+USA: USL Championship,2022,Oakland Roots,13.89964,0.01325
+USA: USL Championship,2022,Atlanta United 2,10.68818,0.00735
+USA: USL Championship,2022,Charleston Battery,10.18593,0.007
+USA: USL Championship,2022,Detroit City FC,9.63921,0.0068
+USA: USL Championship,2022,Indy Eleven,10.33074,0.00675
+USA: USL Championship,2022,Monterey Bay,7.3049,0.00185
+USA: USL Championship,2022,New York Red Bulls II,5.97944,0.00125
+USA: USL Championship,2022,Loudoun United FC,5.8996,0.00125
+USA: USL Championship,2022,LA Galaxy II,7.37797,0.001
+USA: USL Championship,2022,Las Vegas Lights FC,6.83816,0.0009
+USA: USL Championship,2021,Arizona United,37.8843,0.1755
+USA: USL Championship,2021,Tampa Bay Rowdies,28.36661,0.0967
+USA: USL Championship,2021,San Antonio FC,31.09879,0.0932
+USA: USL Championship,2021,Louisville City FC,27.16036,0.0787
+USA: USL Championship,2021,Orange County SC,27.42225,0.0717
+USA: USL Championship,2021,Sacramento Republic FC,26.04475,0.06025
+USA: USL Championship,2021,Indy Eleven,23.92017,0.05835
+USA: USL Championship,2021,Pittsburgh Riverhounds,23.06915,0.05315
+USA: USL Championship,2021,Birmingham Legion FC,22.61863,0.0367
+USA: USL Championship,2021,El Paso Locomotive FC,21.55781,0.0357
+USA: USL Championship,2021,San Diego Loyal SC,21.79396,0.03435
+USA: USL Championship,2021,New Mexico United,22.07851,0.03355
+USA: USL Championship,2021,Charlotte Independence,20.59914,0.0321
+USA: USL Championship,2021,Miami FC,20.22721,0.02735
+USA: USL Championship,2021,Tulsa Roughnecks,18.55868,0.0226
+USA: USL Championship,2021,Austin Bold FC,18.97282,0.0169
+USA: USL Championship,2021,Charleston Battery,15.7254,0.0147
+USA: USL Championship,2021,Colorado Springs Switchbacks FC,16.65779,0.01265
+USA: USL Championship,2021,Memphis 901 FC,15.53304,0.0102
+USA: USL Championship,2021,Oklahoma City Energy FC,13.65976,0.00835
+USA: USL Championship,2021,Rio Grande Valley FC Toros,13.25213,0.00515
+USA: USL Championship,2021,Real Monarchs SLC,11.94272,0.0041
+USA: USL Championship,2021,Tacoma Defiance,11.45359,0.00345
+USA: USL Championship,2021,Oakland Roots,10.6497,0.0033
+USA: USL Championship,2021,Hartford Athletic,10.80056,0.0032
+USA: USL Championship,2021,Atlanta United 2,9.27309,0.0022
+USA: USL Championship,2021,Swope Park Rangers,9.60796,0.0019
+USA: USL Championship,2021,Las Vegas Lights FC,9.59723,0.0013
+USA: USL Championship,2021,LA Galaxy II,8.26267,0.00125
+USA: USL Championship,2021,New York Red Bulls II,8.47314,0.00085
+USA: USL Championship,2021,Loudoun United FC,6.48524,0.0006
+USA: USL Championship,2020,Arizona United,38.69297,0.2141
+USA: USL Championship,2020,Miami FC,29.63045,0.09695
+USA: USL Championship,2020,Tampa Bay Rowdies,27.55017,0.0816
+USA: USL Championship,2020,Indy Eleven,26.36394,0.08025
+USA: USL Championship,2020,Orange County SC,27.67296,0.06305
+USA: USL Championship,2020,Louisville City FC,26.07889,0.05865
+USA: USL Championship,2020,Pittsburgh Riverhounds,22.77472,0.04875
+USA: USL Championship,2020,San Antonio FC,27.39333,0.0478
+USA: USL Championship,2020,Sacramento Republic FC,24.07408,0.03885
+USA: USL Championship,2020,Austin Bold FC,23.01664,0.03225
+USA: USL Championship,2020,Reno 1868 FC,23.58502,0.0305
+USA: USL Championship,2020,North Carolina FC,21.43317,0.02715
+USA: USL Championship,2020,Saint Louis FC,19.1598,0.0253
+USA: USL Championship,2020,Real Monarchs SLC,22.51333,0.0236
+USA: USL Championship,2020,El Paso Locomotive FC,17.94508,0.0172
+USA: USL Championship,2020,Oklahoma City Energy FC,18.63315,0.0143
+USA: USL Championship,2020,Portland Timbers 2,20.29591,0.01425
+USA: USL Championship,2020,New Mexico United,18.33076,0.0127
+USA: USL Championship,2020,Charlotte Independence,16.25864,0.01215
+USA: USL Championship,2020,San Diego Loyal SC,17.62525,0.01165
+USA: USL Championship,2020,Charleston Battery,15.3088,0.0102
+USA: USL Championship,2020,Birmingham Legion FC,15.42764,0.00995
+USA: USL Championship,2020,Memphis 901 FC,13.26785,0.0062
+USA: USL Championship,2020,New York Red Bulls II,13.1316,0.0045
+USA: USL Championship,2020,LA Galaxy II,13.2805,0.0034
+USA: USL Championship,2020,Loudoun United FC,11.82123,0.00245
+USA: USL Championship,2020,Tulsa Roughnecks,11.48751,0.00225
+USA: USL Championship,2020,Hartford Athletic,11.75873,0.00215
+USA: USL Championship,2020,Las Vegas Lights FC,10.62397,0.00205
+USA: USL Championship,2020,Colorado Springs Switchbacks FC,11.67403,0.00195
+USA: USL Championship,2020,Tacoma Defiance,10.76438,0.0016
+USA: USL Championship,2020,Atlanta United 2,7.99919,0.00085
+USA: USL Championship,2020,Rio Grande Valley FC Toros,9.19675,0.00055
+USA: USL Championship,2020,Bethlehem Steel FC,7.22363,0.0005
+USA: USL Championship,2020,Swope Park Rangers,7.41062,0.00035
+USA: USL Championship,2019,Louisville City FC,35.92774,0.1354
+USA: USL Championship,2019,Arizona United,34.20786,0.1194
+USA: USL Championship,2019,Nashville SC,32.20478,0.10845
+USA: USL Championship,2019,Orange County SC,32.14783,0.0847
+USA: USL Championship,2019,Oklahoma City Energy FC,27.92817,0.0592
+USA: USL Championship,2019,Sacramento Republic FC,27.49367,0.05795
+USA: USL Championship,2019,Indy Eleven,27.44499,0.051
+USA: USL Championship,2019,Tampa Bay Rowdies,25.95386,0.04545
+USA: USL Championship,2019,Reno 1868 FC,25.47599,0.04315
+USA: USL Championship,2019,Pittsburgh Riverhounds,23.90644,0.03435
+USA: USL Championship,2019,San Antonio FC,24.64043,0.03235
+USA: USL Championship,2019,Real Monarchs SLC,24.19623,0.0277
+USA: USL Championship,2019,Charleston Battery,21.43284,0.0243
+USA: USL Championship,2019,New York Red Bulls II,24.17474,0.0235
+USA: USL Championship,2019,Saint Louis FC,21.60028,0.02145
+USA: USL Championship,2019,Charlotte Independence,21.24262,0.01785
+USA: USL Championship,2019,Austin Bold FC,20.96765,0.01475
+USA: USL Championship,2019,Fresno FC,19.47114,0.01475
+USA: USL Championship,2019,North Carolina FC,20.64651,0.0128
+USA: USL Championship,2019,New Mexico United,16.78288,0.0087
+USA: USL Championship,2019,LA Galaxy II,19.33599,0.00855
+USA: USL Championship,2019,Birmingham Legion FC,17.09309,0.00765
+USA: USL Championship,2019,Portland Timbers 2,16.7189,0.0072
+USA: USL Championship,2019,Ottawa Fury FC,14.79554,0.00605
+USA: USL Championship,2019,Colorado Springs Switchbacks FC,15.15059,0.00585
+USA: USL Championship,2019,Bethlehem Steel FC,15.58875,0.00575
+USA: USL Championship,2019,Hartford Athletic,15.26317,0.00475
+USA: USL Championship,2019,El Paso Locomotive FC,14.67031,0.0047
+USA: USL Championship,2019,Swope Park Rangers,14.93346,0.0045
+USA: USL Championship,2019,Rio Grande Valley FC Toros,12.56857,0.00325
+USA: USL Championship,2019,Memphis 901 FC,11.572,0.002
+USA: USL Championship,2019,Las Vegas Lights FC,12.12783,0.0013
+USA: USL Championship,2019,Atlanta United 2,8.09004,0.0004
+USA: USL Championship,2019,Tulsa Roughnecks,7.75922,0.0004
+USA: USL Championship,2019,Loudoun United FC,6.70221,0.0003
+USA: USL Championship,2019,Tacoma Defiance,7.30221,0.00015
+USA: USL Championship,2018,Real Monarchs SLC,35.6308,0.1836
+USA: USL Championship,2018,FC Cincinnati,38.92662,0.17265
+USA: USL Championship,2018,Orange County SC,35.67569,0.1175
+USA: USL Championship,2018,Louisville City FC,36.24164,0.1079
+USA: USL Championship,2018,Arizona United,32.76151,0.0867
+USA: USL Championship,2018,Charleston Battery,29.68281,0.07185
+USA: USL Championship,2018,Pittsburgh Riverhounds,25.3361,0.05295
+USA: USL Championship,2018,Reno 1868 FC,31.15994,0.0514
+USA: USL Championship,2018,Sacramento Republic FC,24.64843,0.036
+USA: USL Championship,2018,Bethlehem Steel FC,31.94645,0.0235
+USA: USL Championship,2018,Indy Eleven,27.0758,0.02285
+USA: USL Championship,2018,San Antonio FC,22.99585,0.0179
+USA: USL Championship,2018,New York Red Bulls II,31.18211,0.013
+USA: USL Championship,2018,Nashville SC,19.24661,0.01105
+USA: USL Championship,2018,Saint Louis FC,21.02234,0.00605
+USA: USL Championship,2018,Swope Park Rangers,20.03455,0.0044
+USA: USL Championship,2018,Fresno FC,24.94868,0.004
+USA: USL Championship,2018,Carolina Railhawks,22.0071,0.004
+USA: USL Championship,2018,Ottawa Fury FC,18.42122,0.00375
+USA: USL Championship,2018,Portland Timbers 2,21.10318,0.00365
+USA: USL Championship,2018,Tampa Bay Rowdies,20.13992,0.00185
+USA: USL Championship,2018,Penn FC,18.98727,0.0018
+USA: USL Championship,2018,Colorado Springs Switchbacks FC,18.08238,0.0007
+USA: USL Championship,2018,Charlotte Independence,17.19533,0.00045
+USA: USL Championship,2018,LA Galaxy II,21.96656,0.0002
+USA: USL Championship,2018,Oklahoma City Energy FC,15.65184,0.00015
+USA: USL Championship,2018,Rio Grande Valley FC Toros,11.72055,0.0001
+USA: USL Championship,2018,Las Vegas Lights FC,14.2955,0.00005
+USA: USL Championship,2018,Richmond Kickers,8.64572,0.00001
+USA: USL Championship,2018,Seattle Sounders 2,9.4618,0.00001
+USA: USL Championship,2018,Atlanta United 2,9.32138,0.00001
+USA: USL Championship,2018,Tulsa Roughnecks,8.59905,0.00001
+USA: USL Championship,2018,Toronto FC II,8.53863,0.00001

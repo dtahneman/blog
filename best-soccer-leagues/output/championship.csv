@@ -1,0 +1,145 @@
+league,season,team,spi,win_forecast
+England: Championship,2022,Norwich City,60.43481,0.23045
+England: Championship,2022,Watford,58.84191,0.18665
+England: Championship,2022,Sheffield United,56.62769,0.1402
+England: Championship,2022,West Bromwich Albion,54.26557,0.1024
+England: Championship,2022,Burnley,53.19977,0.08765
+England: Championship,2022,Middlesbrough,47.19032,0.03385
+England: Championship,2022,Coventry City,46.20511,0.0338
+England: Championship,2022,Stoke City,44.72575,0.02355
+England: Championship,2022,Preston North End,44.67204,0.02375
+England: Championship,2022,Blackburn,43.63141,0.0199
+England: Championship,2022,Millwall,43.12303,0.01655
+England: Championship,2022,Luton Town,42.15841,0.01305
+England: Championship,2022,Queens Park Rangers,41.62951,0.01415
+England: Championship,2022,Huddersfield Town,41.55307,0.01215
+England: Championship,2022,Cardiff City,40.42724,0.0105
+England: Championship,2022,Swansea City,40.20148,0.0088
+England: Championship,2022,Bristol City,39.72741,0.00985
+England: Championship,2022,Blackpool,39.41036,0.00835
+England: Championship,2022,Birmingham,37.57939,0.00625
+England: Championship,2022,Sunderland,37.27985,0.00525
+England: Championship,2022,Hull City,36.89515,0.00445
+England: Championship,2022,Reading,35.88577,0.00445
+England: Championship,2022,Wigan,33.83359,0.00265
+England: Championship,2022,Rotherham United,32.34185,0.00135
+England: Championship,2021,Fulham,61.67906,0.2656
+England: Championship,2021,AFC Bournemouth,58.09708,0.17245
+England: Championship,2021,Sheffield United,55.37482,0.10745
+England: Championship,2021,West Bromwich Albion,51.40431,0.0759
+England: Championship,2021,Blackburn,48.75788,0.05835
+England: Championship,2021,Stoke City,47.6101,0.04495
+England: Championship,2021,Barnsley,48.00782,0.0423
+England: Championship,2021,Cardiff City,47.3903,0.03775
+England: Championship,2021,Middlesbrough,44.53669,0.02525
+England: Championship,2021,Queens Park Rangers,44.62226,0.0244
+England: Championship,2021,Birmingham,41.77533,0.01735
+England: Championship,2021,Reading,43.28787,0.0172
+England: Championship,2021,Luton Town,41.58415,0.0168
+England: Championship,2021,Millwall,42.26475,0.0163
+England: Championship,2021,Swansea City,42.63647,0.0127
+England: Championship,2021,Coventry City,40.5407,0.0147
+England: Championship,2021,Derby County,41.28868,0.0126
+England: Championship,2021,Nottingham Forest,41.21228,0.0089
+England: Championship,2021,Preston North End,40.79818,0.0088
+England: Championship,2021,Hull City,37.05561,0.00695
+England: Championship,2021,Huddersfield Town,37.98711,0.00655
+England: Championship,2021,Blackpool,34.97523,0.0032
+England: Championship,2021,Bristol City,33.05452,0.00205
+England: Championship,2021,Peterborough United,32.80656,0.0015
+England: Championship,2020,Watford,65.1238,0.23755
+England: Championship,2020,AFC Bournemouth,65.15109,0.2264
+England: Championship,2020,Brentford,61.25934,0.13175
+England: Championship,2020,Norwich City,60.45217,0.1276
+England: Championship,2020,Stoke City,53.50284,0.0426
+England: Championship,2020,Cardiff City,51.14016,0.0283
+England: Championship,2020,Swansea City,50.19293,0.02515
+England: Championship,2020,Millwall,48.57896,0.01795
+England: Championship,2020,Bristol City,47.88439,0.016
+England: Championship,2020,Preston North End,48.02044,0.0151
+England: Championship,2020,Huddersfield Town,47.83827,0.0155
+England: Championship,2020,Derby County,47.33316,0.01565
+England: Championship,2020,Blackburn,47.17735,0.01435
+England: Championship,2020,Nottingham Forest,46.62163,0.0129
+England: Championship,2020,Middlesbrough,46.3053,0.0109
+England: Championship,2020,Barnsley,46.00207,0.0127
+England: Championship,2020,Sheffield Wednesday,45.38339,0.0115
+England: Championship,2020,Queens Park Rangers,44.55244,0.01015
+England: Championship,2020,Birmingham,44.38208,0.00925
+England: Championship,2020,Reading,44.24876,0.00905
+England: Championship,2020,Coventry City,39.20785,0.0027
+England: Championship,2020,Rotherham United,38.63708,0.00245
+England: Championship,2020,Wycombe Wanderers,38.12775,0.00245
+England: Championship,2020,Luton Town,38.17352,0.00205
+England: Championship,2019,Leeds United,64.25194,0.2382
+England: Championship,2019,Fulham,65.90354,0.22955
+England: Championship,2019,Huddersfield Town,58.68498,0.07855
+England: Championship,2019,West Bromwich Albion,55.26911,0.0701
+England: Championship,2019,Derby County,52.72438,0.04755
+England: Championship,2019,Stoke City,55.64794,0.04515
+England: Championship,2019,Swansea City,52.75193,0.046
+England: Championship,2019,Brentford,54.90087,0.042
+England: Championship,2019,Cardiff City,53.73699,0.04
+England: Championship,2019,Middlesbrough,50.43356,0.02275
+England: Championship,2019,Bristol City,50.49763,0.02045
+England: Championship,2019,Sheffield Wednesday,47.59952,0.0172
+England: Championship,2019,Queens Park Rangers,47.1094,0.0187
+England: Championship,2019,Birmingham,46.4161,0.01425
+England: Championship,2019,Nottingham Forest,48.72061,0.01375
+England: Championship,2019,Millwall,45.84668,0.01135
+England: Championship,2019,Hull City,46.36032,0.0103
+England: Championship,2019,Wigan,44.1041,0.00945
+England: Championship,2019,Blackburn,46.72452,0.00965
+England: Championship,2019,Preston North End,43.9394,0.007
+England: Championship,2019,Reading,40.0648,0.00265
+England: Championship,2019,Barnsley,36.89153,0.00165
+England: Championship,2019,Charlton Athletic,36.08171,0.0018
+England: Championship,2019,Luton Town,37.29929,0.00195
+England: Championship,2018,Stoke City,65.18371,0.22875
+England: Championship,2018,Aston Villa,60.85549,0.15485
+England: Championship,2018,Middlesbrough,58.16023,0.09815
+England: Championship,2018,Brentford,56.84487,0.08545
+England: Championship,2018,Swansea City,56.22608,0.08665
+England: Championship,2018,West Bromwich Albion,59.50908,0.0834
+England: Championship,2018,Derby County,51.83076,0.0403
+England: Championship,2018,Leeds United,49.85939,0.0297
+England: Championship,2018,Preston North End,49.24858,0.02225
+England: Championship,2018,Hull City,50.29946,0.0239
+England: Championship,2018,Millwall,49.57529,0.0224
+England: Championship,2018,Norwich City,49.09134,0.02345
+England: Championship,2018,Bristol City,47.83095,0.01645
+England: Championship,2018,Birmingham,47.07103,0.0157
+England: Championship,2018,Sheffield United,49.64707,0.0139
+England: Championship,2018,Nottingham Forest,47.21276,0.012
+England: Championship,2018,Sheffield Wednesday,46.42383,0.01165
+England: Championship,2018,Queens Park Rangers,46.12844,0.01065
+England: Championship,2018,Bolton,41.75377,0.0073
+England: Championship,2018,Wigan,39.77756,0.00405
+England: Championship,2018,Blackburn,39.43091,0.00215
+England: Championship,2018,Ipswich Town,39.39694,0.00315
+England: Championship,2018,Reading,39.81345,0.0026
+England: Championship,2018,Rotherham United,35.55977,0.00115
+England: Championship,2017,Middlesbrough,51.10354,0.15872
+England: Championship,2017,Sunderland,50.05444,0.154
+England: Championship,2017,Hull City,48.63582,0.14272
+England: Championship,2017,Norwich City,42.98533,0.07038
+England: Championship,2017,Fulham,42.72844,0.06308
+England: Championship,2017,Aston Villa,42.9357,0.05256
+England: Championship,2017,Cardiff City,41.14762,0.05032
+England: Championship,2017,Derby County,41.24711,0.04614
+England: Championship,2017,Wolverhampton,38.67531,0.0348
+England: Championship,2017,Brentford,39.52852,0.03352
+England: Championship,2017,Sheffield Wednesday,40.19796,0.03014
+England: Championship,2017,Queens Park Rangers,37.88524,0.02958
+England: Championship,2017,Leeds United,37.36184,0.02696
+England: Championship,2017,Bristol City,36.27462,0.02318
+England: Championship,2017,Preston North End,35.00198,0.01836
+England: Championship,2017,Nottingham Forest,34.18367,0.016
+England: Championship,2017,Ipswich Town,34.35351,0.01476
+England: Championship,2017,Reading,33.52534,0.0091
+England: Championship,2017,Birmingham,32.74709,0.00718
+England: Championship,2017,Burton Albion,31.15132,0.00446
+England: Championship,2017,Bolton,30.06892,0.00466
+England: Championship,2017,Sheffield United,28.12396,0.00368
+England: Championship,2017,Millwall,29.54423,0.00294
+England: Championship,2017,Barnsley,28.17775,0.00276

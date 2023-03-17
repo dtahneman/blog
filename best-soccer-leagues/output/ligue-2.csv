@@ -1,0 +1,120 @@
+league,season,team,spi,win_forecast
+France: Ligue 2,2022,St Etienne,51.95675,0.34565
+France: Ligue 2,2022,Metz,45.15933,0.1612
+France: Ligue 2,2022,Sochaux,39.12036,0.0772
+France: Ligue 2,2022,Paris FC,39.17643,0.0769
+France: Ligue 2,2022,Caen,37.67223,0.05925
+France: Ligue 2,2022,Dijon FCO,37.43783,0.0528
+France: Ligue 2,2022,Guingamp,37.12985,0.052
+France: Ligue 2,2022,Amiens,36.14982,0.0467
+France: Ligue 2,2022,Nimes,33.78661,0.03045
+France: Ligue 2,2022,Le Havre,30.50482,0.01725
+France: Ligue 2,2022,Bastia,30.26549,0.0163
+France: Ligue 2,2022,Grenoble,29.07844,0.01455
+France: Ligue 2,2022,Niort,28.28496,0.0111
+France: Ligue 2,2022,Valenciennes,27.94272,0.0106
+France: Ligue 2,2022,Pau,27.92117,0.0088
+France: Ligue 2,2022,Rodez,25.44258,0.0053
+France: Ligue 2,2022,Laval,25.60021,0.00545
+France: Ligue 2,2022,Annecy,25.08778,0.00555
+France: Ligue 2,2022,US Quevilly,22.95587,0.00295
+France: Ligue 2,2021,Toulouse,51.99628,0.40655
+France: Ligue 2,2021,Nimes,47.02035,0.2405
+France: Ligue 2,2021,Paris FC,38.54472,0.10905
+France: Ligue 2,2021,Auxerre,36.55051,0.06365
+France: Ligue 2,2021,Dijon FCO,41.12638,0.0509
+France: Ligue 2,2021,Sochaux,33.42367,0.0367
+France: Ligue 2,2021,Guingamp,32.51351,0.01755
+France: Ligue 2,2021,AC Ajaccio,28.98785,0.01475
+France: Ligue 2,2021,Caen,28.65947,0.0124
+France: Ligue 2,2021,Le Havre,27.45387,0.0103
+France: Ligue 2,2021,Grenoble,28.81665,0.00565
+France: Ligue 2,2021,Pau,27.51767,0.0056
+France: Ligue 2,2021,AS Nancy Lorraine,28.58151,0.00705
+France: Ligue 2,2021,Amiens,28.58211,0.00465
+France: Ligue 2,2021,US Quevilly,24.3111,0.00495
+France: Ligue 2,2021,Rodez,23.56905,0.00265
+France: Ligue 2,2021,Valenciennes,25.0213,0.0025
+France: Ligue 2,2021,Bastia,22.05974,0.00215
+France: Ligue 2,2021,Niort,21.22736,0.0016
+France: Ligue 2,2021,Dunkerque,21.93313,0.00085
+France: Ligue 2,2020,Amiens,47.67341,0.2962
+France: Ligue 2,2020,Toulouse,49.45014,0.2542
+France: Ligue 2,2020,Troyes,38.44294,0.0976
+France: Ligue 2,2020,Guingamp,37.45876,0.0502
+France: Ligue 2,2020,Caen,35.54097,0.04995
+France: Ligue 2,2020,Valenciennes,33.2767,0.04135
+France: Ligue 2,2020,Clermont Foot,34.20019,0.0334
+France: Ligue 2,2020,Le Havre,33.13995,0.0292
+France: Ligue 2,2020,AC Ajaccio,32.69793,0.0229
+France: Ligue 2,2020,Paris FC,29.32879,0.0197
+France: Ligue 2,2020,Sochaux,28.24009,0.0172
+France: Ligue 2,2020,Dunkerque,27.46444,0.01405
+France: Ligue 2,2020,Chateauroux,27.19067,0.01295
+France: Ligue 2,2020,AS Nancy Lorraine,28.49945,0.0109
+France: Ligue 2,2020,Rodez,27.03126,0.0122
+France: Ligue 2,2020,Auxerre,28.94393,0.01095
+France: Ligue 2,2020,Niort,25.90488,0.01135
+France: Ligue 2,2020,Grenoble,26.35994,0.00675
+France: Ligue 2,2020,Pau,24.29523,0.0045
+France: Ligue 2,2020,Chambly Thelle FC,24.55632,0.00445
+France: Ligue 2,2019,Lorient,44.825,0.26805
+France: Ligue 2,2019,Lens,40.95039,0.1685
+France: Ligue 2,2019,Guingamp,45.13551,0.15625
+France: Ligue 2,2019,Troyes,43.04661,0.1522
+France: Ligue 2,2019,Caen,39.5286,0.0717
+France: Ligue 2,2019,Clermont Foot,34.35884,0.06735
+France: Ligue 2,2019,Paris FC,32.06026,0.0218
+France: Ligue 2,2019,Le Havre,30.37826,0.01635
+France: Ligue 2,2019,Auxerre,28.52762,0.0129
+France: Ligue 2,2019,Chambly Thelle FC,24.74128,0.01055
+France: Ligue 2,2019,AS Nancy Lorraine,28.09564,0.00985
+France: Ligue 2,2019,Chateauroux,26.95834,0.0061
+France: Ligue 2,2019,Rodez,24.68914,0.0063
+France: Ligue 2,2019,Orléans,27.11979,0.00695
+France: Ligue 2,2019,Valenciennes,26.80741,0.0072
+France: Ligue 2,2019,AC Ajaccio,22.67908,0.0035
+France: Ligue 2,2019,Sochaux,23.30344,0.0038
+France: Ligue 2,2019,Grenoble,24.67243,0.0046
+France: Ligue 2,2019,Le Mans,24.61296,0.00355
+France: Ligue 2,2019,Niort,22.78911,0.0025
+France: Ligue 2,2018,Metz,44.08425,0.3341
+France: Ligue 2,2018,Troyes,40.15762,0.15125
+France: Ligue 2,2018,Brest,36.37293,0.0961
+France: Ligue 2,2018,Lorient,35.55984,0.09165
+France: Ligue 2,2018,Le Havre,36.46533,0.08065
+France: Ligue 2,2018,Lens,33.12372,0.07695
+France: Ligue 2,2018,AC Ajaccio,30.66725,0.03275
+France: Ligue 2,2018,Paris FC,29.43209,0.0303
+France: Ligue 2,2018,Niort,26.078,0.02475
+France: Ligue 2,2018,Valenciennes,26.13896,0.0217
+France: Ligue 2,2018,Clermont Foot,29.2112,0.0199
+France: Ligue 2,2018,Grenoble,23.36734,0.00955
+France: Ligue 2,2018,Chateauroux,25.21929,0.0083
+France: Ligue 2,2018,Auxerre,25.39939,0.00635
+France: Ligue 2,2018,Red Star FC 93,22.99103,0.0043
+France: Ligue 2,2018,GFC Ajaccio,19.99151,0.00305
+France: Ligue 2,2018,Beziers AS,18.76534,0.00275
+France: Ligue 2,2018,Sochaux,21.12273,0.0022
+France: Ligue 2,2018,AS Nancy Lorraine,20.90826,0.00255
+France: Ligue 2,2018,Orléans,18.75091,0.00085
+France: Ligue 2,2017,Lorient,50.94211,0.27698
+France: Ligue 2,2017,Le Havre,46.32357,0.24416
+France: Ligue 2,2017,AS Nancy Lorraine,44.19496,0.09892
+France: Ligue 2,2017,Reims,36.88903,0.07306
+France: Ligue 2,2017,Nimes,37.64049,0.05902
+France: Ligue 2,2017,Lens,37.54021,0.03424
+France: Ligue 2,2017,Valenciennes,34.32503,0.02964
+France: Ligue 2,2017,Clermont Foot,33.6395,0.02936
+France: Ligue 2,2017,Sochaux,33.98153,0.02942
+France: Ligue 2,2017,GFC Ajaccio,33.64177,0.02432
+France: Ligue 2,2017,Brest,34.69371,0.02126
+France: Ligue 2,2017,AC Ajaccio,30.80276,0.01784
+France: Ligue 2,2017,Auxerre,31.29793,0.0161
+France: Ligue 2,2017,Orléans,28.86447,0.01216
+France: Ligue 2,2017,Niort,29.97089,0.01042
+France: Ligue 2,2017,Paris FC,26.41564,0.00624
+France: Ligue 2,2017,Tours,28.26163,0.00622
+France: Ligue 2,2017,US Quevilly,25.76824,0.00474
+France: Ligue 2,2017,Chateauroux,25.07671,0.00394
+France: Ligue 2,2017,Bourg-Peronnas,23.86808,0.00196

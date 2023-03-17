@@ -1,0 +1,127 @@
+league,season,team,spi,win_forecast
+Germany: Bundesliga,2022,Bayern Munich,91.75174,0.71115
+Germany: Bundesliga,2022,Borussia Dortmund,80.58369,0.0887
+Germany: Bundesliga,2022,RB Leipzig,80.75801,0.0818
+Germany: Bundesliga,2022,Bayer Leverkusen,77.75224,0.0491
+Germany: Bundesliga,2022,Borussia Monchengladbach,69.37723,0.0113
+Germany: Bundesliga,2022,1. FC Union Berlin,69.97953,0.0092
+Germany: Bundesliga,2022,Mainz,68.87744,0.00785
+Germany: Bundesliga,2022,SC Freiburg,67.93869,0.00625
+Germany: Bundesliga,2022,VfL Wolfsburg,68.18364,0.00615
+Germany: Bundesliga,2022,Eintracht Frankfurt,68.47037,0.00525
+Germany: Bundesliga,2022,TSG Hoffenheim,66.77241,0.00695
+Germany: Bundesliga,2022,FC Cologne,66.95203,0.00555
+Germany: Bundesliga,2022,VfB Stuttgart,65.12978,0.0044
+Germany: Bundesliga,2022,FC Augsburg,60.93418,0.0021
+Germany: Bundesliga,2022,VfL Bochum,60.73073,0.00145
+Germany: Bundesliga,2022,Schalke 04,60.66291,0.001
+Germany: Bundesliga,2022,Hertha Berlin,59.69526,0.0009
+Germany: Bundesliga,2022,Werder Bremen,59.81804,0.0009
+Germany: Bundesliga,2021,Bayern Munich,90.88247,0.59225
+Germany: Bundesliga,2021,Borussia Dortmund,83.68075,0.1467
+Germany: Bundesliga,2021,RB Leipzig,84.4653,0.1414
+Germany: Bundesliga,2021,VfL Wolfsburg,75.71766,0.0285
+Germany: Bundesliga,2021,Bayer Leverkusen,74.95846,0.0223
+Germany: Bundesliga,2021,Borussia Monchengladbach,73.01668,0.0194
+Germany: Bundesliga,2021,Eintracht Frankfurt,71.58963,0.01575
+Germany: Bundesliga,2021,TSG Hoffenheim,69.79649,0.01005
+Germany: Bundesliga,2021,Mainz,67.00779,0.0053
+Germany: Bundesliga,2021,1. FC Union Berlin,66.90017,0.00435
+Germany: Bundesliga,2021,VfB Stuttgart,65.26899,0.0036
+Germany: Bundesliga,2021,SC Freiburg,65.65413,0.0031
+Germany: Bundesliga,2021,Hertha Berlin,65.95685,0.00315
+Germany: Bundesliga,2021,FC Cologne,61.79605,0.00115
+Germany: Bundesliga,2021,Arminia Bielefeld,60.69146,0.0011
+Germany: Bundesliga,2021,FC Augsburg,59.25603,0.0006
+Germany: Bundesliga,2021,VfL Bochum,58.89792,0.0006
+Germany: Bundesliga,2021,SpVgg Greuther Fürth,58.51327,0.0007
+Germany: Bundesliga,2020,Bayern Munich,94.66401,0.80685
+Germany: Bundesliga,2020,Borussia Dortmund,84.12109,0.06885
+Germany: Bundesliga,2020,RB Leipzig,83.93792,0.067
+Germany: Bundesliga,2020,Bayer Leverkusen,77.92348,0.0193
+Germany: Bundesliga,2020,Borussia Monchengladbach,77.63767,0.01755
+Germany: Bundesliga,2020,TSG Hoffenheim,72.55266,0.00665
+Germany: Bundesliga,2020,VfL Wolfsburg,72.24768,0.0038
+Germany: Bundesliga,2020,Eintracht Frankfurt,70.55879,0.0032
+Germany: Bundesliga,2020,Hertha Berlin,67.88359,0.0015
+Germany: Bundesliga,2020,SC Freiburg,64.70489,0.0006
+Germany: Bundesliga,2020,Mainz,64.66322,0.00095
+Germany: Bundesliga,2020,Werder Bremen,64.8171,0.00105
+Germany: Bundesliga,2020,FC Cologne,63.7952,0.0008
+Germany: Bundesliga,2020,FC Augsburg,62.12101,0.00045
+Germany: Bundesliga,2020,Schalke 04,62.38708,0.0005
+Germany: Bundesliga,2020,1. FC Union Berlin,62.03411,0.0004
+Germany: Bundesliga,2020,VfB Stuttgart,61.70325,0.0004
+Germany: Bundesliga,2020,Arminia Bielefeld,59.46685,0.00015
+Germany: Bundesliga,2019,Bayern Munich,93.97996,0.75945
+Germany: Bundesliga,2019,Borussia Dortmund,83.53035,0.08075
+Germany: Bundesliga,2019,Bayer Leverkusen,82.59333,0.06665
+Germany: Bundesliga,2019,RB Leipzig,81.84269,0.0437
+Germany: Bundesliga,2019,TSG Hoffenheim,75.80224,0.0189
+Germany: Bundesliga,2019,Eintracht Frankfurt,72.43185,0.0075
+Germany: Bundesliga,2019,Borussia Monchengladbach,71.37796,0.00575
+Germany: Bundesliga,2019,VfL Wolfsburg,70.77597,0.00515
+Germany: Bundesliga,2019,Werder Bremen,70.15777,0.0039
+Germany: Bundesliga,2019,Mainz,67.31937,0.0021
+Germany: Bundesliga,2019,Schalke 04,68.03082,0.00175
+Germany: Bundesliga,2019,Hertha Berlin,66.45222,0.00175
+Germany: Bundesliga,2019,Fortuna Düsseldorf,64.1387,0.001
+Germany: Bundesliga,2019,FC Cologne,62.35616,0.0006
+Germany: Bundesliga,2019,SC Freiburg,60.96192,0.0003
+Germany: Bundesliga,2019,FC Augsburg,59.46183,0.0005
+Germany: Bundesliga,2019,1. FC Union Berlin,58.83976,0.00015
+Germany: Bundesliga,2019,SC Paderborn,58.32465,0.0001
+Germany: Bundesliga,2018,Bayern Munich,91.88252,0.819
+Germany: Bundesliga,2018,Borussia Dortmund,77.53676,0.0543
+Germany: Bundesliga,2018,Bayer Leverkusen,76.4777,0.0398
+Germany: Bundesliga,2018,RB Leipzig,71.82002,0.01935
+Germany: Bundesliga,2018,Schalke 04,72.34307,0.01635
+Germany: Bundesliga,2018,TSG Hoffenheim,71.36847,0.0158
+Germany: Bundesliga,2018,Borussia Monchengladbach,66.97963,0.0068
+Germany: Bundesliga,2018,Eintracht Frankfurt,67.45404,0.00645
+Germany: Bundesliga,2018,VfB Stuttgart,67.16814,0.00555
+Germany: Bundesliga,2018,Werder Bremen,65.90283,0.00465
+Germany: Bundesliga,2018,Hertha Berlin,63.43699,0.0028
+Germany: Bundesliga,2018,Hannover 96,61.75107,0.0026
+Germany: Bundesliga,2018,FC Augsburg,62.70393,0.0016
+Germany: Bundesliga,2018,Mainz,62.17525,0.00195
+Germany: Bundesliga,2018,SC Freiburg,59.47643,0.001
+Germany: Bundesliga,2018,VfL Wolfsburg,59.35537,0.00095
+Germany: Bundesliga,2018,Fortuna Düsseldorf,57.1863,0.00065
+Germany: Bundesliga,2018,1. FC Nürnberg,56.98194,0.0004
+Germany: Bundesliga,2017,Bayern Munich,92.94459,0.72022
+Germany: Bundesliga,2017,Borussia Dortmund,85.55002,0.16668
+Germany: Bundesliga,2017,RB Leipzig,74.86626,0.02026
+Germany: Bundesliga,2017,TSG Hoffenheim,74.65393,0.01914
+Germany: Bundesliga,2017,Bayer Leverkusen,73.83314,0.01652
+Germany: Bundesliga,2017,Borussia Monchengladbach,71.96298,0.0119
+Germany: Bundesliga,2017,Schalke 04,71.64752,0.00956
+Germany: Bundesliga,2017,Werder Bremen,69.67391,0.00702
+Germany: Bundesliga,2017,FC Cologne,69.61939,0.0062
+Germany: Bundesliga,2017,VfL Wolfsburg,69.64526,0.0059
+Germany: Bundesliga,2017,Mainz,67.65222,0.00452
+Germany: Bundesliga,2017,Eintracht Frankfurt,66.26389,0.00276
+Germany: Bundesliga,2017,Hertha Berlin,65.65313,0.00264
+Germany: Bundesliga,2017,SC Freiburg,64.79845,0.00248
+Germany: Bundesliga,2017,Hamburg SV,62.92841,0.00194
+Germany: Bundesliga,2017,FC Augsburg,62.52346,0.00148
+Germany: Bundesliga,2017,VfB Stuttgart,57.76942,0.00064
+Germany: Bundesliga,2017,Hannover 96,53.0059,0.00014
+Germany: Bundesliga,2016,Bayern Munich,,0.6309
+Germany: Bundesliga,2016,Borussia Dortmund,,0.212
+Germany: Bundesliga,2016,Bayer Leverkusen,,0.0694
+Germany: Bundesliga,2016,VfL Wolfsburg,,0.0229
+Germany: Bundesliga,2016,Borussia Monchengladbach,,0.0179
+Germany: Bundesliga,2016,Schalke 04,,0.0106
+Germany: Bundesliga,2016,Mainz,,0.0065
+Germany: Bundesliga,2016,Hertha Berlin,,0.0054
+Germany: Bundesliga,2016,SC Freiburg,,0.0045
+Germany: Bundesliga,2016,FC Cologne,,0.0035
+Germany: Bundesliga,2016,RB Leipzig,,0.004
+Germany: Bundesliga,2016,TSG Hoffenheim,,0.0024
+Germany: Bundesliga,2016,FC Augsburg,,0.0022
+Germany: Bundesliga,2016,Eintracht Frankfurt,,0.0024
+Germany: Bundesliga,2016,Werder Bremen,,0.002
+Germany: Bundesliga,2016,Hamburg SV,,0.0018
+Germany: Bundesliga,2016,SV Darmstadt 98,,0.001
+Germany: Bundesliga,2016,FC Ingolstadt 04,,0.0006

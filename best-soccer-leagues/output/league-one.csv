@@ -1,0 +1,121 @@
+league,season,team,spi,win_forecast
+England: League One,2022,Derby County,41.67215,0.26995
+England: League One,2022,Sheffield Wednesday,39.0922,0.19515
+England: League One,2022,Ipswich Town,33.42391,0.11575
+England: League One,2022,Barnsley,32.11237,0.0775
+England: League One,2022,Milton Keynes Dons,30.3458,0.0658
+England: League One,2022,Portsmouth,28.56077,0.04745
+England: League One,2022,Wycombe Wanderers,28.32165,0.04655
+England: League One,2022,Bolton,28.2418,0.0441
+England: League One,2022,Oxford United,28.4311,0.04065
+England: League One,2022,Peterborough United,24.64452,0.021
+England: League One,2022,Plymouth Argyle,21.49352,0.0123
+England: League One,2022,Shrewsbury Town,21.12714,0.01195
+England: League One,2022,Lincoln City,21.91082,0.0126
+England: League One,2022,Charlton Athletic,21.57088,0.0125
+England: League One,2022,Forest Green Rovers,18.07719,0.005
+England: League One,2022,Fleetwood Town,18.3489,0.00435
+England: League One,2022,Burton Albion,17.38313,0.0038
+England: League One,2022,Cheltenham Town,18.34084,0.0035
+England: League One,2022,Port Vale,15.98918,0.0026
+England: League One,2022,Bristol Rovers,15.93224,0.0016
+England: League One,2022,Cambridge United,15.42091,0.00175
+England: League One,2022,Accrington Stanley,16.03703,0.00175
+England: League One,2022,Exeter City,15.09127,0.00175
+England: League One,2022,Morecambe,13.95635,0.00065
+England: League One,2021,Sheffield Wednesday,37.60974,0.3079
+England: League One,2021,Sunderland,30.66338,0.15855
+England: League One,2021,Oxford United,28.45559,0.08195
+England: League One,2021,Ipswich Town,25.31908,0.06585
+England: League One,2021,Lincoln City,25.34882,0.0565
+England: League One,2021,Charlton Athletic,24.01694,0.0457
+England: League One,2021,Rotherham United,22.83152,0.04445
+England: League One,2021,Portsmouth,21.26938,0.03705
+England: League One,2021,Milton Keynes Dons,23.39144,0.03705
+England: League One,2021,Wycombe Wanderers,20.98949,0.0269
+England: League One,2021,Burton Albion,20.84267,0.02925
+England: League One,2021,Gillingham,20.77658,0.0244
+England: League One,2021,Bolton,19.81562,0.0157
+England: League One,2021,Fleetwood Town,17.05491,0.0102
+England: League One,2021,Wigan,18.26914,0.0109
+England: League One,2021,Shrewsbury Town,16.71614,0.0085
+England: League One,2021,AFC Wimbledon,15.25179,0.00895
+England: League One,2021,Crewe Alexandra,16.12681,0.0078
+England: League One,2021,Doncaster Rovers,17.04809,0.00685
+England: League One,2021,Morecambe,14.46214,0.0051
+England: League One,2021,Accrington Stanley,15.25324,0.00445
+England: League One,2021,Cheltenham Town,12.87318,0.00245
+England: League One,2021,Cambridge United,11.75941,0.0021
+England: League One,2021,Plymouth Argyle,11.77182,0.00145
+England: League One,2020,Hull City,39.13487,0.27575
+England: League One,2020,Sunderland,35.98616,0.1992
+England: League One,2020,Ipswich Town,30.41705,0.0951
+England: League One,2020,Peterborough United,30.00539,0.07645
+England: League One,2020,Oxford United,28.52665,0.06495
+England: League One,2020,Charlton Athletic,27.2036,0.05165
+England: League One,2020,Wigan,25.45474,0.03665
+England: League One,2020,Portsmouth,24.68382,0.0352
+England: League One,2020,Doncaster Rovers,23.69398,0.02775
+England: League One,2020,Fleetwood Town,23.24662,0.02485
+England: League One,2020,Blackpool,22.26912,0.0205
+England: League One,2020,Gillingham,21.37747,0.0182
+England: League One,2020,Milton Keynes Dons,20.65323,0.0144
+England: League One,2020,Swindon Town,20.80191,0.0127
+England: League One,2020,Burton Albion,20.61119,0.0106
+England: League One,2020,Lincoln City,19.24221,0.0103
+England: League One,2020,Shrewsbury Town,18.35994,0.00815
+England: League One,2020,Plymouth Argyle,15.99615,0.0034
+England: League One,2020,Accrington Stanley,15.84205,0.00385
+England: League One,2020,Bristol Rovers,14.96496,0.0027
+England: League One,2020,Rochdale,15.11384,0.0028
+England: League One,2020,Northampton Town,14.20326,0.0023
+England: League One,2020,AFC Wimbledon,13.4799,0.00125
+England: League One,2020,Crewe Alexandra,13.29745,0.0013
+England: League One,2019,Sunderland,40.788,0.36235
+England: League One,2019,Ipswich Town,32.84105,0.16785
+England: League One,2019,Oxford United,29.52615,0.0898
+England: League One,2019,Milton Keynes Dons,27.67135,0.0653
+England: League One,2019,Portsmouth,26.61384,0.04895
+England: League One,2019,Fleetwood Town,23.13249,0.03755
+England: League One,2019,Rotherham United,23.02252,0.0347
+England: League One,2019,Burton Albion,24.64601,0.02975
+England: League One,2019,Doncaster Rovers,23.75567,0.0279
+England: League One,2019,Coventry City,21.37908,0.0244
+England: League One,2019,Lincoln City,21.16393,0.0205
+England: League One,2019,Blackpool,20.5351,0.01885
+England: League One,2019,Shrewsbury Town,19.3523,0.0175
+England: League One,2019,Peterborough United,21.7308,0.0149
+England: League One,2019,Gillingham,18.87583,0.00895
+England: League One,2019,Bristol Rovers,17.70322,0.0076
+England: League One,2019,Wycombe Wanderers,16.3603,0.0063
+England: League One,2019,Southend United,16.70496,0.0045
+England: League One,2019,Accrington Stanley,14.44405,0.002
+England: League One,2019,Tranmere Rovers,15.38615,0.00285
+England: League One,2019,Rochdale,13.63784,0.0022
+England: League One,2019,AFC Wimbledon,13.47846,0.0021
+England: League One,2019,Bury,13.02115,0.00195
+England: League One,2019,Bolton,18.33526,0.00125
+England: League One,2018,Sunderland,49.32644,0.60535
+England: League One,2018,Barnsley,30.95067,0.06625
+England: League One,2018,Scunthorpe,30.26499,0.05965
+England: League One,2018,Blackpool,26.70062,0.0287
+England: League One,2018,Charlton Athletic,26.14463,0.0242
+England: League One,2018,Peterborough United,25.19417,0.02075
+England: League One,2018,Portsmouth,24.10049,0.01935
+England: League One,2018,Southend United,26.74044,0.02035
+England: League One,2018,Rochdale,23.89861,0.0197
+England: League One,2018,Doncaster Rovers,23.38078,0.01965
+England: League One,2018,Gillingham,22.77828,0.01565
+England: League One,2018,Shrewsbury Town,23.21893,0.0116
+England: League One,2018,AFC Wimbledon,21.36795,0.0112
+England: League One,2018,Plymouth Argyle,23.62511,0.01125
+England: League One,2018,Bradford City,20.08055,0.0097
+England: League One,2018,Bristol Rovers,21.7817,0.00825
+England: League One,2018,Wycombe Wanderers,21.2192,0.00785
+England: League One,2018,Fleetwood Town,21.8201,0.0077
+England: League One,2018,Burton Albion,21.88498,0.0068
+England: League One,2018,Luton Town,21.15083,0.00725
+England: League One,2018,Coventry City,21.48539,0.0068
+England: League One,2018,Oxford United,20.82086,0.00585
+England: League One,2018,Walsall,17.9852,0.00395
+England: League One,2018,Accrington Stanley,17.81314,0.0022

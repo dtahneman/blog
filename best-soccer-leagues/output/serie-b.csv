@@ -1,0 +1,122 @@
+league,season,team,spi,win_forecast
+Italy: Serie B,2022,Parma,47.37723,0.21045
+Italy: Serie B,2022,Cagliari,45.99162,0.173
+Italy: Serie B,2022,Genoa,42.5088,0.1159
+Italy: Serie B,2022,F.B.C Unione Venezia,41.14552,0.09555
+Italy: Serie B,2022,Benevento,39.39025,0.077
+Italy: Serie B,2022,Brescia,37.91152,0.062
+Italy: Serie B,2022,Frosinone,35.99107,0.04475
+Italy: Serie B,2022,Pisa,35.27025,0.0432
+Italy: Serie B,2022,Ascoli,34.08605,0.0336
+Italy: Serie B,2022,Perugia,32.93479,0.026
+Italy: Serie B,2022,Ternana,32.43614,0.02415
+Italy: Serie B,2022,Spal,31.89676,0.0237
+Italy: Serie B,2022,Cittadella,31.22483,0.0211
+Italy: Serie B,2022,Como,30.15054,0.0155
+Italy: Serie B,2022,Bari,27.41327,0.0095
+Italy: Serie B,2022,Modena,26.78724,0.0074
+Italy: Serie B,2022,Palermo,24.9152,0.005
+Italy: Serie B,2022,Sudtirol,24.76394,0.0042
+Italy: Serie B,2022,Reggina,24.30162,0.0043
+Italy: Serie B,2022,Cosenza,23.50304,0.0037
+Italy: Serie B,2021,Parma,52.24239,0.3905
+Italy: Serie B,2021,Monza,43.18533,0.14165
+Italy: Serie B,2021,Lecce,39.60018,0.08845
+Italy: Serie B,2021,Brescia,37.09509,0.0623
+Italy: Serie B,2021,Crotone,35.25123,0.04615
+Italy: Serie B,2021,Cremonese,34.39034,0.04095
+Italy: Serie B,2021,Benevento,33.09857,0.0332
+Italy: Serie B,2021,Frosinone,32.3884,0.03025
+Italy: Serie B,2021,Spal,32.39518,0.0298
+Italy: Serie B,2021,Cittadella,31.31344,0.02455
+Italy: Serie B,2021,Pisa,31.04995,0.0217
+Italy: Serie B,2021,Reggina,29.20445,0.0166
+Italy: Serie B,2021,Pordenone Calcio,28.98441,0.01435
+Italy: Serie B,2021,Ternana,28.42343,0.01365
+Italy: Serie B,2021,Ascoli,27.0641,0.01105
+Italy: Serie B,2021,Vicenza,27.30954,0.00965
+Italy: Serie B,2021,Como,27.38938,0.01145
+Italy: Serie B,2021,Perugia,25.95817,0.00735
+Italy: Serie B,2021,Alessandria,24.30602,0.00455
+Italy: Serie B,2021,Cosenza,21.14858,0.00185
+Italy: Serie B,2020,Monza,42.47807,0.26705
+Italy: Serie B,2020,Brescia,40.44266,0.21125
+Italy: Serie B,2020,Spal,38.94487,0.17625
+Italy: Serie B,2020,Empoli,31.7119,0.06105
+Italy: Serie B,2020,Lecce,30.80892,0.05255
+Italy: Serie B,2020,Frosinone,28.41652,0.0387
+Italy: Serie B,2020,Chievo Verona,26.82208,0.02555
+Italy: Serie B,2020,Cittadella,25.94232,0.02375
+Italy: Serie B,2020,Cremonese,24.90463,0.01835
+Italy: Serie B,2020,Salernitana,24.80747,0.0158
+Italy: Serie B,2020,Reggina,23.64662,0.01405
+Italy: Serie B,2020,Virtus Entella,23.4466,0.01325
+Italy: Serie B,2020,Cosenza,23.34202,0.0118
+Italy: Serie B,2020,Pordenone Calcio,22.99245,0.0141
+Italy: Serie B,2020,F.B.C Unione Venezia,22.8736,0.01285
+Italy: Serie B,2020,US Pescara,22.59512,0.01175
+Italy: Serie B,2020,Pisa,21.8458,0.00885
+Italy: Serie B,2020,Vicenza,21.49909,0.00845
+Italy: Serie B,2020,Ascoli,21.18593,0.008
+Italy: Serie B,2020,Reggiana,20.04858,0.0066
+Italy: Serie B,2019,Empoli,42.4878,0.34035
+Italy: Serie B,2019,Chievo Verona,33.33592,0.1099
+Italy: Serie B,2019,Benevento,33.04558,0.1038
+Italy: Serie B,2019,Frosinone,32.47264,0.08595
+Italy: Serie B,2019,Perugia,30.26143,0.068
+Italy: Serie B,2019,Crotone,29.58026,0.06085
+Italy: Serie B,2019,Cittadella,28.92368,0.0543
+Italy: Serie B,2019,Spezia,27.88541,0.043
+Italy: Serie B,2019,Cremonese,23.53758,0.02155
+Italy: Serie B,2019,US Pescara,24.18809,0.0228
+Italy: Serie B,2019,Cosenza,23.03573,0.01835
+Italy: Serie B,2019,Ascoli,21.61141,0.0113
+Italy: Serie B,2019,Salernitana,21.57531,0.0125
+Italy: Serie B,2019,Livorno,20.65384,0.01
+Italy: Serie B,2019,Virtus Entella,20.7093,0.009
+Italy: Serie B,2019,F.B.C Unione Venezia,19.71128,0.0083
+Italy: Serie B,2019,Juve Stabia,20.13372,0.00825
+Italy: Serie B,2019,Pordenone Calcio,18.354,0.005
+Italy: Serie B,2019,Pisa,18.18336,0.00415
+Italy: Serie B,2019,Trapani,16.26124,0.00265
+Italy: Serie B,2018,Palermo,40.13765,0.24105
+Italy: Serie B,2018,Crotone,38.07966,0.1731
+Italy: Serie B,2018,Perugia,32.69461,0.0837
+Italy: Serie B,2018,Benevento,32.53149,0.081
+Italy: Serie B,2018,Verona,32.22727,0.0795
+Italy: Serie B,2018,F.B.C Unione Venezia,30.99675,0.06675
+Italy: Serie B,2018,Brescia,30.95878,0.06435
+Italy: Serie B,2018,Cittadella,28.29149,0.0437
+Italy: Serie B,2018,Lecce,27.10735,0.03375
+Italy: Serie B,2018,Cremonese,26.30254,0.0309
+Italy: Serie B,2018,Foggia,31.4189,0.01995
+Italy: Serie B,2018,Spezia,24.97105,0.02145
+Italy: Serie B,2018,Salernitana,23.65023,0.0169
+Italy: Serie B,2018,US Pescara,23.17171,0.0141
+Italy: Serie B,2018,Ascoli,21.30673,0.0103
+Italy: Serie B,2018,Carpi,19.17653,0.00545
+Italy: Serie B,2018,Padova,19.64386,0.0059
+Italy: Serie B,2018,Cosenza,18.48145,0.00425
+Italy: Serie B,2018,Livorno,18.56674,0.0039
+Italy: Serie B,2017,Empoli,51.52974,0.2953
+Italy: Serie B,2017,Parma,48.16465,0.1946
+Italy: Serie B,2017,US Pescara,46.51713,0.1843
+Italy: Serie B,2017,Palermo,42.78194,0.0965
+Italy: Serie B,2017,Carpi,38.68758,0.0375
+Italy: Serie B,2017,Cesena,36.62184,0.0317
+Italy: Serie B,2017,Perugia,36.078,0.0278
+Italy: Serie B,2017,Frosinone,33.77377,0.0196
+Italy: Serie B,2017,Spezia,34.45751,0.0186
+Italy: Serie B,2017,Novara,32.03764,0.0134
+Italy: Serie B,2017,Cittadella,31.36926,0.0136
+Italy: Serie B,2017,Bari,31.26572,0.0099
+Italy: Serie B,2017,Virtus Entella,31.09666,0.01
+Italy: Serie B,2017,Ternana,30.82177,0.0105
+Italy: Serie B,2017,Brescia,29.65624,0.0112
+Italy: Serie B,2017,Salernitana,28.69897,0.0068
+Italy: Serie B,2017,Pro Vercelli,28.51572,0.005
+Italy: Serie B,2017,Ascoli,28.0543,0.0049
+Italy: Serie B,2017,Avellino,26.62153,0.0036
+Italy: Serie B,2017,F.B.C Unione Venezia,24.33691,0.0029
+Italy: Serie B,2017,Foggia,24.33691,0.0013
+Italy: Serie B,2017,Cremonese,19.31835,0.001

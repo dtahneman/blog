@@ -1,0 +1,97 @@
+league,season,team,spi,win_forecast
+Sweden: Allsvenskan,2022,Malmo FF,46.31268,0.3429
+Sweden: Allsvenskan,2022,Hammarby,38.58587,0.12655
+Sweden: Allsvenskan,2022,IF Elfsborg,37.4678,0.11815
+Sweden: Allsvenskan,2022,AIK,35.54661,0.10535
+Sweden: Allsvenskan,2022,Djurgardens IF,34.51248,0.08545
+Sweden: Allsvenskan,2022,IFK Goteborg,31.95066,0.056
+Sweden: Allsvenskan,2022,IFK Norrkoping,32.7104,0.0582
+Sweden: Allsvenskan,2022,BK Hacken,30.31847,0.04195
+Sweden: Allsvenskan,2022,Mjallby,26.36618,0.0229
+Sweden: Allsvenskan,2022,Kalmar FF,24.49728,0.016
+Sweden: Allsvenskan,2022,Varbergs BoIS FC,22.07507,0.0091
+Sweden: Allsvenskan,2022,IK Sirius,22.42213,0.00855
+Sweden: Allsvenskan,2022,Degerfors IF,18.94147,0.0038
+Sweden: Allsvenskan,2022,IFK Värnamo,16.25664,0.00155
+Sweden: Allsvenskan,2022,Helsingborgs IF,16.59533,0.00185
+Sweden: Allsvenskan,2022,GIF Sundsvall,15.96449,0.0017
+Sweden: Allsvenskan,2021,Malmo FF,56.20317,0.6003
+Sweden: Allsvenskan,2021,Djurgardens IF,42.10376,0.1307
+Sweden: Allsvenskan,2021,IFK Norrkoping,41.21871,0.07425
+Sweden: Allsvenskan,2021,BK Hacken,37.92364,0.0457
+Sweden: Allsvenskan,2021,Hammarby,37.35874,0.039
+Sweden: Allsvenskan,2021,AIK,32.35312,0.02795
+Sweden: Allsvenskan,2021,IFK Goteborg,33.86592,0.029
+Sweden: Allsvenskan,2021,IF Elfsborg,35.55949,0.0274
+Sweden: Allsvenskan,2021,Mjallby,28.15113,0.0082
+Sweden: Allsvenskan,2021,Varbergs BoIS FC,25.07567,0.00515
+Sweden: Allsvenskan,2021,Orebro SK,26.02642,0.00485
+Sweden: Allsvenskan,2021,IK Sirius,23.78614,0.0035
+Sweden: Allsvenskan,2021,Halmstads BK,19.46447,0.0016
+Sweden: Allsvenskan,2021,Östersunds FK,19.22403,0.00075
+Sweden: Allsvenskan,2021,Degerfors IF,19.39363,0.00075
+Sweden: Allsvenskan,2021,Kalmar FF,18.47768,0.0009
+Sweden: Allsvenskan,2020,Malmo FF,59.93751,0.4511
+Sweden: Allsvenskan,2020,Hammarby,53.13908,0.1836
+Sweden: Allsvenskan,2020,Djurgardens IF,48.83132,0.1276
+Sweden: Allsvenskan,2020,IFK Norrkoping,47.52114,0.10665
+Sweden: Allsvenskan,2020,AIK,45.25872,0.0798
+Sweden: Allsvenskan,2020,BK Hacken,38.08016,0.02605
+Sweden: Allsvenskan,2020,IFK Goteborg,35.70535,0.0173
+Sweden: Allsvenskan,2020,IF Elfsborg,29.50625,0.0046
+Sweden: Allsvenskan,2020,IK Sirius,22.73664,0.00075
+Sweden: Allsvenskan,2020,Orebro SK,23.10285,0.0011
+Sweden: Allsvenskan,2020,Helsingborgs IF,22.02972,0.00055
+Sweden: Allsvenskan,2020,Östersunds FK,21.76672,0.0004
+Sweden: Allsvenskan,2020,Mjallby,18.70391,0.0002
+Sweden: Allsvenskan,2020,Kalmar FF,18.17176,0.0003
+Sweden: Allsvenskan,2020,Falkenbergs FF,14.70212,0.00001
+Sweden: Allsvenskan,2020,Varbergs BoIS FC,13.37272,0.00001
+Sweden: Allsvenskan,2019,Malmo FF,59.34282,0.43025
+Sweden: Allsvenskan,2019,AIK,53.57067,0.1992
+Sweden: Allsvenskan,2019,BK Hacken,49.76002,0.14315
+Sweden: Allsvenskan,2019,IFK Norrkoping,46.57351,0.0668
+Sweden: Allsvenskan,2019,Hammarby,44.20778,0.06455
+Sweden: Allsvenskan,2019,Östersunds FK,42.04742,0.0413
+Sweden: Allsvenskan,2019,Djurgardens IF,39.02388,0.0313
+Sweden: Allsvenskan,2019,GIF Sundsvall,33.89754,0.0109
+Sweden: Allsvenskan,2019,Helsingborgs IF,28.86176,0.00535
+Sweden: Allsvenskan,2019,IF Elfsborg,26.70697,0.0027
+Sweden: Allsvenskan,2019,IK Sirius,24.8185,0.0013
+Sweden: Allsvenskan,2019,Orebro SK,25.20305,0.0013
+Sweden: Allsvenskan,2019,IFK Goteborg,25.27093,0.0011
+Sweden: Allsvenskan,2019,Kalmar FF,23.44228,0.0005
+Sweden: Allsvenskan,2019,Vasby United,19.72071,0.00015
+Sweden: Allsvenskan,2019,Falkenbergs FF,17.36323,0.00015
+Sweden: Allsvenskan,2018,Malmo FF,64.08545,0.4983
+Sweden: Allsvenskan,2018,AIK,56.58538,0.2321
+Sweden: Allsvenskan,2018,Östersunds FK,52.33824,0.1321
+Sweden: Allsvenskan,2018,Djurgardens IF,45.92932,0.05505
+Sweden: Allsvenskan,2018,BK Hacken,43.93456,0.03835
+Sweden: Allsvenskan,2018,IFK Norrkoping,40.15355,0.0184
+Sweden: Allsvenskan,2018,IFK Goteborg,36.71776,0.0094
+Sweden: Allsvenskan,2018,IF Elfsborg,36.65151,0.00915
+Sweden: Allsvenskan,2018,Hammarby,32.74728,0.0041
+Sweden: Allsvenskan,2018,Kalmar FF,27.75134,0.00115
+Sweden: Allsvenskan,2018,Orebro SK,27.99117,0.0007
+Sweden: Allsvenskan,2018,IK Sirius,25.85261,0.00045
+Sweden: Allsvenskan,2018,GIF Sundsvall,23.31167,0.00035
+Sweden: Allsvenskan,2018,Trelleborgs FF,22.48566,0.0002
+Sweden: Allsvenskan,2018,Dalkurd FF,22.39828,0.00015
+Sweden: Allsvenskan,2018,Brommapojkarna,16.20482,0.00005
+Sweden: Allsvenskan,2017,Malmo FF,53.09283,0.92868
+Sweden: Allsvenskan,2017,AIK,46.11062,0.04506
+Sweden: Allsvenskan,2017,Djurgardens IF,44.34979,0.0086
+Sweden: Allsvenskan,2017,IK Sirius,35.89865,0.00526
+Sweden: Allsvenskan,2017,BK Hacken,41.31872,0.00406
+Sweden: Allsvenskan,2017,IFK Norrkoping,37.4268,0.0035
+Sweden: Allsvenskan,2017,IF Elfsborg,44.411,0.00192
+Sweden: Allsvenskan,2017,Östersunds FK,38.7739,0.00202
+Sweden: Allsvenskan,2017,IFK Goteborg,41.59533,0.0007
+Sweden: Allsvenskan,2017,Orebro SK,35.93455,0.00016
+Sweden: Allsvenskan,2017,Hammarby,34.54342,0.00004
+Sweden: Allsvenskan,2017,Jonkopings Sodra IF,22.1288,0.00001
+Sweden: Allsvenskan,2017,Kalmar FF,27.26375,0.00001
+Sweden: Allsvenskan,2017,GIF Sundsvall,22.67994,0.00001
+Sweden: Allsvenskan,2017,Halmstads BK,29.7743,0.00001
+Sweden: Allsvenskan,2017,Vasby United,18.29088,0.00001

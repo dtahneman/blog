@@ -1,0 +1,141 @@
+league,season,team,spi,win_forecast
+Italy: Serie A,2022,Internazionale,82.17048,0.3634
+Italy: Serie A,2022,AC Milan,78.30593,0.17215
+Italy: Serie A,2022,Napoli,75.26499,0.1218
+Italy: Serie A,2022,Atalanta,73.00786,0.08875
+Italy: Serie A,2022,AS Roma,72.8722,0.0717
+Italy: Serie A,2022,Lazio,69.71543,0.04975
+Italy: Serie A,2022,Juventus,69.93559,0.05005
+Italy: Serie A,2022,Fiorentina,67.61336,0.03135
+Italy: Serie A,2022,Torino,62.83394,0.01115
+Italy: Serie A,2022,Sassuolo,60.30113,0.01015
+Italy: Serie A,2022,Verona,61.44726,0.01185
+Italy: Serie A,2022,Udinese,57.94244,0.0064
+Italy: Serie A,2022,Bologna,56.10727,0.0043
+Italy: Serie A,2022,Sampdoria,52.94933,0.0016
+Italy: Serie A,2022,Monza,52.84425,0.00185
+Italy: Serie A,2022,Empoli,49.65141,0.0012
+Italy: Serie A,2022,Lecce,50.40645,0.00075
+Italy: Serie A,2022,Cremonese,49.25038,0.0007
+Italy: Serie A,2022,Spezia,48.17256,0.0008
+Italy: Serie A,2022,Salernitana,46.62912,0.0003
+Italy: Serie A,2021,Internazionale,83.28078,0.2681
+Italy: Serie A,2021,Juventus,81.81487,0.22145
+Italy: Serie A,2021,Atalanta,80.08744,0.1688
+Italy: Serie A,2021,Napoli,78.37496,0.11925
+Italy: Serie A,2021,AC Milan,77.10951,0.09705
+Italy: Serie A,2021,AS Roma,71.61518,0.04265
+Italy: Serie A,2021,Lazio,71.02148,0.03865
+Italy: Serie A,2021,Sassuolo,67.48681,0.0191
+Italy: Serie A,2021,Fiorentina,61.31902,0.00425
+Italy: Serie A,2021,Sampdoria,60.32263,0.00395
+Italy: Serie A,2021,Cagliari,59.57721,0.00295
+Italy: Serie A,2021,Bologna,58.50952,0.00355
+Italy: Serie A,2021,Verona,58.66508,0.00275
+Italy: Serie A,2021,Torino,57.6036,0.0026
+Italy: Serie A,2021,Genoa,55.30842,0.0012
+Italy: Serie A,2021,Udinese,55.71243,0.00125
+Italy: Serie A,2021,Spezia,54.53517,0.00085
+Italy: Serie A,2021,Empoli,52.80902,0.0005
+Italy: Serie A,2021,F.B.C Unione Venezia,52.16373,0.00075
+Italy: Serie A,2021,Salernitana,51.17094,0.00035
+Italy: Serie A,2020,Internazionale,84.3379,0.3105
+Italy: Serie A,2020,Juventus,82.44709,0.2214
+Italy: Serie A,2020,Atalanta,79.09717,0.11985
+Italy: Serie A,2020,AC Milan,78.81556,0.1154
+Italy: Serie A,2020,Napoli,79.04836,0.1094
+Italy: Serie A,2020,AS Roma,74.51222,0.05345
+Italy: Serie A,2020,Lazio,71.5352,0.0302
+Italy: Serie A,2020,Fiorentina,69.22527,0.01635
+Italy: Serie A,2020,Sassuolo,65.10201,0.0069
+Italy: Serie A,2020,Sampdoria,60.79044,0.0032
+Italy: Serie A,2020,Udinese,61.04931,0.0027
+Italy: Serie A,2020,Bologna,59.31992,0.0019
+Italy: Serie A,2020,Verona,59.51136,0.0017
+Italy: Serie A,2020,Torino,59.11456,0.00205
+Italy: Serie A,2020,Parma,56.69174,0.0017
+Italy: Serie A,2020,Cagliari,57.04205,0.00095
+Italy: Serie A,2020,Genoa,55.89759,0.0007
+Italy: Serie A,2020,Benevento,54.4376,0.00075
+Italy: Serie A,2020,Crotone,53.39445,0.00045
+Italy: Serie A,2020,Spezia,53.13191,0.00045
+Italy: Serie A,2019,Juventus,89.86047,0.61185
+Italy: Serie A,2019,Napoli,82.4814,0.16505
+Italy: Serie A,2019,Internazionale,80.0936,0.1041
+Italy: Serie A,2019,AC Milan,76.71707,0.0539
+Italy: Serie A,2019,AS Roma,72.5918,0.0245
+Italy: Serie A,2019,Lazio,68.5121,0.01155
+Italy: Serie A,2019,Atalanta,66.42119,0.00705
+Italy: Serie A,2019,Fiorentina,65.66278,0.0052
+Italy: Serie A,2019,Torino,63.61703,0.00315
+Italy: Serie A,2019,Sampdoria,61.95375,0.0027
+Italy: Serie A,2019,Sassuolo,61.06579,0.0019
+Italy: Serie A,2019,Udinese,60.48011,0.0023
+Italy: Serie A,2019,Cagliari,60.13965,0.0016
+Italy: Serie A,2019,Genoa,59.89142,0.00125
+Italy: Serie A,2019,Bologna,58.61126,0.00105
+Italy: Serie A,2019,Parma,56.78514,0.0009
+Italy: Serie A,2019,Brescia,56.45726,0.00065
+Italy: Serie A,2019,Spal,56.5178,0.00045
+Italy: Serie A,2019,Verona,53.91687,0.00045
+Italy: Serie A,2019,Lecce,53.85216,0.0004
+Italy: Serie A,2018,Juventus,89.43681,0.4912
+Italy: Serie A,2018,Napoli,82.72546,0.1428
+Italy: Serie A,2018,Internazionale,80.7563,0.1052
+Italy: Serie A,2018,AS Roma,80.06419,0.09335
+Italy: Serie A,2018,Lazio,77.88884,0.06965
+Italy: Serie A,2018,AC Milan,75.88877,0.03775
+Italy: Serie A,2018,Atalanta,74.84825,0.0313
+Italy: Serie A,2018,Fiorentina,70.19041,0.0123
+Italy: Serie A,2018,Torino,65.93102,0.0054
+Italy: Serie A,2018,Sampdoria,61.34345,0.0024
+Italy: Serie A,2018,Sassuolo,61.74082,0.0019
+Italy: Serie A,2018,Genoa,61.61135,0.0018
+Italy: Serie A,2018,Udinese,60.23405,0.00175
+Italy: Serie A,2018,Cagliari,57.38923,0.00055
+Italy: Serie A,2018,Bologna,57.11866,0.0006
+Italy: Serie A,2018,Empoli,55.31524,0.00045
+Italy: Serie A,2018,Frosinone,55.50252,0.0005
+Italy: Serie A,2018,Parma,55.10388,0.00035
+Italy: Serie A,2018,Chievo Verona,55.66229,0.00045
+Italy: Serie A,2018,Spal,55.25032,0.0003
+Italy: Serie A,2017,Juventus,87.07458,0.44828
+Italy: Serie A,2017,Napoli,81.56703,0.1754
+Italy: Serie A,2017,AS Roma,81.64188,0.1739
+Italy: Serie A,2017,Internazionale,77.06368,0.07702
+Italy: Serie A,2017,AC Milan,73.56958,0.0432
+Italy: Serie A,2017,Lazio,71.24852,0.02762
+Italy: Serie A,2017,Atalanta,70.17062,0.02216
+Italy: Serie A,2017,Fiorentina,65.96037,0.01016
+Italy: Serie A,2017,Torino,63.54569,0.00594
+Italy: Serie A,2017,Sassuolo,63.15362,0.00648
+Italy: Serie A,2017,Sampdoria,60.45849,0.00274
+Italy: Serie A,2017,Udinese,58.8815,0.00204
+Italy: Serie A,2017,Cagliari,57.86046,0.00146
+Italy: Serie A,2017,Genoa,55.87973,0.00108
+Italy: Serie A,2017,Bologna,55.56136,0.00072
+Italy: Serie A,2017,Chievo Verona,54.26684,0.00072
+Italy: Serie A,2017,Crotone,53.31451,0.00072
+Italy: Serie A,2017,Spal,49.28033,0.00018
+Italy: Serie A,2017,Verona,46.44622,0.00012
+Italy: Serie A,2017,Benevento,45.3489,0.00006000000000000001
+Italy: Serie A,2016,Juventus,,0.3958
+Italy: Serie A,2016,AS Roma,,0.1496
+Italy: Serie A,2016,Napoli,,0.1413
+Italy: Serie A,2016,Internazionale,,0.0825
+Italy: Serie A,2016,Lazio,,0.0536
+Italy: Serie A,2016,Fiorentina,,0.0502
+Italy: Serie A,2016,AC Milan,,0.0482
+Italy: Serie A,2016,Torino,,0.0192
+Italy: Serie A,2016,Empoli,,0.0087
+Italy: Serie A,2016,Sassuolo,,0.0066
+Italy: Serie A,2016,Cagliari,,0.0061
+Italy: Serie A,2016,Genoa,,0.0084
+Italy: Serie A,2016,Palermo,,0.0057
+Italy: Serie A,2016,US Pescara,,0.0054
+Italy: Serie A,2016,Atalanta,,0.004
+Italy: Serie A,2016,Udinese,,0.0047
+Italy: Serie A,2016,Bologna,,0.0035
+Italy: Serie A,2016,Sampdoria,,0.0032
+Italy: Serie A,2016,Chievo Verona,,0.0024
+Italy: Serie A,2016,Crotone,,0.0009

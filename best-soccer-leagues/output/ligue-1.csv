@@ -1,0 +1,141 @@
+league,season,team,spi,win_forecast
+France: Ligue 1,2022,Paris Saint-Germain,88.65925,0.7285
+France: Ligue 1,2022,AS Monaco,72.81494,0.06115
+France: Ligue 1,2022,Lyon,72.03321,0.05305
+France: Ligue 1,2022,Stade Rennes,70.49287,0.03965
+France: Ligue 1,2022,Marseille,69.4567,0.02855
+France: Ligue 1,2022,Lille,68.72489,0.0254
+France: Ligue 1,2022,Strasbourg,67.46483,0.02025
+France: Ligue 1,2022,Lens,65.19158,0.0135
+France: Ligue 1,2022,Nice,64.57415,0.01025
+France: Ligue 1,2022,Nantes,59.64189,0.0048
+France: Ligue 1,2022,Reims,57.77807,0.0027
+France: Ligue 1,2022,Angers,55.79498,0.00225
+France: Ligue 1,2022,Brest,54.34599,0.0018
+France: Ligue 1,2022,Troyes,54.68077,0.00125
+France: Ligue 1,2022,Lorient,53.5995,0.00095
+France: Ligue 1,2022,Montpellier,52.98704,0.00155
+France: Ligue 1,2022,Clermont Foot,52.9227,0.0012
+France: Ligue 1,2022,Toulouse,52.71294,0.0013
+France: Ligue 1,2022,Auxerre,51.71365,0.001
+France: Ligue 1,2022,AC Ajaccio,51.38601,0.0009
+France: Ligue 1,2021,Paris Saint-Germain,86.40752,0.70415
+France: Ligue 1,2021,AS Monaco,74.8818,0.0903
+France: Ligue 1,2021,Lyon,72.54476,0.0739
+France: Ligue 1,2021,Lille,71.26573,0.0472
+France: Ligue 1,2021,Marseille,64.9449,0.0257
+France: Ligue 1,2021,Stade Rennes,65.1171,0.01605
+France: Ligue 1,2021,Lens,59.42655,0.00695
+France: Ligue 1,2021,Nice,58.59148,0.00585
+France: Ligue 1,2021,Nantes,56.6171,0.00405
+France: Ligue 1,2021,St Etienne,57.29467,0.00385
+France: Ligue 1,2021,Angers,55.21243,0.0038
+France: Ligue 1,2021,Strasbourg,57.58475,0.00295
+France: Ligue 1,2021,Brest,54.97169,0.0035
+France: Ligue 1,2021,Clermont Foot,52.56022,0.0022
+France: Ligue 1,2021,Lorient,53.92027,0.0024
+France: Ligue 1,2021,Montpellier,53.31013,0.00245
+France: Ligue 1,2021,Metz,53.10046,0.00175
+France: Ligue 1,2021,Troyes,51.56809,0.0013
+France: Ligue 1,2021,Reims,50.07404,0.00055
+France: Ligue 1,2021,Bordeaux,50.3945,0.0011
+France: Ligue 1,2020,Paris Saint-Germain,90.68103,0.9059
+France: Ligue 1,2020,Lyon,73.67688,0.0384
+France: Ligue 1,2020,Lille,68.92175,0.0112
+France: Ligue 1,2020,AS Monaco,67.36364,0.00965
+France: Ligue 1,2020,Marseille,66.69772,0.00935
+France: Ligue 1,2020,Stade Rennes,66.78587,0.00715
+France: Ligue 1,2020,Angers,60.95482,0.0028
+France: Ligue 1,2020,Montpellier,59.83167,0.0029
+France: Ligue 1,2020,Nantes,59.92725,0.00175
+France: Ligue 1,2020,Nice,57.33916,0.0017
+France: Ligue 1,2020,Bordeaux,59.70951,0.0017
+France: Ligue 1,2020,Reims,58.302,0.0014
+France: Ligue 1,2020,Nimes,56.23027,0.00145
+France: Ligue 1,2020,Strasbourg,58.49646,0.0012
+France: Ligue 1,2020,Lorient,54.75338,0.0007
+France: Ligue 1,2020,St Etienne,56.0945,0.00105
+France: Ligue 1,2020,Lens,55.46184,0.00045
+France: Ligue 1,2020,Metz,53.27178,0.0005
+France: Ligue 1,2020,Brest,53.19517,0.0004
+France: Ligue 1,2020,Dijon FCO,53.4989,0.00035
+France: Ligue 1,2019,Paris Saint-Germain,88.00501,0.79515
+France: Ligue 1,2019,Lyon,73.71,0.07905
+France: Ligue 1,2019,Lille,68.63105,0.0288
+France: Ligue 1,2019,Marseille,66.9216,0.02075
+France: Ligue 1,2019,St Etienne,64.30742,0.01295
+France: Ligue 1,2019,AS Monaco,64.22908,0.0136
+France: Ligue 1,2019,Montpellier,63.74994,0.01115
+France: Ligue 1,2019,Nantes,62.86141,0.00785
+France: Ligue 1,2019,Angers,60.38142,0.0052
+France: Ligue 1,2019,Stade Rennes,59.81584,0.0051
+France: Ligue 1,2019,Nice,60.04495,0.00385
+France: Ligue 1,2019,Nimes,58.25754,0.00315
+France: Ligue 1,2019,Strasbourg,58.52709,0.00265
+France: Ligue 1,2019,Bordeaux,57.06181,0.00245
+France: Ligue 1,2019,Toulouse,55.78523,0.00135
+France: Ligue 1,2019,Reims,56.09827,0.00145
+France: Ligue 1,2019,Amiens,54.98527,0.00185
+France: Ligue 1,2019,Metz,53.91493,0.00165
+France: Ligue 1,2019,Brest,53.43237,0.00115
+France: Ligue 1,2019,Dijon FCO,52.91062,0.00085
+France: Ligue 1,2018,Paris Saint-Germain,88.83731,0.7708
+France: Ligue 1,2018,Lyon,76.19761,0.08425
+France: Ligue 1,2018,Marseille,73.8866,0.0621
+France: Ligue 1,2018,AS Monaco,70.47586,0.03295
+France: Ligue 1,2018,Bordeaux,64.36257,0.00695
+France: Ligue 1,2018,Nice,64.09181,0.0088
+France: Ligue 1,2018,Stade Rennes,63.14991,0.00665
+France: Ligue 1,2018,St Etienne,61.70222,0.00585
+France: Ligue 1,2018,Montpellier,61.81491,0.00395
+France: Ligue 1,2018,Nantes,60.77068,0.00365
+France: Ligue 1,2018,Angers,59.42941,0.00195
+France: Ligue 1,2018,Toulouse,58.38675,0.00155
+France: Ligue 1,2018,Guingamp,57.65055,0.00245
+France: Ligue 1,2018,Dijon FCO,56.48697,0.00185
+France: Ligue 1,2018,Strasbourg,56.69478,0.0021
+France: Ligue 1,2018,Lille,55.32351,0.0012
+France: Ligue 1,2018,Nimes,54.87043,0.001
+France: Ligue 1,2018,Reims,54.24918,0.0006
+France: Ligue 1,2018,Caen,54.51918,0.00065
+France: Ligue 1,2018,Amiens,53.58235,0.0007
+France: Ligue 1,2017,Paris Saint-Germain,88.13639,0.64536
+France: Ligue 1,2017,AS Monaco,80.66657,0.20828
+France: Ligue 1,2017,Lyon,73.78166,0.0667
+France: Ligue 1,2017,Marseille,69.89952,0.03288
+France: Ligue 1,2017,Bordeaux,64.77447,0.0093
+France: Ligue 1,2017,Nice,64.54958,0.0077
+France: Ligue 1,2017,Lille,61.61032,0.00696
+France: Ligue 1,2017,Guingamp,58.56396,0.00432
+France: Ligue 1,2017,Angers,60.26189,0.00338
+France: Ligue 1,2017,St Etienne,57.96091,0.00344
+France: Ligue 1,2017,Montpellier,57.24069,0.00294
+France: Ligue 1,2017,Toulouse,58.17914,0.00198
+France: Ligue 1,2017,Stade Rennes,57.9592,0.00244
+France: Ligue 1,2017,Nantes,57.21338,0.0019
+France: Ligue 1,2017,Dijon FCO,54.03658,0.00112
+France: Ligue 1,2017,Caen,53.26433,0.00088
+France: Ligue 1,2017,Metz,50.65104,0.00028
+France: Ligue 1,2017,Troyes,45.44164,0.00006000000000000001
+France: Ligue 1,2017,Strasbourg,40.12732,0.00008
+France: Ligue 1,2017,Amiens,37.77341,0.00001
+France: Ligue 1,2016,Paris Saint-Germain,,0.9147
+France: Ligue 1,2016,Lyon,,0.0221
+France: Ligue 1,2016,AS Monaco,,0.0139
+France: Ligue 1,2016,Lille,,0.0099
+France: Ligue 1,2016,St Etienne,,0.0066
+France: Ligue 1,2016,Marseille,,0.0059
+France: Ligue 1,2016,Bordeaux,,0.0054
+France: Ligue 1,2016,AS Nancy Lorraine,,0.0029
+France: Ligue 1,2016,Montpellier,,0.0038
+France: Ligue 1,2016,Toulouse,,0.0013
+France: Ligue 1,2016,Nice,,0.0016
+France: Ligue 1,2016,Guingamp,,0.002
+France: Ligue 1,2016,Dijon FCO,,0.0018
+France: Ligue 1,2016,Caen,,0.0022
+France: Ligue 1,2016,Metz,,0.0006
+France: Ligue 1,2016,Nantes,,0.0011
+France: Ligue 1,2016,Angers,,0.0009
+France: Ligue 1,2016,Stade Rennes,,0.0014
+France: Ligue 1,2016,Lorient,,0.0015
+France: Ligue 1,2016,Bastia,,0.0004

@@ -1,0 +1,225 @@
+league,season,team,spi,win_forecast
+UEFA Champions League,2022,Bayern Munich,92.96238,0.20965
+UEFA Champions League,2022,Manchester City,92.00082,0.1813
+UEFA Champions League,2022,Paris Saint-Germain,90.43453,0.13715
+UEFA Champions League,2022,Liverpool,88.83062,0.0867
+UEFA Champions League,2022,Real Madrid,86.65894,0.06515
+UEFA Champions League,2022,Barcelona,85.26939,0.04205
+UEFA Champions League,2022,Ajax,84.92229,0.04
+UEFA Champions League,2022,Chelsea,83.96959,0.03855
+UEFA Champions League,2022,Tottenham Hotspur,81.9343,0.0276
+UEFA Champions League,2022,Internazionale,82.34266,0.0218
+UEFA Champions League,2022,Atletico Madrid,80.33958,0.02025
+UEFA Champions League,2022,FC Porto,80.16989,0.0189
+UEFA Champions League,2022,RB Leipzig,80.05163,0.0177
+UEFA Champions League,2022,FC Salzburg,79.43959,0.01515
+UEFA Champions League,2022,AC Milan,78.65398,0.0131
+UEFA Champions League,2022,Borussia Dortmund,78.59402,0.0129
+UEFA Champions League,2022,Sporting CP,77.74943,0.0119
+UEFA Champions League,2022,Benfica,76.15258,0.0095
+UEFA Champions League,2022,Napoli,77.68861,0.00845
+UEFA Champions League,2022,Bayer Leverkusen,75.45375,0.00705
+UEFA Champions League,2022,Celtic,72.2954,0.0035
+UEFA Champions League,2022,Sevilla FC,71.35122,0.0032
+UEFA Champions League,2022,Juventus,70.03054,0.0029
+UEFA Champions League,2022,Rangers,70.56981,0.00175
+UEFA Champions League,2022,Eintracht Frankfurt,66.79454,0.0015
+UEFA Champions League,2022,Marseille,68.2166,0.00115
+UEFA Champions League,2022,Club Brugge,67.06793,0.00065
+UEFA Champions League,2022,Dinamo Zagreb,63.44125,0.0003
+UEFA Champions League,2022,FC Copenhagen,58.21737,0.0001
+UEFA Champions League,2022,Shakhtar Donetsk,60.46595,0.0001
+UEFA Champions League,2022,Viktoria Plzen,55.04043,0.00001
+UEFA Champions League,2022,Maccabi Haifa,45.44071,0.00001
+UEFA Champions League,2021,Manchester City,92.21156,0.158
+UEFA Champions League,2021,Bayern Munich,89.71297,0.10856
+UEFA Champions League,2021,Chelsea,89.61424,0.10492
+UEFA Champions League,2021,Liverpool,88.73918,0.08532
+UEFA Champions League,2021,Barcelona,88.23195,0.07724
+UEFA Champions League,2021,Real Madrid,86.40152,0.06268
+UEFA Champions League,2021,Manchester United,85.67012,0.05492
+UEFA Champions League,2021,Ajax,84.69979,0.04538
+UEFA Champions League,2021,RB Leipzig,84.94722,0.03956
+UEFA Champions League,2021,Paris Saint-Germain,85.03339,0.03802
+UEFA Champions League,2021,Borussia Dortmund,83.69874,0.03664
+UEFA Champions League,2021,Atletico Madrid,84.8024,0.03656
+UEFA Champions League,2021,Internazionale,83.32294,0.03602
+UEFA Champions League,2021,Juventus,80.74581,0.0216
+UEFA Champions League,2021,Sevilla FC,80.64136,0.01862
+UEFA Champions League,2021,Atalanta,79.49558,0.01464
+UEFA Champions League,2021,FC Salzburg,78.24646,0.01278
+UEFA Champions League,2021,VfL Wolfsburg,76.60607,0.00862
+UEFA Champions League,2021,Benfica,78.20236,0.00814
+UEFA Champions League,2021,FC Porto,77.29955,0.007
+UEFA Champions League,2021,Villarreal,76.08462,0.0068
+UEFA Champions League,2021,AC Milan,76.75005,0.00672
+UEFA Champions League,2021,Sporting CP,74.84311,0.00536
+UEFA Champions League,2021,Zenit St Petersburg,70.37056,0.00288
+UEFA Champions League,2021,Lille,68.27089,0.00122
+UEFA Champions League,2021,Shakhtar Donetsk,66.54663,0.0009
+UEFA Champions League,2021,Young Boys,63.7816,0.00044
+UEFA Champions League,2021,Club Brugge,65.57329,0.00028
+UEFA Champions League,2021,Besiktas,59.62844,0.00016
+UEFA Champions League,2021,Dynamo Kiev,56.8314,0.00002
+UEFA Champions League,2021,Malmo FF,50.78188,0.00001
+UEFA Champions League,2021,FC Sheriff Tiraspol,44.65635,0.00001
+UEFA Champions League,2020,Bayern Munich,94.32717,0.2054
+UEFA Champions League,2020,Manchester City,92.84689,0.16215
+UEFA Champions League,2020,Liverpool,91.43829,0.1158
+UEFA Champions League,2020,Barcelona,90.92428,0.1061
+UEFA Champions League,2020,Paris Saint-Germain,89.80071,0.08475
+UEFA Champions League,2020,Real Madrid,89.25736,0.07035
+UEFA Champions League,2020,Atletico Madrid,87.47255,0.04135
+UEFA Champions League,2020,Borussia Dortmund,84.04462,0.02755
+UEFA Champions League,2020,Chelsea,83.65035,0.0263
+UEFA Champions League,2020,Internazionale,84.16225,0.02455
+UEFA Champions League,2020,Manchester United,83.96362,0.02235
+UEFA Champions League,2020,RB Leipzig,84.1317,0.02155
+UEFA Champions League,2020,Juventus,82.20989,0.01815
+UEFA Champions League,2020,Sevilla FC,80.5095,0.0133
+UEFA Champions League,2020,FC Salzburg,80.35422,0.01295
+UEFA Champions League,2020,Atalanta,79.96602,0.01125
+UEFA Champions League,2020,Zenit St Petersburg,78.74321,0.009
+UEFA Champions League,2020,FC Porto,76.53345,0.0061
+UEFA Champions League,2020,Ajax,75.1409,0.00405
+UEFA Champions League,2020,Borussia Monchengladbach,76.50876,0.0039
+UEFA Champions League,2020,Shakhtar Donetsk,75.08735,0.00365
+UEFA Champions League,2020,Olympiacos,75.22003,0.0034
+UEFA Champions League,2020,Lazio,72.09006,0.00225
+UEFA Champions League,2020,Stade Rennes,68.66212,0.001
+UEFA Champions League,2020,Dynamo Kiev,67.02046,0.00095
+UEFA Champions League,2020,Club Brugge,68.83504,0.00085
+UEFA Champions League,2020,Marseille,65.03117,0.0005
+UEFA Champions League,2020,FC Krasnodar,64.815,0.00035
+UEFA Champions League,2020,FC Midtjylland,57.95033,0.00015
+UEFA Champions League,2020,Lokomotiv Moscow,60.63727,0.00001
+UEFA Champions League,2020,Ferencvaros,54.14011,0.00001
+UEFA Champions League,2020,Istanbul Basaksehir,52.7545,0.00001
+UEFA Champions League,2019,Manchester City,94.68367,0.26675
+UEFA Champions League,2019,Bayern Munich,93.56255,0.1703
+UEFA Champions League,2019,Liverpool,92.14145,0.11565
+UEFA Champions League,2019,Barcelona,91.55512,0.10095
+UEFA Champions League,2019,Juventus,90.14446,0.07545
+UEFA Champions League,2019,Paris Saint-Germain,88.50801,0.05625
+UEFA Champions League,2019,Real Madrid,85.2734,0.0288
+UEFA Champions League,2019,Tottenham Hotspur,84.49071,0.0234
+UEFA Champions League,2019,Borussia Dortmund,84.31643,0.0225
+UEFA Champions League,2019,Chelsea,84.31412,0.0219
+UEFA Champions League,2019,Ajax,82.41479,0.01825
+UEFA Champions League,2019,Atletico Madrid,83.9369,0.01685
+UEFA Champions League,2019,RB Leipzig,82.83305,0.01505
+UEFA Champions League,2019,Bayer Leverkusen,82.0201,0.01315
+UEFA Champions League,2019,Napoli,81.98098,0.0123
+UEFA Champions League,2019,FC Salzburg,81.61547,0.01195
+UEFA Champions League,2019,Internazionale,80.23023,0.0081
+UEFA Champions League,2019,Valencia,76.86302,0.0061
+UEFA Champions League,2019,Benfica,76.3759,0.00395
+UEFA Champions League,2019,Lyon,74.90903,0.00345
+UEFA Champions League,2019,Olympiacos,74.84871,0.00205
+UEFA Champions League,2019,Shakhtar Donetsk,70.96714,0.0019
+UEFA Champions League,2019,Zenit St Petersburg,72.50933,0.00145
+UEFA Champions League,2019,Atalanta,67.02881,0.00095
+UEFA Champions League,2019,Club Brugge,68.51081,0.00065
+UEFA Champions League,2019,Lille,69.16224,0.00055
+UEFA Champions League,2019,Dinamo Zagreb,66.61068,0.00055
+UEFA Champions League,2019,Galatasaray,66.81696,0.0003
+UEFA Champions League,2019,Lokomotiv Moscow,65.93182,0.0003
+UEFA Champions League,2019,Genk,63.73613,0.00015
+UEFA Champions League,2019,Red Star Belgrade,62.40446,0.00005
+UEFA Champions League,2019,Slavia Prague,60.34052,0.00001
+UEFA Champions League,2018,Barcelona,92.70481,0.1423
+UEFA Champions League,2018,Manchester City,92.42807,0.14095
+UEFA Champions League,2018,Real Madrid,92.17715,0.13535
+UEFA Champions League,2018,Bayern Munich,91.87844,0.12535
+UEFA Champions League,2018,Liverpool,90.01768,0.08155
+UEFA Champions League,2018,Juventus,89.395,0.0787
+UEFA Champions League,2018,Atletico Madrid,86.33841,0.0566
+UEFA Champions League,2018,Paris Saint-Germain,88.0628,0.05625
+UEFA Champions League,2018,Tottenham Hotspur,85.93601,0.039
+UEFA Champions League,2018,Napoli,83.27835,0.02075
+UEFA Champions League,2018,AS Roma,80.02368,0.0155
+UEFA Champions League,2018,Manchester United,80.00745,0.0133
+UEFA Champions League,2018,FC Porto,78.36418,0.0123
+UEFA Champions League,2018,Borussia Dortmund,77.83367,0.0108
+UEFA Champions League,2018,Galatasaray,76.89643,0.0099
+UEFA Champions League,2018,Valencia,78.67057,0.0093
+UEFA Champions League,2018,Internazionale,79.30043,0.00925
+UEFA Champions League,2018,Benfica,75.91121,0.00725
+UEFA Champions League,2018,Lyon,76.57291,0.007
+UEFA Champions League,2018,Ajax,76.05812,0.00635
+UEFA Champions League,2018,Shakhtar Donetsk,75.74423,0.0053
+UEFA Champions League,2018,Young Boys,72.87324,0.004
+UEFA Champions League,2018,Schalke 04,71.87176,0.0032
+UEFA Champions League,2018,TSG Hoffenheim,71.37629,0.00255
+UEFA Champions League,2018,Club Brugge,70.06421,0.0018
+UEFA Champions League,2018,CSKA Moscow,69.14614,0.0018
+UEFA Champions League,2018,AS Monaco,68.99453,0.00135
+UEFA Champions League,2018,AEK Athens,66.44339,0.0009
+UEFA Champions League,2018,PSV,69.544,0.00075
+UEFA Champions League,2018,Red Star Belgrade,67.19438,0.0003
+UEFA Champions League,2018,Lokomotiv Moscow,62.0129,0.0003
+UEFA Champions League,2018,Viktoria Plzen,62.29795,0.00001
+UEFA Champions League,2017,Real Madrid,93.51335,0.17945
+UEFA Champions League,2017,Bayern Munich,92.64406,0.1665
+UEFA Champions League,2017,Barcelona,92.5615,0.16515
+UEFA Champions League,2017,Paris Saint-Germain,89.45502,0.1016
+UEFA Champions League,2017,Juventus,87.04588,0.0691
+UEFA Champions League,2017,Borussia Dortmund,86.50187,0.04745
+UEFA Champions League,2017,Manchester United,84.31768,0.0431
+UEFA Champions League,2017,Manchester City,84.47084,0.0383
+UEFA Champions League,2017,AS Monaco,81.45308,0.02555
+UEFA Champions League,2017,Napoli,81.74394,0.02505
+UEFA Champions League,2017,Atletico Madrid,81.85979,0.02495
+UEFA Champions League,2017,Chelsea,82.04843,0.02315
+UEFA Champions League,2017,AS Roma,81.51147,0.02125
+UEFA Champions League,2017,Tottenham Hotspur,80.39704,0.01445
+UEFA Champions League,2017,Sevilla FC,76.03105,0.0113
+UEFA Champions League,2017,Liverpool,76.53266,0.01105
+UEFA Champions League,2017,Benfica,76.7048,0.0101
+UEFA Champions League,2017,FC Porto,73.76832,0.00645
+UEFA Champions League,2017,RB Leipzig,74.04153,0.0051
+UEFA Champions League,2017,Shakhtar Donetsk,72.9044,0.0045
+UEFA Champions League,2017,CSKA Moscow,70.40367,0.00325
+UEFA Champions League,2017,Sporting CP,69.60579,0.0015
+UEFA Champions League,2017,Besiktas,64.1676,0.00045
+UEFA Champions League,2017,Spartak Moscow,61.64359,0.00045
+UEFA Champions League,2017,Olympiacos,62.2974,0.00025
+UEFA Champions League,2017,Anderlecht,62.5276,0.0002
+UEFA Champions League,2017,Basel,61.23271,0.0002
+UEFA Champions League,2017,Feyenoord,58.85037,0.0001
+UEFA Champions League,2017,Celtic,64.04314,0.00005
+UEFA Champions League,2017,Apoel Nicosia,53.82887,0.00001
+UEFA Champions League,2017,NK Maribor,43.48716,0.00001
+UEFA Champions League,2017,FK Qarabag,39.65653,0.00001
+UEFA Champions League,2016,Bayern Munich,,0.2112
+UEFA Champions League,2016,Barcelona,,0.2014
+UEFA Champions League,2016,Real Madrid,,0.1095
+UEFA Champions League,2016,Manchester City,,0.0811
+UEFA Champions League,2016,Juventus,,0.0799
+UEFA Champions League,2016,Atletico Madrid,,0.0695
+UEFA Champions League,2016,Arsenal,,0.0529
+UEFA Champions League,2016,Borussia Dortmund,,0.0448
+UEFA Champions League,2016,Paris Saint-Germain,,0.0361
+UEFA Champions League,2016,Napoli,,0.0334
+UEFA Champions League,2016,Bayer Leverkusen,,0.0206
+UEFA Champions League,2016,Tottenham Hotspur,,0.0168
+UEFA Champions League,2016,Sevilla FC,,0.01
+UEFA Champions League,2016,Leicester City,,0.0099
+UEFA Champions League,2016,FC Porto,,0.0047
+UEFA Champions League,2016,AS Monaco,,0.004
+UEFA Champions League,2016,Borussia Monchengladbach,,0.0033
+UEFA Champions League,2016,Benfica,,0.003
+UEFA Champions League,2016,Dynamo Kiev,,0.0027
+UEFA Champions League,2016,Sporting CP,,0.0021
+UEFA Champions League,2016,Lyon,,0.0015
+UEFA Champions League,2016,Ludogorets,,0.0007
+UEFA Champions League,2016,Celtic,,0.0003
+UEFA Champions League,2016,PSV,,0.0003
+UEFA Champions League,2016,FC Copenhagen,,0.0002
+UEFA Champions League,2016,Dinamo Zagreb,,0.0001
+UEFA Champions League,2016,CSKA Moscow,,0.00001
+UEFA Champions League,2016,Basel,,0.00001
+UEFA Champions League,2016,Club Brugge,,0.00001
+UEFA Champions League,2016,Besiktas,,0.00001
+UEFA Champions League,2016,Legia Warsaw,,0.00001
+UEFA Champions League,2016,Rostov,,0.00001
